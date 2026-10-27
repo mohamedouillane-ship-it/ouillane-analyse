@@ -633,13 +633,20 @@
    "confirm": "OAT–Bund > 175 pb ; core PCE ≥ 0,3 %",
    "invalidate": "OAT–Bund < 150 pb ; core PCE ≤ 0,2 %",
    "simple": "Le dollar (6,0) est plus solide que l'euro (3,0) : la paire a plus de raisons de baisser que de monter.",
-   "trap": "Tout le monde vend déjà l'euro : un core PCE faible ou une détente sur la dette française peut le faire remonter brutalement.",
+   "trap": "Les spéculateurs institutionnels (COT) vendent déjà massivement l'euro : un core PCE faible ou une détente sur la dette française peut le faire remonter brutalement.",
    "lexicon": [
     [
      "Écart OAT–Bund",
      "Ce que la France paie en plus de l'Allemagne pour emprunter. Au-dessus de 175 pb l'euro souffre, sous 150 pb il respire."
     ]
-   ]
+   ],
+   "retail": {
+    "long": 82,
+    "short": 18,
+    "avgLong": "1,1420",
+    "avgShort": "1,1068",
+    "asOf": "26/10/2026 05:45 (heure serveur Myfxbook)"
+   }
   },
   {
    "symbol": "EURJPY",
@@ -668,7 +675,14 @@
      "Carry trade",
      "Emprunter en yen pour placer en euro. Quand les marchés paniquent, ces positions sont fermées et EURJPY baisse vite."
     ]
-   ]
+   ],
+   "retail": {
+    "long": 58,
+    "short": 42,
+    "avgLong": "179,3536",
+    "avgShort": "169,2647",
+    "asOf": "26/10/2026 05:45 (heure serveur Myfxbook)"
+   }
   },
   {
    "symbol": "AUDUSD",
@@ -697,7 +711,14 @@
      "Trimmed mean",
      "Inflation sous-jacente australienne, suivie par la RBA. Consensus : +1,0 % sur le trimestre."
     ]
-   ]
+   ],
+   "retail": {
+    "long": 36,
+    "short": 64,
+    "avgLong": "0,7069",
+    "avgShort": "0,6834",
+    "asOf": "26/10/2026 05:45 (heure serveur Myfxbook)"
+   }
   },
   {
    "symbol": "USDCHF",
@@ -726,7 +747,14 @@
      "Valeur refuge",
      "Devise achetée quand les marchés ont peur (CHF, JPY), même si elle ne rapporte rien."
     ]
-   ]
+   ],
+   "retail": {
+    "long": 57,
+    "short": 43,
+    "avgLong": "0,8424",
+    "avgShort": "0,8155",
+    "asOf": "26/10/2026 05:45 (heure serveur Myfxbook)"
+   }
   },
   {
    "symbol": "USDJPY",
@@ -755,7 +783,14 @@
      "Intervention",
      "Le Japon vend des dollars pour racheter du yen et le faire remonter. Dernière intervention conjointe fin juillet."
     ]
-   ]
+   ],
+   "retail": {
+    "long": 70,
+    "short": 30,
+    "avgLong": "158,5240",
+    "avgShort": "153,0729",
+    "asOf": "26/10/2026 05:45 (heure serveur Myfxbook)"
+   }
   },
   {
    "symbol": "GBPUSD",
@@ -784,7 +819,14 @@
      "Gilt",
      "Obligation d'État britannique. Un Gilt 10 ans au-dessus de 5,5 % signalerait une perte de confiance."
     ]
-   ]
+   ],
+   "retail": {
+    "long": 30,
+    "short": 70,
+    "avgLong": "1,3482",
+    "avgShort": "1,3171",
+    "asOf": "26/10/2026 05:45 (heure serveur Myfxbook)"
+   }
   },
   {
    "symbol": "USDCAD",
@@ -813,7 +855,14 @@
      "Décision binaire",
      "Annonce dont les deux issues possibles font partir le prix dans des sens opposés, sans scénario dominant."
     ]
-   ]
+   ],
+   "retail": {
+    "long": 42,
+    "short": 58,
+    "avgLong": "1,4103",
+    "avgShort": "1,3950",
+    "asOf": "26/10/2026 05:45 (heure serveur Myfxbook)"
+   }
   },
   {
    "symbol": "GBPJPY",
@@ -837,7 +886,14 @@
    "invalidate": "—",
    "simple": "Livre (5,0) et yen (5,5) sont presque à égalité : aucun écart fondamental exploitable.",
    "trap": "En cas de panique sur les marchés, le yen refuge l'emporte et la paire baisse vite.",
-   "lexicon": []
+   "lexicon": [],
+   "retail": {
+    "long": 69,
+    "short": 31,
+    "avgLong": "212,0198",
+    "avgShort": "203,3395",
+    "asOf": "26/10/2026 05:45 (heure serveur Myfxbook)"
+   }
   }
  ],
  "cross": [
@@ -861,7 +917,14 @@
    "confidence": "Faible",
    "confirm": "10 ans réel > 2,6 %, Fed ferme",
    "invalidate": "Escalade militaire, chute des taux réels",
-   "simple": "L'or ne joue pas son rôle de refuge : avec des taux réels élevés, il ne rapporte rien et perd face aux obligations."
+   "simple": "L'or ne joue pas son rôle de refuge : avec des taux réels élevés, il ne rapporte rien et perd face aux obligations.",
+   "retail": {
+    "long": 61,
+    "short": 39,
+    "avgLong": "4 296,28",
+    "avgShort": "3 917,02",
+    "asOf": "26/10/2026 05:45 (heure serveur Myfxbook)"
+   }
   },
   {
    "asset": "XAGUSD",
@@ -872,7 +935,14 @@
    "confidence": "Faible",
    "confirm": "Faiblesse de l'or, actions en baisse",
    "invalidate": "Rebond industriel chinois, or en hausse",
-   "simple": "L'argent suit l'or à la baisse, avec plus de violence. La Chine est son seul soutien."
+   "simple": "L'argent suit l'or à la baisse, avec plus de violence. La Chine est son seul soutien.",
+   "retail": {
+    "long": 63,
+    "short": 37,
+    "avgLong": "68,5257",
+    "avgShort": "53,8508",
+    "asOf": "26/10/2026 05:45 (heure serveur Myfxbook)"
+   }
   },
   {
    "asset": "USOIL",
@@ -1378,6 +1448,11 @@
    "title": "Alpha Vantage — EURUSD et GBPUSD hebdomadaires",
    "url": "https://www.alphavantage.co/",
    "date": "23/10/2026"
+  },
+  {
+   "title": "Myfxbook – Community Outlook (positionnement des traders particuliers)",
+   "url": "https://www.myfxbook.com/community/outlook",
+   "date": "26/10/2026"
   }
  ],
  "lexicon": [
@@ -1400,6 +1475,10 @@
   [
    "Risk-on / risk-off",
    "Marchés confiants (actions, AUD montent) ou inquiets (yen, franc, or montent)."
+  ],
+  [
+   "Sentiment retail",
+   "Part des traders particuliers à l'achat et à la vente (Myfxbook). Il se lit à contre-courant : quand 70 % ou plus sont du même côté, le prix part souvent dans l'autre sens. C'est une convention d'usage, pas une règle validée."
   ]
  ]
 }
