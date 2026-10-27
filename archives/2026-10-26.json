@@ -5,10 +5,35 @@
   "end": "2026-10-30",
   "label": "Semaine du 26 au 30 octobre 2026"
  },
- "generatedAt": "2026-10-25T21:45:00+01:00",
- "nextUpdate": "Lundi 26/10 vers 21h40",
+ "generatedAt": "2026-10-27T21:45:00+01:00",
+ "nextUpdate": "Demain vers 21h40",
  "archives": [],
- "updates": [],
+ "updates": [
+  {
+   "date": "27/10 21h40",
+   "text": "Sentiment retail USDJPY : les particuliers sont passés majoritairement vendeurs (52 % vendeurs, 48 % acheteurs), contre 70 % acheteurs le 26/10 (Myfxbook).",
+   "effect": "Changement de côté majoritaire chez les particuliers ; biais fondamental USDJPY inchangé (neutre).",
+   "tone": "wait"
+  },
+  {
+   "date": "27/10 21h40",
+   "text": "Sentiment retail USDCHF : les particuliers sont passés majoritairement vendeurs (54 % vendeurs, 46 % acheteurs), contre 57 % acheteurs le 26/10 (Myfxbook).",
+   "effect": "Changement de côté majoritaire chez les particuliers ; biais fondamental USDCHF inchangé.",
+   "tone": "wait"
+  },
+  {
+   "date": "27/10 21h40",
+   "text": "Sentiment retail or (XAUUSD) : les particuliers sont passés majoritairement vendeurs (54 % vendeurs, 46 % acheteurs), contre 61 % acheteurs le 26/10 (Myfxbook).",
+   "effect": "Changement de côté majoritaire chez les particuliers ; aucun biais fondamental modifié.",
+   "tone": "wait"
+  },
+  {
+   "date": "27/10 21h40",
+   "text": "Aucune annonce de la watchlist publiée aujourd'hui. Prochaine : CPI australien T3 mercredi 28/10 à 01h30.",
+   "effect": "Tous les biais restent en attente.",
+   "tone": "wait"
+  }
+ ],
  "regime": {
   "thesis": "Choc pétrolier et banques centrales qui remontent leurs taux : les devises se départagent par la fermeté de leur banque centrale et l'absence de stress budgétaire.",
   "stats": [
@@ -237,7 +262,7 @@
      "Devise sensible au moral des marchés : elle recule quand les actions IA chutent"
     ]
    ],
-   "week": "Le marché donne environ 50 % de chances à une hausse de la RBA le 3/11. Le CPI du trimestre (mercredi 28/10) tranchera.",
+   "week": "Le CPI du trimestre (mercredi 28/10, 01h30) tranchera. Hausse RBA du 3/11 pricée ≈ 66 % selon VT Markets (27/10, source unique), contre ≈ 50 % le 21/10 (XTB).",
    "mid": "Soutenue tant que la RBA ne parle pas de baisse et que la Chine tient (PIB T3 4,5 %).",
    "lexicon": [
     [
@@ -307,7 +332,7 @@
      "Hausse de décembre déjà largement intégrée : peu de bonne surprise possible"
     ]
    ],
-   "week": "Core PCE mercredi 29/10 : ≥ 0,3 % renforce le dollar, ≤ 0,2 % le fait reculer. Fed attendue en pause le 28/10.",
+   "week": "Fed mercredi 28/10 à 19h00 : pause attendue. Core PCE jeudi 29/10 à 13h30 : ≥ 0,3 % renforce le dollar, ≤ 0,2 % le fait reculer.",
    "mid": "Légèrement fort tant que l'inflation reste au-dessus de 3 %. Risque : l'emploi du 6/11.",
    "lexicon": [
     [
@@ -427,7 +452,7 @@
      "Hausse du 5/11 pricée à plus de 90 % : la confirmation n'apportera presque rien, une surprise négative ferait mal"
     ]
    ],
-   "week": "Budget mardi 28/10 : c'est l'événement qui décide. BoE le 5/11.",
+   "week": "Budget mercredi 28/10 (heure non confirmée) : c'est l'événement qui décide. BoE le 5/11.",
    "mid": "Neutre tant que le budget n'a pas été digéré.",
    "lexicon": [
     [
@@ -481,7 +506,7 @@
      "Décision BoC du 28/10 incertaine : les sources se contredisent, le marché n'a pas de scénario clair"
     ]
    ],
-   "week": "BoC mardi 28/10 : une hausse ferait monter le CAD, un maintien accommodant le ferait baisser.",
+   "week": "BoC mercredi 28/10 à 14h45 : une hausse ferait monter le CAD, un maintien accommodant le ferait baisser.",
    "mid": "Neutre : pétrole et emploi s'annulent.",
    "lexicon": [
     [
@@ -641,12 +666,13 @@
     ]
    ],
    "retail": {
-    "long": 82,
-    "short": 18,
-    "avgLong": "1,1420",
-    "avgShort": "1,1068",
-    "asOf": "26/10/2026 05:45 (heure serveur Myfxbook)"
-   }
+    "long": 87,
+    "short": 13,
+    "avgLong": "1,1371",
+    "avgShort": "1,0981",
+    "asOf": "27/10/2026 21h40 (relevé Myfxbook)"
+   },
+   "statusNote": "Aucune condition franchie : core PCE (jeudi 29/10) et BCE (jeudi 29/10) pas encore publiés."
   },
   {
    "symbol": "EURJPY",
@@ -677,12 +703,13 @@
     ]
    ],
    "retail": {
-    "long": 58,
-    "short": 42,
-    "avgLong": "179,3536",
-    "avgShort": "169,2647",
-    "asOf": "26/10/2026 05:45 (heure serveur Myfxbook)"
-   }
+    "long": 59,
+    "short": 41,
+    "avgLong": "179,3357",
+    "avgShort": "169,1349",
+    "asOf": "27/10/2026 21h40 (relevé Myfxbook)"
+   },
+   "statusNote": "Aucune condition franchie : BCE jeudi 29/10 et BoJ vendredi 30/10 pas encore publiées."
   },
   {
    "symbol": "AUDUSD",
@@ -695,7 +722,7 @@
    "driver": "RBA restrictive + positionnement vendeur extrême",
    "secondary": "Chine, appétit pour le risque",
    "past": "CPI août 4,0 %, trimmed mean 3,6 %. AUDUSD à 0,7006.",
-   "expect": "Hausse RBA du 3/11 ≈ 50 %. Consensus trimmed mean T3 : +1,0 % t/t.",
+   "expect": "CPI T3 mercredi 28/10 à 01h30, consensus trimmed mean +1,0 % t/t. Hausse RBA du 3/11 ≈ 66 % (VT Markets, 27/10, source unique).",
    "mid": "Haussier, conditionné au CPI de mercredi.",
    "scenarios": {
     "bull": "CPI > consensus → hausse RBA quasi pricée",
@@ -713,12 +740,13 @@
     ]
    ],
    "retail": {
-    "long": 36,
-    "short": 64,
-    "avgLong": "0,7069",
-    "avgShort": "0,6834",
-    "asOf": "26/10/2026 05:45 (heure serveur Myfxbook)"
-   }
+    "long": 35,
+    "short": 65,
+    "avgLong": "0,7070",
+    "avgShort": "0,6840",
+    "asOf": "27/10/2026 21h40 (relevé Myfxbook)"
+   },
+   "statusNote": "En attente du CPI T3 australien, publié mercredi 28/10 à 01h30."
   },
   {
    "symbol": "USDCHF",
@@ -749,12 +777,13 @@
     ]
    ],
    "retail": {
-    "long": 57,
-    "short": 43,
-    "avgLong": "0,8424",
-    "avgShort": "0,8155",
-    "asOf": "26/10/2026 05:45 (heure serveur Myfxbook)"
-   }
+    "long": 46,
+    "short": 54,
+    "avgLong": "0,8472",
+    "avgShort": "0,8172",
+    "asOf": "27/10/2026 21h40 (relevé Myfxbook)"
+   },
+   "statusNote": "Aucune condition franchie : décision Fed mercredi 28/10 à 19h00 pas encore publiée."
   },
   {
    "symbol": "USDJPY",
@@ -785,12 +814,13 @@
     ]
    ],
    "retail": {
-    "long": 70,
-    "short": 30,
-    "avgLong": "158,5240",
-    "avgShort": "153,0729",
-    "asOf": "26/10/2026 05:45 (heure serveur Myfxbook)"
-   }
+    "long": 48,
+    "short": 52,
+    "avgLong": "158,9953",
+    "avgShort": "155,0615",
+    "asOf": "27/10/2026 21h40 (relevé Myfxbook)"
+   },
+   "statusNote": "Aucune condition franchie : Fed mercredi 28/10 et BoJ vendredi 30/10 pas encore publiées."
   },
   {
    "symbol": "GBPUSD",
@@ -803,7 +833,7 @@
    "driver": "Hausse BoE pricée contre budget du 28/10",
    "secondary": "Fuite des actifs français vers les Gilts",
    "past": "CPI 3,5 %, services 3,7 %. Gilt 10 ans 5,37 %.",
-   "expect": "Hausse BoE du 5/11 > 90 %.",
+   "expect": "Budget britannique mercredi 28/10, puis Fed à 19h00. Hausse BoE du 5/11 > 90 %.",
    "mid": "Neutre, conflit de moteurs.",
    "scenarios": {
     "bull": "Budget crédible + hausse BoE confirmée",
@@ -821,12 +851,13 @@
     ]
    ],
    "retail": {
-    "long": 30,
-    "short": 70,
-    "avgLong": "1,3482",
-    "avgShort": "1,3171",
-    "asOf": "26/10/2026 05:45 (heure serveur Myfxbook)"
-   }
+    "long": 41,
+    "short": 59,
+    "avgLong": "1,3456",
+    "avgShort": "1,3146",
+    "asOf": "27/10/2026 21h40 (relevé Myfxbook)"
+   },
+   "statusNote": "En attente du budget britannique (mercredi 28/10, heure non confirmée) et de la Fed."
   },
   {
    "symbol": "USDCAD",
@@ -839,7 +870,7 @@
    "driver": "Pétrole > 100 $ contre emploi canadien en chute",
    "secondary": "Fed",
    "past": "CPI 3,1 % (attendu 3,2 %), −68 000 emplois.",
-   "expect": "BoC partagée entre maintien et hausse.",
+   "expect": "BoC mercredi 28/10 à 14h45, partagée entre maintien et hausse.",
    "mid": "Neutre.",
    "scenarios": {
     "bull": "BoC maintient sur ton accommodant",
@@ -859,10 +890,11 @@
    "retail": {
     "long": 42,
     "short": 58,
-    "avgLong": "1,4103",
-    "avgShort": "1,3950",
-    "asOf": "26/10/2026 05:45 (heure serveur Myfxbook)"
-   }
+    "avgLong": "1,4098",
+    "avgShort": "1,3958",
+    "asOf": "27/10/2026 21h40 (relevé Myfxbook)"
+   },
+   "statusNote": "En attente de la décision de la Banque du Canada, mercredi 28/10 à 14h45."
   },
   {
    "symbol": "GBPJPY",
@@ -888,12 +920,13 @@
    "trap": "En cas de panique sur les marchés, le yen refuge l'emporte et la paire baisse vite.",
    "lexicon": [],
    "retail": {
-    "long": 69,
-    "short": 31,
-    "avgLong": "212,0198",
-    "avgShort": "203,3395",
-    "asOf": "26/10/2026 05:45 (heure serveur Myfxbook)"
-   }
+    "long": 63,
+    "short": 37,
+    "avgLong": "212,1007",
+    "avgShort": "203,5771",
+    "asOf": "27/10/2026 21h40 (relevé Myfxbook)"
+   },
+   "statusNote": "En attente du budget britannique (mercredi 28/10) et de la BoJ (vendredi 30/10)."
   }
  ],
  "cross": [
@@ -919,11 +952,11 @@
    "invalidate": "Escalade militaire, chute des taux réels",
    "simple": "L'or ne joue pas son rôle de refuge : avec des taux réels élevés, il ne rapporte rien et perd face aux obligations.",
    "retail": {
-    "long": 61,
-    "short": 39,
-    "avgLong": "4 296,28",
-    "avgShort": "3 917,02",
-    "asOf": "26/10/2026 05:45 (heure serveur Myfxbook)"
+    "long": 46,
+    "short": 54,
+    "avgLong": "4 326,69",
+    "avgShort": "3 956,26",
+    "asOf": "27/10/2026 21h40 (relevé Myfxbook)"
    }
   },
   {
@@ -937,11 +970,11 @@
    "invalidate": "Rebond industriel chinois, or en hausse",
    "simple": "L'argent suit l'or à la baisse, avec plus de violence. La Chine est son seul soutien.",
    "retail": {
-    "long": 63,
-    "short": 37,
-    "avgLong": "68,5257",
-    "avgShort": "53,8508",
-    "asOf": "26/10/2026 05:45 (heure serveur Myfxbook)"
+    "long": 61,
+    "short": 39,
+    "avgLong": "67,6101",
+    "avgShort": "53,5514",
+    "asOf": "27/10/2026 21h40 (relevé Myfxbook)"
    }
   },
   {
@@ -1458,7 +1491,7 @@
   {
    "title": "Myfxbook – Community Outlook (positionnement des traders particuliers)",
    "url": "https://www.myfxbook.com/community/outlook",
-   "date": "26/10/2026"
+   "date": "27/10/2026"
   },
   {
    "title": "investingLive – Australia CPI preview (prévisions des 4 grandes banques)",
