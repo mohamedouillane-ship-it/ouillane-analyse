@@ -1001,26 +1001,32 @@
    "exclusion": false,
    "pairs": "AUDUSD",
    "status": "upcoming",
-   "forecast": "Trimmed mean +1,0 % t/t (3,6 % a/a) ; total +1,3 % t/t",
-   "previous": "Trimmed mean T2 +0,8 % t/t ; août 4,0 %",
-   "votes": "Sans objet",
-   "priced": "Hausse RBA du 3/11 ≈ 50 %",
+   "forecast": "Trimmed mean +1,0 % t/t, 3,6 % a/a (CBA, NAB, ANZ ; Westpac 0,9 %) ; total +1,2 à 1,3 % t/t, 3,9 % a/a. Prévision RBA d'août : 0,8 % t/t",
+   "previous": "Août (mensuel) : 4,0 % a/a, trimmed mean 3,6 %",
+   "votes": "Sans objet (publication statistique). Banques : ANZ et Westpac attendent une hausse le 3/11, CBA et NAB un maintien",
+   "priced": "Hausse RBA du 3/11 ≈ 66 % (VT Markets, 27/10 ; source unique) ; ≈ 50 % le 21/10 (XTB)",
    "scenarios": [
     [
-     "Supérieur",
-     "Hausse RBA quasi pricée",
+     "Trimmed mean ≥ 1,1 % t/t",
+     "Au-dessus du consensus : hausse du 3/11 proche de 100 %",
      "Confirme AUDUSD haussier",
      "ok"
     ],
     [
-     "Conforme",
-     "Pricing stable",
-     "Biais AUD maintenu",
+     "Trimmed mean 1,0 %",
+     "Conforme, déjà largement pricé",
+     "Biais maintenu, réaction limitée possible",
      "wait"
     ],
     [
-     "Inférieur",
-     "Hausse RBA repoussée",
+     "Trimmed mean 0,9 %",
+     "Légère déception, mais au-dessus des 0,8 % de la RBA",
+     "Pricing réduit, biais AUD fragilisé",
+     "wait"
+    ],
+    [
+     "Trimmed mean ≤ 0,8 %",
+     "Conforme à la RBA : hausse repoussée",
      "Invalide AUDUSD haussier",
      "ko"
     ]
@@ -1453,6 +1459,26 @@
    "title": "Myfxbook – Community Outlook (positionnement des traders particuliers)",
    "url": "https://www.myfxbook.com/community/outlook",
    "date": "26/10/2026"
+  },
+  {
+   "title": "investingLive – Australia CPI preview (prévisions des 4 grandes banques)",
+   "url": "https://investinglive.com/news/australia-cpi-preview-banks-see-1-0-core-rise-above-the-rba-s-0-8-forecast/",
+   "date": "26/10/2026"
+  },
+  {
+   "title": "Aussie – Prévisions des experts pour la RBA de novembre",
+   "url": "https://www.aussie.com.au/insights/news/expert-predictions-rba-rates/",
+   "date": "26/10/2026"
+  },
+  {
+   "title": "VT Markets – AUDUSD avant le CPI (pricing 66 %)",
+   "url": "https://www.vtmarkets.com/en-asia/analysis/audusd-holds-near-0-7020-ahead-of-cpi-data/",
+   "date": "27/10/2026"
+  },
+  {
+   "title": "XTB – La RBA durcit le ton, repricing de novembre",
+   "url": "https://www.xtb.com/int/market-analysis/news-and-research/rba-turns-increasingly-hawkish-as-markets-reprice-november-rate-hike-expectations",
+   "date": "21/10/2026"
   }
  ],
  "lexicon": [
