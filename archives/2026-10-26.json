@@ -10,6 +10,12 @@
  "archives": [],
  "updates": [
   {
+   "date": "28/10 01h30",
+   "text": "CPI Australie T3 : sous-jacent (trimmed mean) +1,0 % sur le trimestre, exactement le consensus et au-dessus des 0,8 % prévus par la RBA. Inflation de septembre 4,3 % sur un an (attendu 4,2 %), poussée par le carburant et le logement. AUDUSD quasi inchangé (0,7036).",
+   "effect": "AUDUSD haussier maintenu, en attente de la RBA du 3/11",
+   "tone": "wait"
+  },
+  {
    "date": "27/10 21h40",
    "text": "Sentiment retail USDJPY : les particuliers sont passés majoritairement vendeurs (52 % vendeurs, 48 % acheteurs), contre 70 % acheteurs le 26/10 (Myfxbook).",
    "effect": "Changement de côté majoritaire chez les particuliers ; biais fondamental USDJPY inchangé (neutre).",
@@ -721,7 +727,7 @@
    "status": "pending",
    "driver": "RBA restrictive + positionnement vendeur extrême",
    "secondary": "Chine, appétit pour le risque",
-   "past": "CPI août 4,0 %, trimmed mean 3,6 %. AUDUSD à 0,7006.",
+   "past": "CPI T3 publié le 28/10 : trimmed mean +1,0 % t/t (conforme), CPI septembre 4,3 % a/a. AUDUSD ≈ 0,7036.",
    "expect": "CPI T3 mercredi 28/10 à 01h30, consensus trimmed mean +1,0 % t/t. Hausse RBA du 3/11 ≈ 66 % (VT Markets, 27/10, source unique).",
    "mid": "Haussier, conditionné au CPI de mercredi.",
    "scenarios": {
@@ -746,7 +752,7 @@
     "avgShort": "0,6840",
     "asOf": "27/10/2026 21h40 (relevé Myfxbook)"
    },
-   "statusNote": "En attente du CPI T3 australien, publié mercredi 28/10 à 01h30."
+   "statusNote": "CPI conforme (trimmed mean 1,0 % t/t) : le biais haussier tient mais n'est pas renforcé. Prochain test : décision RBA du 3/11."
   },
   {
    "symbol": "USDCHF",
@@ -1033,7 +1039,7 @@
    "title": "CPI Australie T3",
    "exclusion": false,
    "pairs": "AUDUSD",
-   "status": "upcoming",
+   "status": "published",
    "forecast": "Trimmed mean +1,0 % t/t, 3,6 % a/a (CBA, NAB, ANZ ; Westpac 0,9 %) ; total +1,2 à 1,3 % t/t, 3,9 % a/a. Prévision RBA d'août : 0,8 % t/t",
    "previous": "Août (mensuel) : 4,0 % a/a, trimmed mean 3,6 %",
    "votes": "Sans objet (publication statistique). Banques : ANZ et Westpac attendent une hausse le 3/11, CBA et NAB un maintien",
@@ -1064,7 +1070,14 @@
      "ko"
     ]
    ],
-   "result": null
+   "result": {
+    "actual": "Trimmed mean T3 +1,0 % t/t (consensus 1,0 %, prévision RBA 0,8 %) ; CPI T3 +1,3 % t/t (consensus 1,2–1,3 %) ; CPI mensuel septembre 4,3 % a/a (attendu 4,2 %, août 4,0 %) ; trimmed mean mensuel 3,6 % a/a selon l'ABS (investingLive titre 3,7 % : écart non résolu)",
+    "priced": "Avant : hausse du 3/11 ≈ 66 % (VT Markets, 27/10). Après : non confirmé",
+    "reaction": "AUDUSD 0,7032 (20h06 UTC le 27/10) → 0,7036 (01h01 UTC le 28/10) : réaction quasi nulle 30 minutes après la publication",
+    "impact": "Sous-jacent conforme au consensus et au-dessus de la RBA : rien ne remet en cause le scénario de hausse, mais rien ne l'ajoute non plus puisque c'était déjà pricé. Le carburant (+9,4 % sur le mois) gonfle l'inflation totale mais est exclu du trimmed mean.",
+    "effect": "Biais AUDUSD maintenu",
+    "tone": "wait"
+   }
   },
   {
    "when": "Mer. 28/10, 14h45",
@@ -1512,6 +1525,16 @@
    "title": "XTB – La RBA durcit le ton, repricing de novembre",
    "url": "https://www.xtb.com/int/market-analysis/news-and-research/rba-turns-increasingly-hawkish-as-markets-reprice-november-rate-hike-expectations",
    "date": "21/10/2026"
+  },
+  {
+   "title": "ABS – CPI rose 4.3% in the year to September 2026",
+   "url": "https://www.abs.gov.au/media-centre/media-releases/cpi-rose-43-year-september-2026",
+   "date": "28/10/2026"
+  },
+  {
+   "title": "investingLive – Australian September core inflation (trimmed mean)",
+   "url": "https://investinglive.com/news/australian-september-core-inflation-trimmed-mean-3-7-y-y-expected-3-6/",
+   "date": "28/10/2026"
   }
  ],
  "lexicon": [
