@@ -5,10 +5,34 @@
   "end": "2026-10-30",
   "label": "Semaine du 26 au 30 octobre 2026"
  },
- "generatedAt": "2026-10-27T21:45:00+01:00",
+ "generatedAt": "2026-10-28T21:45:00+01:00",
  "nextUpdate": "Demain vers 21h40",
  "archives": [],
  "updates": [
+  {
+   "date": "28/10 19h00",
+   "text": "Fed : taux maintenus à 3,75–4,00 %, comme prévu. Vote 10–2 : Lisa Cook et Beth Hammack voulaient déjà monter de 0,25 point. Le communiqué répète que l'inflation reste élevée. Propos de Warsh en conférence : non confirmés.",
+   "effect": "Biais USD inchangé (légèrement fort) ; décembre reste ouvert à une hausse, le core PCE de demain 13h30 décide.",
+   "tone": "wait"
+  },
+  {
+   "date": "28/10 14h45",
+   "text": "Banque du Canada : hausse surprise pour les économistes, de 2,25 % à 2,50 %. Elle prévoit une inflation vers 3½ % en fin d'année et dit qu'une nouvelle hausse pourrait être nécessaire. USDCAD quasi inchangé vers 1,4040.",
+   "effect": "Condition de confirmation du CAD franchie : CAD passe de neutre (5) à légèrement ferme (6). USDCAD confirmé côté fondamental, sans mouvement de prix pour l'instant.",
+   "tone": "ok"
+  },
+  {
+   "date": "28/10 heure non confirmée",
+   "text": "Budget britannique (John Healey) : pas de dépense non financée, marge budgétaire 14,5 Md£, émission de Gilts 250,6 Md£ (attendu 249,2). Gilt 10 ans 5,31 %, livre peu changée.",
+   "effect": "Aucun seuil franchi (confirmation < 5,30 %, invalidation > 5,5 %) : GBPUSD et GBPJPY restent en attente.",
+   "tone": "wait"
+  },
+  {
+   "date": "28/10 21h40",
+   "text": "Sentiment retail : la page Myfxbook lue ce soir affichait des données manifestement anciennes (or à 3 349 $ contre plus de 4 000 $ sur le marché). Chiffres rejetés, sentiment retail non confirmé ce soir.",
+   "effect": "Pas de lecture retail pour aujourd'hui ; biais fondamentaux non affectés.",
+   "tone": "wait"
+  },
   {
    "date": "28/10 01h30",
    "text": "CPI Australie T3 : sous-jacent (trimmed mean) +1,0 % sur le trimestre, exactement le consensus et au-dessus des 0,8 % prévus par la RBA. Inflation de septembre 4,3 % sur un an (attendu 4,2 %), poussée par le carburant et le logement. AUDUSD quasi inchangé (0,7036).",
@@ -286,7 +310,7 @@
    "details": [
     [
      "Banque centrale",
-     "Fed 3,75–4,00 % depuis le 16/09 (vote 12–0) ; Warsh sans guidance"
+     "Fed 3,75–4,00 % maintenus le 28/10 (vote 10–2, Cook et Hammack pour une hausse)"
     ],
     [
      "Inflation",
@@ -306,7 +330,7 @@
     ],
     [
      "Pricé",
-     "Hausse en octobre 9,6 % (OIS 24/10) ; décembre largement intégré"
+     "Hausse en décembre environ 84 % (CME FedWatch avant la décision)"
     ],
     [
      "Politique",
@@ -338,7 +362,7 @@
      "Hausse de décembre déjà largement intégrée : peu de bonne surprise possible"
     ]
    ],
-   "week": "Fed mercredi 28/10 à 19h00 : pause attendue. Core PCE jeudi 29/10 à 13h30 : ≥ 0,3 % renforce le dollar, ≤ 0,2 % le fait reculer.",
+   "week": "Fed passée : maintien, deux voix pour une hausse. Core PCE jeudi 29/10 à 13h30 : ≥ 0,3 % m/m renforce le dollar, ≤ 0,2 % le fait reculer. Emploi le 6/11.",
    "mid": "Légèrement fort tant que l'inflation reste au-dessus de 3 %. Risque : l'emploi du 6/11.",
    "lexicon": [
     [
@@ -434,7 +458,7 @@
     ],
     [
      "Budget",
-     "Présenté le 28/10 ; emprunts publics au-dessus des attentes"
+     "Présenté le 28/10 : marge 14,5 Md£, déficit 4,2 % du PIB, Gilts 250,6 Md£ ; accueil calme"
     ],
     [
      "Positionnement",
@@ -458,8 +482,8 @@
      "Hausse du 5/11 pricée à plus de 90 % : la confirmation n'apportera presque rien, une surprise négative ferait mal"
     ]
    ],
-   "week": "Budget mercredi 28/10 (heure non confirmée) : c'est l'événement qui décide. BoE le 5/11.",
-   "mid": "Neutre tant que le budget n'a pas été digéré.",
+   "week": "Budget passé sans choc (Gilt 10 ans 5,31 %, livre peu changée). Prochain test : BoE le 5/11, hausse à 4,00 % pricée à plus de 90 %.",
+   "mid": "Neutre : budget digéré sans choc, la BoE redevient le moteur.",
    "lexicon": [
     [
      "Gilt",
@@ -469,18 +493,18 @@
   },
   {
    "code": "CAD",
-   "score": 5.0,
-   "direction": "Neutre",
+   "score": 6.0,
+   "direction": "Légèrement forte",
    "confidence": "Faible",
-   "reason": "Pétrole > 100 $ contre pertes d'emplois et BoC incertaine",
+   "reason": "BoC a relevé son taux à 2,50 % et n'exclut pas d'autres hausses, mais emploi faible et prudence affichée",
    "details": [
     [
      "Banque centrale",
-     "BoC 2,25 % depuis octobre 2025 ; décision le 28/10"
+     "BoC 2,50 % depuis le 28/10 (+0,25 point) ; prochaine décision le 9/12"
     ],
     [
      "Inflation",
-     "CPI 3,1 % (attendu 3,2 %), sous-jacente proche de 2 %"
+     "CPI 3,1 % (attendu 3,2 %), sous-jacente proche de 2 % ; BoC voit 3½ % fin 2026"
     ],
     [
      "Emploi",
@@ -492,32 +516,40 @@
     ],
     [
      "Pricé",
-     "Sources en conflit : maintien selon les économistes, hausse à 64 % sur un marché de prédiction ; OIS non confirmé"
+     "Hausse du 28/10 déjà intégrée selon XTB ; pricing de décembre non confirmé"
     ]
    ],
-   "confirm": "Hausse de la BoC ou rapport très restrictif",
-   "invalidate": "Maintien accommodant et croissance révisée en baisse",
-   "simple": "Le pétrole cher aide le Canada, mais son marché du travail s'effondre : la BoC est coincée.",
+   "confirm": "Nouvelle hausse signalée par la BoC ou inflation canadienne au-dessus de 3½ %",
+   "invalidate": "BoC qui ferme la porte à d'autres hausses ou nouvelle forte baisse de l'emploi",
+   "simple": "La Banque du Canada a monté son taux à 2,50 % pour empêcher la hausse de l'énergie de se diffuser aux autres prix ; elle dit qu'une autre hausse est possible, sans la promettre.",
    "forces": [
+    [
+     "up",
+     "BoC à 2,50 % (+0,25 point le 28/10) : « il pourrait être nécessaire d'augmenter encore le taux directeur »"
+    ],
     [
      "up",
      "WTI au-dessus de 100 $ : le Canada exporte du pétrole, ses recettes montent"
     ],
     [
      "down",
-     "−68 000 emplois en septembre, chômage 6,5 %"
+     "−68 000 emplois en septembre, chômage autour de 6½ %"
     ],
     [
      "risk",
-     "Décision BoC du 28/10 incertaine : les sources se contredisent, le marché n'a pas de scénario clair"
+     "Croissance attendue en ralentissement au T4 à cause des droits de douane américains (BoC)"
     ]
    ],
-   "week": "BoC mercredi 28/10 à 14h45 : une hausse ferait monter le CAD, un maintien accommodant le ferait baisser.",
-   "mid": "Neutre : pétrole et emploi s'annulent.",
+   "week": "Hausse BoC passée (2,50 %). Reste la Fed (déjà publiée) et le core PCE US jeudi 29/10 à 13h30 pour le côté USD de USDCAD. Prochaine BoC le 9/12.",
+   "mid": "Légèrement ferme tant que l'inflation canadienne reste autour de 3 % ; l'emploi est le principal risque.",
    "lexicon": [
     [
      "Termes de l'échange",
      "Prix de ce qu'un pays exporte comparé à ce qu'il importe. Pour le Canada, ils suivent surtout le pétrole."
+    ],
+    [
+     "Hausse défensive",
+     "Hausse de taux décidée pour empêcher un choc (ici l'énergie) de se propager, sans annoncer une série de hausses."
     ]
    ]
   },
@@ -671,13 +703,7 @@
      "Ce que la France paie en plus de l'Allemagne pour emprunter. Au-dessus de 175 pb l'euro souffre, sous 150 pb il respire."
     ]
    ],
-   "retail": {
-    "long": 87,
-    "short": 13,
-    "avgLong": "1,1371",
-    "avgShort": "1,0981",
-    "asOf": "27/10/2026 21h40 (relevé Myfxbook)"
-   },
+   "retail": null,
    "statusNote": "Aucune condition franchie : core PCE (jeudi 29/10) et BCE (jeudi 29/10) pas encore publiés."
   },
   {
@@ -708,13 +734,7 @@
      "Emprunter en yen pour placer en euro. Quand les marchés paniquent, ces positions sont fermées et EURJPY baisse vite."
     ]
    ],
-   "retail": {
-    "long": 59,
-    "short": 41,
-    "avgLong": "179,3357",
-    "avgShort": "169,1349",
-    "asOf": "27/10/2026 21h40 (relevé Myfxbook)"
-   },
+   "retail": null,
    "statusNote": "Aucune condition franchie : BCE jeudi 29/10 et BoJ vendredi 30/10 pas encore publiées."
   },
   {
@@ -745,13 +765,7 @@
      "Inflation sous-jacente australienne, suivie par la RBA. Consensus : +1,0 % sur le trimestre."
     ]
    ],
-   "retail": {
-    "long": 35,
-    "short": 65,
-    "avgLong": "0,7070",
-    "avgShort": "0,6840",
-    "asOf": "27/10/2026 21h40 (relevé Myfxbook)"
-   },
+   "retail": null,
    "statusNote": "CPI conforme (trimmed mean 1,0 % t/t) : le biais haussier tient mais n'est pas renforcé. Prochain test : décision RBA du 3/11."
   },
   {
@@ -782,14 +796,8 @@
      "Devise achetée quand les marchés ont peur (CHF, JPY), même si elle ne rapporte rien."
     ]
    ],
-   "retail": {
-    "long": 46,
-    "short": 54,
-    "avgLong": "0,8472",
-    "avgShort": "0,8172",
-    "asOf": "27/10/2026 21h40 (relevé Myfxbook)"
-   },
-   "statusNote": "Aucune condition franchie : décision Fed mercredi 28/10 à 19h00 pas encore publiée."
+   "retail": null,
+   "statusNote": "Aucune condition franchie : Fed maintenue (10–2) comme attendu ; prochain test le core PCE jeudi 29/10 à 13h30."
   },
   {
    "symbol": "USDJPY",
@@ -819,14 +827,8 @@
      "Le Japon vend des dollars pour racheter du yen et le faire remonter. Dernière intervention conjointe fin juillet."
     ]
    ],
-   "retail": {
-    "long": 48,
-    "short": 52,
-    "avgLong": "158,9953",
-    "avgShort": "155,0615",
-    "asOf": "27/10/2026 21h40 (relevé Myfxbook)"
-   },
-   "statusNote": "Aucune condition franchie : Fed mercredi 28/10 et BoJ vendredi 30/10 pas encore publiées."
+   "retail": null,
+   "statusNote": "Aucune condition franchie : Fed maintenue comme attendu ; BoJ vendredi 30/10 vers 04h00."
   },
   {
    "symbol": "GBPUSD",
@@ -838,8 +840,8 @@
    "status": "pending",
    "driver": "Hausse BoE pricée contre budget du 28/10",
    "secondary": "Fuite des actifs français vers les Gilts",
-   "past": "CPI 3,5 %, services 3,7 %. Gilt 10 ans 5,37 %.",
-   "expect": "Budget britannique mercredi 28/10, puis Fed à 19h00. Hausse BoE du 5/11 > 90 %.",
+   "past": "Budget du 28/10 sans choc : marge 14,5 Md£, Gilt 10 ans 5,31 %, livre peu changée. Fed maintenue, vote 10–2.",
+   "expect": "Core PCE US jeudi 29/10 à 13h30, puis BoE le 5/11 (hausse à 4,00 % pricée à plus de 90 %).",
    "mid": "Neutre, conflit de moteurs.",
    "scenarios": {
     "bull": "Budget crédible + hausse BoE confirmée",
@@ -856,27 +858,21 @@
      "Obligation d'État britannique. Un Gilt 10 ans au-dessus de 5,5 % signalerait une perte de confiance."
     ]
    ],
-   "retail": {
-    "long": 41,
-    "short": 59,
-    "avgLong": "1,3456",
-    "avgShort": "1,3146",
-    "asOf": "27/10/2026 21h40 (relevé Myfxbook)"
-   },
-   "statusNote": "En attente du budget britannique (mercredi 28/10, heure non confirmée) et de la Fed."
+   "retail": null,
+   "statusNote": "Aucune condition franchie : Gilt 10 ans à 5,31 % après le budget, juste au-dessus du seuil de confirmation (5,30 %) et loin de l'invalidation (5,5 %)."
   },
   {
    "symbol": "USDCAD",
-   "dominant": "Conflit",
-   "bias10": "Neutre, décision BoC binaire",
+   "dominant": "CAD",
+   "bias10": "Neutre à légèrement baissier : hausse BoC, mais dollar aussi ferme",
    "bias3m": "Neutre",
    "kind": "flat",
    "confidence": "Faible",
-   "status": "pending",
-   "driver": "Pétrole > 100 $ contre emploi canadien en chute",
+   "status": "confirmed",
+   "driver": "Hausse BoC à 2,50 % contre Fed ferme (10–2)",
    "secondary": "Fed",
-   "past": "CPI 3,1 % (attendu 3,2 %), −68 000 emplois.",
-   "expect": "BoC mercredi 28/10 à 14h45, partagée entre maintien et hausse.",
+   "past": "BoC +0,25 point à 2,50 % le 28/10, porte ouverte à d'autres hausses. Fed maintenue à 3,75–4,00 %, deux voix pour une hausse.",
+   "expect": "Core PCE US jeudi 29/10 à 13h30 ; emploi canadien et américain début novembre ; BoC le 9/12.",
    "mid": "Neutre.",
    "scenarios": {
     "bull": "BoC maintient sur ton accommodant",
@@ -885,22 +881,16 @@
    },
    "confirm": "Hausse BoC → USDCAD en baisse",
    "invalidate": "Maintien accommodant → USDCAD en hausse",
-   "simple": "Pétrole cher contre emploi canadien en chute : tout dépend de la BoC mardi.",
-   "trap": "Ne pas se positionner avant la décision : les sources se contredisent sur ce que le marché attend.",
+   "simple": "La BoC a monté son taux, ce qui soutient le dollar canadien, mais la Fed reste ferme elle aussi : l'écart de taux bouge peu et la paire n'a presque pas réagi.",
+   "trap": "Spéculateurs institutionnels (COT) : positionnement CAD non confirmé cette semaine. Traders particuliers (retail) : relevé Myfxbook du 28/10 non confirmé. Piège : croire que la hausse fera forcément baisser USDCAD alors qu'elle était déjà intégrée et que la Fed reste ferme.",
    "lexicon": [
     [
      "Décision binaire",
      "Annonce dont les deux issues possibles font partir le prix dans des sens opposés, sans scénario dominant."
     ]
    ],
-   "retail": {
-    "long": 42,
-    "short": 58,
-    "avgLong": "1,4098",
-    "avgShort": "1,3958",
-    "asOf": "27/10/2026 21h40 (relevé Myfxbook)"
-   },
-   "statusNote": "En attente de la décision de la Banque du Canada, mercredi 28/10 à 14h45."
+   "retail": null,
+   "statusNote": "Condition franchie : la BoC a relevé son taux à 2,50 %. USDCAD est resté quasi inchangé vers 1,4040, la baisse n'est donc pas encore visible dans le prix."
   },
   {
    "symbol": "GBPJPY",
@@ -913,7 +903,7 @@
    "driver": "Deux devises notées 5,0 et 5,5",
    "secondary": "Risk-off",
    "past": "—",
-   "expect": "BoE et BoJ attendues restrictives.",
+   "expect": "BoJ vendredi 30/10 vers 04h00, puis BoE le 5/11.",
    "mid": "Neutre.",
    "scenarios": {
     "bull": "Budget crédible + calme",
@@ -925,14 +915,8 @@
    "simple": "Livre (5,0) et yen (5,5) sont presque à égalité : aucun écart fondamental exploitable.",
    "trap": "En cas de panique sur les marchés, le yen refuge l'emporte et la paire baisse vite.",
    "lexicon": [],
-   "retail": {
-    "long": 63,
-    "short": 37,
-    "avgLong": "212,1007",
-    "avgShort": "203,5771",
-    "asOf": "27/10/2026 21h40 (relevé Myfxbook)"
-   },
-   "statusNote": "En attente du budget britannique (mercredi 28/10) et de la BoJ (vendredi 30/10)."
+   "retail": null,
+   "statusNote": "Budget britannique passé sans franchir de seuil ; reste la BoJ (vendredi 30/10 vers 04h00)."
   }
  ],
  "cross": [
@@ -957,13 +941,7 @@
    "confirm": "10 ans réel > 2,6 %, Fed ferme",
    "invalidate": "Escalade militaire, chute des taux réels",
    "simple": "L'or ne joue pas son rôle de refuge : avec des taux réels élevés, il ne rapporte rien et perd face aux obligations.",
-   "retail": {
-    "long": 46,
-    "short": 54,
-    "avgLong": "4 326,69",
-    "avgShort": "3 956,26",
-    "asOf": "27/10/2026 21h40 (relevé Myfxbook)"
-   }
+   "retail": null
   },
   {
    "asset": "XAGUSD",
@@ -975,13 +953,7 @@
    "confirm": "Faiblesse de l'or, actions en baisse",
    "invalidate": "Rebond industriel chinois, or en hausse",
    "simple": "L'argent suit l'or à la baisse, avec plus de violence. La Chine est son seul soutien.",
-   "retail": {
-    "long": 61,
-    "short": 39,
-    "avgLong": "67,6101",
-    "avgShort": "53,5514",
-    "asOf": "27/10/2026 21h40 (relevé Myfxbook)"
-   }
+   "retail": null
   },
   {
    "asset": "USOIL",
@@ -1084,7 +1056,7 @@
    "title": "Banque du Canada + rapport",
    "exclusion": false,
    "pairs": "USDCAD",
-   "status": "upcoming",
+   "status": "published",
    "forecast": "Maintien à 2,25 % (économistes)",
    "previous": "2,25 %",
    "votes": "Non publiés par la BoC",
@@ -1109,14 +1081,21 @@
      "ko"
     ]
    ],
-   "result": null
+   "result": {
+    "actual": "Hausse de 0,25 point à 2,50 % (consensus des économistes : maintien à 2,25 %). Première hausse depuis 2023 selon XTB. Votes non publiés par la BoC. Communiqué : « il pourrait être nécessaire d'augmenter encore le taux directeur » ; CPI attendu vers 3½ % fin 2026 et 3 % en moyenne en 2027 (1 point de plus qu'en juillet) ; PIB 1 % en 2026, 2 % en 2027.",
+    "priced": "Avant : sources partagées (économistes : maintien ; marché de prédiction : hausse 64 %) ; XTB indique après coup que la hausse était déjà intégrée par le marché. OIS non confirmé.",
+    "reaction": "USDCAD vers 1,4040, quasi inchangé après l'annonce (XTB) ; aucune tendance n'est tirée de cette réaction immédiate.",
+    "impact": "Condition de confirmation du CAD franchie (hausse de la BoC). Le ton reste prudent : la BoC parle d'une hausse défensive face à l'énergie, pas d'un cycle, et décidera réunion par réunion. Biais CAD relevé d'un cran, mais l'emploi faible (chômage autour de 6½ %) et les droits de douane américains limitent la suite.",
+    "effect": "CAD : neutre → légèrement ferme ; USDCAD confirmé côté fondamental",
+    "tone": "ok"
+   }
   },
   {
    "when": "Mer. 28/10, heure non confirmée",
    "title": "Budget britannique",
    "exclusion": false,
    "pairs": "GBPUSD, GBPJPY",
-   "status": "upcoming",
+   "status": "published",
    "forecast": "—",
    "previous": "—",
    "votes": "Sans objet",
@@ -1141,17 +1120,24 @@
      "ko"
     ]
    ],
-   "result": null
+   "result": {
+    "actual": "Premier budget du chancelier John Healey : pas de largesses non financées, marge budgétaire ramenée à environ 14,5 Md£, déficit 2026-27 prévu à 4,2 % du PIB (3,6 % en mars), recettes fiscales 38,6 % du PIB. Programme d'émission de Gilts 250,6 Md£ (consensus 249,2 Md£). OBR : inflation 3,1 % en 2026, 3,4 % en 2027.",
+    "priced": "Avant : hausse BoE du 5/11 > 90 % ; budget jugé « globalement conforme aux attentes » (Portfolio Adviser).",
+    "reaction": "Gilt 10 ans 5,31 % à 14h (heure de Londres) selon Portfolio Adviser, en baisse de 2 à 3 points de base selon MUFG ; livre « peu changée » (MUFG). Aucune tendance tirée de cette réaction immédiate.",
+    "impact": "Ni confirmation ni invalidation : le Gilt 10 ans (5,31 %) reste juste au-dessus du seuil de confirmation (< 5,30 %) et loin du seuil d'invalidation (> 5,5 %). Budget neutre, la livre repasse sous l'influence de la BoE du 5/11.",
+    "effect": "GBP neutre, biais inchangés",
+    "tone": "wait"
+   }
   },
   {
    "when": "Mer. 28/10, 19h00 (conf. 19h30)",
    "title": "Décision Fed + conférence Warsh",
    "exclusion": true,
    "pairs": "Toutes paires USD, or, indices",
-   "status": "upcoming",
+   "status": "published",
    "forecast": "Maintien à 3,75–4,00 % (94 économistes sur 100)",
    "previous": "Hausse de 0,25 point le 16/09",
-   "votes": "12–0 en septembre ; votes d'octobre non confirmés",
+   "votes": "10–2 : Lisa Cook et Beth Hammack voulaient une hausse de 0,25 point",
    "priced": "Hausse en octobre 9,6 % (OIS, 24/10) ; décembre largement intégré",
    "scenarios": [
     [
@@ -1173,7 +1159,14 @@
      "ko"
     ]
    ],
-   "result": null
+   "result": {
+    "actual": "Maintien à 3,75–4,00 % (attendu par 94 économistes sur 100). Vote 10–2, deux membres (Cook, Hammack) pour une hausse. Communiqué : « l'inflation reste élevée » ; l'accumulation d'informations guidera la politique. Propos de Warsh en conférence : non confirmés par une source lisible.",
+    "priced": "Avant : hausse en octobre 9,6 % (OIS, 24/10), environ 7 % au moment de la décision (investingLive) ; hausse en décembre environ 84 % (CME FedWatch, cité par Yahoo Finance).",
+    "reaction": "S&P 500 clôture +0,28 % à 7 743,97 (Reuters) ; rendement 2 ans US vers 4,75–4,78 % (+2,7 pb), USDJPY vers 158,2 (investingLive, horaire avant/après non précisé). Dollar et or après la conférence : non confirmé.",
+    "impact": "Maintien ferme, conforme au scénario central : deux voix pour une hausse montrent que la Fed reste prête à monter en décembre. Biais USD maintenu ; sa confirmation dépend toujours du core PCE de demain 13h30.",
+    "effect": "Biais USD inchangés (légèrement fort)",
+    "tone": "wait"
+   }
   },
   {
    "when": "Jeu. 29/10, 13h30",
@@ -1502,9 +1495,9 @@
    "date": "23/10/2026"
   },
   {
-   "title": "Myfxbook – Community Outlook (positionnement des traders particuliers)",
+   "title": "Myfxbook – Community Outlook (relevé du 28/10 rejeté : données obsolètes)",
    "url": "https://www.myfxbook.com/community/outlook",
-   "date": "27/10/2026"
+   "date": "28/10/2026"
   },
   {
    "title": "investingLive – Australia CPI preview (prévisions des 4 grandes banques)",
@@ -1535,6 +1528,46 @@
    "title": "investingLive – Australian September core inflation (trimmed mean)",
    "url": "https://investinglive.com/news/australian-september-core-inflation-trimmed-mean-3-7-y-y-expected-3-6/",
    "date": "28/10/2026"
+  },
+  {
+   "title": "Banque du Canada – hausse du taux directeur à 2½ %",
+   "url": "https://www.bankofcanada.ca/2026/10/fad-press-release-2026-10-28/",
+   "date": "28/10/2026"
+  },
+  {
+   "title": "XTB – Bank of Canada hikes, USDCAD reaction",
+   "url": "https://www.xtb.com/int/market-analysis/news-and-research/breaking-bank-of-canada-hikes-for-the-first-time-in-3-years-but-signals-caution-on-further-moves",
+   "date": "28/10/2026"
+  },
+  {
+   "title": "Fed – communiqué FOMC du 28/10",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+   "date": "28/10/2026"
+  },
+  {
+   "title": "investingLive – FOMC decision Oct 28 (pricing et réaction)",
+   "url": "https://investinglive.com/central-banks/fomc-decision-oct-28/",
+   "date": "28/10/2026"
+  },
+  {
+   "title": "Yahoo Finance – Fed live (FedWatch décembre 84 %)",
+   "url": "https://finance.yahoo.com/economy/policy/live/fed-meeting-live-updates-federal-reserve-october-meeting-kevin-warsh-161129201.html",
+   "date": "28/10/2026"
+  },
+  {
+   "title": "Reuters via Virginia Business – clôture Wall Street du 28/10",
+   "url": "https://virginiabusiness.com/wall-street-rises-fed-holds-rates-steady-earnings/",
+   "date": "28/10/2026"
+  },
+  {
+   "title": "Portfolio Adviser – Gilts stables après le budget",
+   "url": "https://portfolio-adviser.com/autumn-budget-2026-gilts-steady-after-budget-broadly-consistent-with-market-expectations/",
+   "date": "28/10/2026"
+  },
+  {
+   "title": "MUFG Research – UK Budget: Playing it safe",
+   "url": "https://www.mufgresearch.com/macro/european-macro-28-october-2026/",
+   "date": "28/10/2026"
   }
  ],
  "lexicon": [
@@ -1561,6 +1594,10 @@
   [
    "Sentiment retail",
    "Part des traders particuliers à l'achat et à la vente (Myfxbook). Il se lit à contre-courant : quand 70 % ou plus sont du même côté, le prix part souvent dans l'autre sens. C'est une convention d'usage, pas une règle validée."
+  ],
+  [
+   "Hausse défensive",
+   "Hausse de taux décidée pour empêcher un choc (ici l'énergie) de se propager, sans annoncer une série de hausses."
   ]
  ]
 }
