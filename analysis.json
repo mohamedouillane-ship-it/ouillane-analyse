@@ -10,6 +10,12 @@
  "archives": [],
  "updates": [
   {
+   "date": "29/10 20h15",
+   "text": "AUDUSD requalifié de « haussier » à « neutre, paire peu propre » : AUD (6,5) et USD (6,0) sont presque à égalité, et le prix tourne en range 0,689–0,724 depuis juin. AUDUSD clôture le 28/10 à 0,7053, au-dessus de sa moyenne 20 jours (0,6983) mais sous sa moyenne 50 jours (0,7069).",
+   "effect": "Plus de biais directionnel sur AUDUSD",
+   "tone": "wait"
+  },
+  {
    "date": "28/10 19h00",
    "text": "Fed : taux maintenus à 3,75–4,00 %, comme prévu. Vote 10–2 : Lisa Cook et Beth Hammack voulaient déjà monter de 0,25 point. Le communiqué répète que l'inflation reste élevée. Propos de Warsh en conférence : non confirmés.",
    "effect": "Biais USD inchangé (légèrement fort) ; décembre reste ouvert à une hausse, le core PCE de demain 13h30 décide.",
@@ -739,17 +745,17 @@
   },
   {
    "symbol": "AUDUSD",
-   "dominant": "AUD",
-   "bias10": "Haussier si CPI ≥ consensus",
+   "dominant": "Conflit",
+   "bias10": "Neutre, paire peu propre",
    "bias3m": "Haussier",
-   "kind": "up",
-   "confidence": "Moyenne",
+   "kind": "flat",
+   "confidence": "Faible",
    "status": "pending",
    "driver": "RBA restrictive + positionnement vendeur extrême",
    "secondary": "Chine, appétit pour le risque",
    "past": "CPI T3 publié le 28/10 : trimmed mean +1,0 % t/t (conforme), CPI septembre 4,3 % a/a. AUDUSD ≈ 0,7036.",
    "expect": "CPI T3 mercredi 28/10 à 01h30, consensus trimmed mean +1,0 % t/t. Hausse RBA du 3/11 ≈ 66 % (VT Markets, 27/10, source unique).",
-   "mid": "Haussier, conditionné au CPI de mercredi.",
+   "mid": "Neutre : la RBA (hausse possible le 3/11) et la Fed (hausse de décembre pricée à 84 %) montent toutes les deux. Le prix reste en range 0,689–0,724.",
    "scenarios": {
     "bull": "CPI > consensus → hausse RBA quasi pricée",
     "central": "CPI conforme → AUD stable à ferme",
@@ -757,8 +763,8 @@
    },
    "confirm": "Trimmed mean ≥ +1,0 % t/t le 28/10",
    "invalidate": "Trimmed mean < 1,0 % ; chute des actions",
-   "simple": "Les deux devises sont fortes, mais l'AUD (6,5) a la banque centrale la plus ferme : biais haussier, à confirmer mercredi.",
-   "trap": "Si le CPI australien déçoit ou si les actions chutent, l'AUD perd son avantage d'un coup.",
+   "simple": "Duel de deux devises fortes (AUD 6,5 contre USD 6,0) : l'écart est trop faible pour donner une direction. Le prix le montre : AUDUSD tourne entre 0,689 et 0,724 depuis juin.",
+   "trap": "Croire qu'une RBA restrictive suffit à faire monter AUDUSD : la Fed l'est aussi. L'AUD s'exprime mieux contre une devise faible (EUR, CHF), hors watchlist.",
    "lexicon": [
     [
      "Trimmed mean",
@@ -766,7 +772,7 @@
     ]
    ],
    "retail": null,
-   "statusNote": "CPI conforme (trimmed mean 1,0 % t/t) : le biais haussier tient mais n'est pas renforcé. Prochain test : décision RBA du 3/11."
+   "statusNote": "Biais requalifié le 29/10 : l'écart de note (0,5 point) ne justifiait pas un biais haussier, et le prix ne le confirme pas (sous sa moyenne 50 jours, 0,7069)."
   },
   {
    "symbol": "USDCHF",
@@ -1568,6 +1574,11 @@
    "title": "MUFG Research – UK Budget: Playing it safe",
    "url": "https://www.mufgresearch.com/macro/european-macro-28-october-2026/",
    "date": "28/10/2026"
+  },
+  {
+   "title": "Alpha Vantage – AUDUSD quotidien (FX_DAILY)",
+   "url": "https://www.alphavantage.co/documentation/#fx-daily",
+   "date": "29/10/2026"
   }
  ],
  "lexicon": [
