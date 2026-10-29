@@ -5,10 +5,28 @@
   "end": "2026-10-30",
   "label": "Semaine du 26 au 30 octobre 2026"
  },
- "generatedAt": "2026-10-28T21:45:00+01:00",
+ "generatedAt": "2026-10-29T21:50:00+01:00",
  "nextUpdate": "Demain vers 21h40",
  "archives": [],
  "updates": [
+  {
+   "date": "29/10 14h15",
+   "text": "BCE : taux inchangés (dépôt 2,50 %), décision unanime après un débat sur une hausse. Lagarde dit qu'une hausse en décembre reste probable et annonce son départ le 7 février 2027. EURUSD a touché 1,11 (plus bas depuis mai 2025) puis est revenu vers 1,116.",
+   "effect": "Biais EUR inchangé (faible) : décembre était déjà pricé à plus de 80 %. EURUSD reste en attente.",
+   "tone": "wait"
+  },
+  {
+   "date": "29/10 13h30",
+   "text": "États-Unis : PIB T3 +3,4 % annualisé (attendu 3,0 %). Inflation PCE de septembre exactement conforme : +0,5 % sur le mois, 3,6 % sur un an ; core +0,3 % et 3,1 %. Le dollar index a à peine bougé (−0,08 %).",
+   "effect": "Biais USD inchangé (légèrement fort) : la condition core PCE ≥ 0,3 % est atteinte de justesse, sans surprise pour la Fed.",
+   "tone": "wait"
+  },
+  {
+   "date": "29/10 21h40",
+   "text": "Sentiment retail Myfxbook : page non lisible ce soir, non confirmé pour toutes les paires.",
+   "effect": "Aucune lecture à contre-courant possible aujourd'hui.",
+   "tone": "wait"
+  },
   {
    "date": "29/10 20h15",
    "text": "AUDUSD requalifié de « haussier » à « neutre, paire peu propre » : AUD (6,5) et USD (6,0) sont presque à égalité, et le prix tourne en range 0,689–0,724 depuis juin. AUDUSD clôture le 28/10 à 0,7053, au-dessus de sa moyenne 20 jours (0,6983) mais sous sa moyenne 50 jours (0,7069).",
@@ -320,7 +338,7 @@
     ],
     [
      "Inflation",
-     "CPI 3,7 %, core 2,6 % ; core PCE 3,0 % (août)"
+     "CPI 3,7 %, core 2,6 % ; PCE septembre 3,6 %, core PCE 3,1 % (+0,3 % m/m)"
     ],
     [
      "Emploi",
@@ -328,7 +346,7 @@
     ],
     [
      "Croissance",
-     "PIB T3 attendu 3,0 % (GDPNow 3,5 %)"
+     "PIB T3 +3,4 % annualisé (attendu 3,0 %)"
     ],
     [
      "Taux",
@@ -368,7 +386,7 @@
      "Hausse de décembre déjà largement intégrée : peu de bonne surprise possible"
     ]
    ],
-   "week": "Fed passée : maintien, deux voix pour une hausse. Core PCE jeudi 29/10 à 13h30 : ≥ 0,3 % m/m renforce le dollar, ≤ 0,2 % le fait reculer. Emploi le 6/11.",
+   "week": "Fed et PCE passés : core PCE à 0,3 % comme prévu, PIB T3 à 3,4 %. Décembre reste pricé. Prochain test : emploi le 6/11 et élections de mi-mandat le 3/11.",
    "mid": "Légèrement fort tant que l'inflation reste au-dessus de 3 %. Risque : l'emploi du 6/11.",
    "lexicon": [
     [
@@ -434,7 +452,7 @@
      "Écart de 220 pb avec le 10 ans américain : emprunter en yen pour placer ailleurs reste rentable"
     ]
    ],
-   "week": "BoJ vendredi 30/10 : maintien attendu. Le signal donné pour décembre compte plus que la décision.",
+   "week": "BoJ vendredi 30/10 vers 04h00 : maintien attendu. Le signal donné pour décembre compte plus que la décision.",
    "mid": "Neutre, avec un léger avantage au yen si la BoJ confirme décembre.",
    "lexicon": [
     [
@@ -546,7 +564,7 @@
      "Croissance attendue en ralentissement au T4 à cause des droits de douane américains (BoC)"
     ]
    ],
-   "week": "Hausse BoC passée (2,50 %). Reste la Fed (déjà publiée) et le core PCE US jeudi 29/10 à 13h30 pour le côté USD de USDCAD. Prochaine BoC le 9/12.",
+   "week": "Hausse BoC passée (2,50 %). Côté USD, Fed et core PCE sont passés sans surprise. Prochaine BoC le 9/12.",
    "mid": "Légèrement ferme tant que l'inflation canadienne reste autour de 3 % ; l'emploi est le principal risque.",
    "lexicon": [
     [
@@ -622,7 +640,7 @@
    "details": [
     [
      "Banque centrale",
-     "BCE dépôt 2,50 % après une hausse le 10/09"
+     "BCE dépôt 2,50 % maintenu le 29/10 (unanime) ; Lagarde partira le 7/02/2027"
     ],
     [
      "Inflation",
@@ -638,7 +656,7 @@
     ],
     [
      "Pricé",
-     "Maintien le 29/10 ; hausse en décembre (sondage Reuters)"
+     "Hausse en décembre à plus de 80 % (Trading Economics, 29/10)"
     ],
     [
      "Positionnement",
@@ -666,7 +684,7 @@
      "Spéculateurs vendeurs extrêmes sur 3 ans : une bonne nouvelle peut provoquer un rachat brutal"
     ]
    ],
-   "week": "BCE jeudi 29/10 : maintien attendu. Le ton pour décembre et l'écart OAT–Bund comptent plus.",
+   "week": "BCE passée : maintien unanime, hausse débattue, décembre « probable » selon Lagarde, qui partira le 7/02/2027. Reste le PIB T3 vendredi 30/10 et la grève française du 5/11.",
    "mid": "Faible tant que l'écart OAT–Bund reste au-dessus de 150 pb.",
    "lexicon": [
     [
@@ -691,8 +709,8 @@
    "status": "pending",
    "driver": "Spread OAT–Bund + écart 10 ans US–Bund de 167 pb",
    "secondary": "Pétrole, positionnement vendeur extrême",
-   "past": "Inflation zone euro 3,8 %, au-dessus des attentes, mais l'euro a baissé : l'écart OAT–Bund a dominé.",
-   "expect": "BCE : maintien jeudi, hausse attendue en décembre. Fed : pause, décembre intégré. Spéculateurs très vendeurs d'euro.",
+   "past": "BCE inchangée (unanime, hausse débattue), Lagarde partira le 7/02/2027 ; core PCE US conforme à 0,3 %. EURUSD a touché 1,11, plus bas depuis mai 2025, puis 1,116.",
+   "expect": "BCE et PCE passés sans surprise. Reste le PIB zone euro vendredi 30/10, puis l'emploi US le 6/11 et la grève française du 5/11. Spéculateurs institutionnels (COT) très vendeurs d'euro.",
    "mid": "Baissier, confiance moyenne. Risque : rachat brutal des positions vendeuses.",
    "scenarios": {
     "bull": "Spread < 150 pb + core PCE faible → rachat des positions vendeuses",
@@ -710,7 +728,7 @@
     ]
    ],
    "retail": null,
-   "statusNote": "Aucune condition franchie : core PCE (jeudi 29/10) et BCE (jeudi 29/10) pas encore publiés."
+   "statusNote": "Core PCE à 0,3 % : une des deux conditions de confirmation atteinte. L'écart OAT–Bund (environ 155 pb selon Euronews) reste entre 150 et 175 pb, sans franchir de seuil."
   },
   {
    "symbol": "EURJPY",
@@ -723,7 +741,7 @@
    "driver": "Faiblesse euro + BoJ en normalisation",
    "secondary": "Débouclage du carry en cas de risk-off",
    "past": "Yen au plus haut de 5 semaines contre dollar le 23/10 (demande refuge).",
-   "expect": "BoJ : maintien vendredi, hausse en décembre pricée ≈ 80 %.",
+   "expect": "BoJ vendredi 30/10 vers 04h00 : maintien attendu, hausse en décembre pricée ≈ 80 %.",
    "mid": "Baissier, confiance moyenne.",
    "scenarios": {
     "bull": "Détente française + BoJ prudente",
@@ -741,7 +759,7 @@
     ]
    ],
    "retail": null,
-   "statusNote": "Aucune condition franchie : BCE jeudi 29/10 et BoJ vendredi 30/10 pas encore publiées."
+   "statusNote": "BCE passée sans surprise (maintien, décembre probable). Aucune condition franchie avant la BoJ de vendredi 30/10 vers 04h00."
   },
   {
    "symbol": "AUDUSD",
@@ -754,7 +772,7 @@
    "driver": "RBA restrictive + positionnement vendeur extrême",
    "secondary": "Chine, appétit pour le risque",
    "past": "CPI T3 publié le 28/10 : trimmed mean +1,0 % t/t (conforme), CPI septembre 4,3 % a/a. AUDUSD ≈ 0,7036.",
-   "expect": "CPI T3 mercredi 28/10 à 01h30, consensus trimmed mean +1,0 % t/t. Hausse RBA du 3/11 ≈ 66 % (VT Markets, 27/10, source unique).",
+   "expect": "RBA le 3/11 (hausse pricée ≈ 66 % selon VT Markets, 27/10, source unique) ; emploi US le 6/11.",
    "mid": "Neutre : la RBA (hausse possible le 3/11) et la Fed (hausse de décembre pricée à 84 %) montent toutes les deux. Le prix reste en range 0,689–0,724.",
    "scenarios": {
     "bull": "CPI > consensus → hausse RBA quasi pricée",
@@ -785,7 +803,7 @@
    "driver": "Écart de taux Fed–BNS (≈ 4 points)",
    "secondary": "Demande refuge",
    "past": "Franc −3 % pondéré depuis juin.",
-   "expect": "BNS à 0 %, hausse attendue seulement en 2027.",
+   "expect": "Emploi US le 6/11. BNS à 0 %, hausse attendue seulement en 2027.",
    "mid": "Légèrement haussier.",
    "scenarios": {
     "bull": "Calme + Fed ferme",
@@ -803,7 +821,7 @@
     ]
    ],
    "retail": null,
-   "statusNote": "Aucune condition franchie : Fed maintenue (10–2) comme attendu ; prochain test le core PCE jeudi 29/10 à 13h30."
+   "statusNote": "Aucune condition franchie : core PCE US conforme (0,3 %), pas d'escalade géopolitique confirmée."
   },
   {
    "symbol": "USDJPY",
@@ -816,7 +834,7 @@
    "driver": "Intervention + BoJ contre écart US–Japon de 220 pb",
    "secondary": "Actions IA, carry",
    "past": "156,87 le 23/10 ; intervention conjointe en juillet.",
-   "expect": "Fed en pause, BoJ vers décembre.",
+   "expect": "BoJ vendredi 30/10 vers 04h00, puis emploi US le 6/11.",
    "mid": "Biais insuffisamment confirmé.",
    "scenarios": {
     "bull": "Fed ferme + BoJ prudente → test de 159–160",
@@ -834,7 +852,7 @@
     ]
    ],
    "retail": null,
-   "statusNote": "Aucune condition franchie : Fed maintenue comme attendu ; BoJ vendredi 30/10 vers 04h00."
+   "statusNote": "Aucune condition franchie : core PCE US conforme (0,3 %) ; la BoJ (vendredi 30/10 vers 04h00) décide."
   },
   {
    "symbol": "GBPUSD",
@@ -847,7 +865,7 @@
    "driver": "Hausse BoE pricée contre budget du 28/10",
    "secondary": "Fuite des actifs français vers les Gilts",
    "past": "Budget du 28/10 sans choc : marge 14,5 Md£, Gilt 10 ans 5,31 %, livre peu changée. Fed maintenue, vote 10–2.",
-   "expect": "Core PCE US jeudi 29/10 à 13h30, puis BoE le 5/11 (hausse à 4,00 % pricée à plus de 90 %).",
+   "expect": "BoE le 5/11 (hausse à 4,00 % pricée à plus de 90 %), emploi US le 6/11.",
    "mid": "Neutre, conflit de moteurs.",
    "scenarios": {
     "bull": "Budget crédible + hausse BoE confirmée",
@@ -865,7 +883,7 @@
     ]
    ],
    "retail": null,
-   "statusNote": "Aucune condition franchie : Gilt 10 ans à 5,31 % après le budget, juste au-dessus du seuil de confirmation (5,30 %) et loin de l'invalidation (5,5 %)."
+   "statusNote": "Aucune condition franchie : core PCE US conforme (0,3 %) ; Gilt 10 ans après le budget à 5,31 % (dernier relevé, 28/10)."
   },
   {
    "symbol": "USDCAD",
@@ -878,7 +896,7 @@
    "driver": "Hausse BoC à 2,50 % contre Fed ferme (10–2)",
    "secondary": "Fed",
    "past": "BoC +0,25 point à 2,50 % le 28/10, porte ouverte à d'autres hausses. Fed maintenue à 3,75–4,00 %, deux voix pour une hausse.",
-   "expect": "Core PCE US jeudi 29/10 à 13h30 ; emploi canadien et américain début novembre ; BoC le 9/12.",
+   "expect": "Emploi canadien et américain début novembre ; BoC le 9/12.",
    "mid": "Neutre.",
    "scenarios": {
     "bull": "BoC maintient sur ton accommodant",
@@ -896,7 +914,7 @@
     ]
    ],
    "retail": null,
-   "statusNote": "Condition franchie : la BoC a relevé son taux à 2,50 %. USDCAD est resté quasi inchangé vers 1,4040, la baisse n'est donc pas encore visible dans le prix."
+   "statusNote": "Condition franchie le 28/10 (hausse BoC à 2,50 %). Côté USD, le core PCE conforme (0,3 %) ne change rien. Niveau de USDCAD ce soir : non confirmé."
   },
   {
    "symbol": "GBPJPY",
@@ -1179,7 +1197,7 @@
    "title": "PIB US T3 + PCE de septembre",
    "exclusion": true,
    "pairs": "DXY, EURUSD, or, indices",
-   "status": "upcoming",
+   "status": "published",
    "forecast": "PIB 3,0 % ; PCE 0,5 % m/m, 3,6 % a/a ; core 0,3 % m/m, 3,1 % a/a",
    "previous": "PIB 2,2 % ; PCE 0,3 %, 3,4 % ; core 0,2 %, 3,0 %",
    "votes": "Sans objet",
@@ -1204,17 +1222,24 @@
      "ko"
     ]
    ],
-   "result": null
+   "result": {
+    "actual": "PIB T3 : +3,4 % annualisé (consensus 3,0 %, T2 2,2 %), source BEA. PCE de septembre : +0,5 % m/m et 3,6 % a/a (consensus 0,5 % et 3,6 %) ; core +0,3 % m/m et 3,1 % a/a (consensus 0,3 % et 3,1 %). Inflation exactement conforme.",
+    "priced": "Avant : hausse Fed en décembre environ 84 % (CME FedWatch, 28/10) ; nowcast de la Fed de Cleveland : core 0,28 % m/m.",
+    "reaction": "Dollar index −0,08 % à 102,05, le dollar a « à peine réagi » selon un économiste cité (rallies.ai). Or et rendements après publication : non confirmé.",
+    "impact": "Scénario central (core 0,3 %) : rien de nouveau pour la Fed, décembre reste pricé. La condition « core PCE ≥ 0,3 % » est atteinte de justesse, mais pas l'autre condition de confirmation du dollar (ton ferme de Warsh, non confirmé). Biais USD maintenu, ni confirmé ni invalidé.",
+    "effect": "Biais USD inchangés (légèrement fort)",
+    "tone": "wait"
+   }
   },
   {
    "when": "Jeu. 29/10, 14h15 (conf. 14h45)",
    "title": "Décision BCE + conférence Lagarde",
    "exclusion": false,
    "pairs": "EURUSD, EURJPY",
-   "status": "upcoming",
+   "status": "published",
    "forecast": "Maintien du taux de dépôt à 2,50 %",
    "previous": "Hausse de 0,25 point le 10/09",
-   "votes": "Non publiés par la BCE",
+   "votes": "Décision unanime (débat sur une hausse, selon Lagarde)",
    "priced": "Hausse en décembre (sondage Reuters)",
    "scenarios": [
     [
@@ -1236,7 +1261,14 @@
      "ok"
     ]
    ],
-   "result": null
+   "result": {
+    "actual": "Taux maintenus : dépôt 2,50 %, refinancement 2,65 %, prêt marginal 2,90 %, comme attendu. Décision unanime après un débat sur une hausse. Communiqué : choc énergétique plus fort et plus long, risques d'inflation à la hausse et de croissance à la baisse ; pas d'engagement sur la trajectoire. Lagarde : une hausse en décembre « reste probable ». Lagarde quittera la BCE le 7/02/2027, avant la fin de son mandat (octobre 2027).",
+    "priced": "Avant : maintien attendu, hausse en décembre (sondage Reuters). Après : hausse en décembre pricée à plus de 80 % (Trading Economics).",
+    "reaction": "EURUSD a touché environ 1,11, plus bas depuis mai 2025, puis est remonté vers 1,116 après les propos de Lagarde (Trading Economics). Pas de tendance à tirer de cette réaction immédiate.",
+    "impact": "Statu quo au ton plutôt ferme : décembre reste le scénario de la BCE, ce qui était déjà pricé. Le départ anticipé de Lagarde ajoute une incertitude sans changer la politique monétaire. Le biais EUR faible reste porté par la dette française et l'énergie ; ni confirmé ni invalidé.",
+    "effect": "Biais EUR inchangé (faible)",
+    "tone": "wait"
+   }
   },
   {
    "when": "Ven. 30/10, vers 04h00",
@@ -1579,6 +1611,46 @@
    "title": "Alpha Vantage – AUDUSD quotidien (FX_DAILY)",
    "url": "https://www.alphavantage.co/documentation/#fx-daily",
    "date": "29/10/2026"
+  },
+  {
+   "title": "BEA – GDP (Advance Estimate), 3rd Quarter 2026",
+   "url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026",
+   "date": "29/10/2026"
+  },
+  {
+   "title": "Investment Watch – PIB T3 3,4 % et PCE de septembre 3,6 % (core 0,3 %, 3,1 %)",
+   "url": "https://www.investmentwatchblog.com/us-gdp-grows-3-4-percent-in-third-quarter-september-pce-inflation-hits-3-6-percent/",
+   "date": "29/10/2026"
+  },
+  {
+   "title": "StockTitan – PCE de septembre (chiffres, nowcast Cleveland)",
+   "url": "https://www.stocktitan.net/articles/september-2026-pce-inflation-report",
+   "date": "29/10/2026"
+  },
+  {
+   "title": "ActionForex – ECB holds rates, Lagarde early departure",
+   "url": "https://www.actionforex.com/live-comments/659178-ecb-holds-rates-as-energy-risks-mount-lagarde-announces-early-departure/",
+   "date": "29/10/2026"
+  },
+  {
+   "title": "Euronews – ECB holds rates at 2.5 % (écart OAT–Bund ≈ 155 pb)",
+   "url": "https://www.euronews.com/2026/10/29/ecb-holds-rates-at-25-as-lagarde-announces-early-exit-with-inflation-near-double-the-targe",
+   "date": "29/10/2026"
+  },
+  {
+   "title": "Trading Economics – Euro Hits 17-month Low (décembre > 80 %)",
+   "url": "https://tradingeconomics.com/euro-area/currency/news/596340",
+   "date": "29/10/2026"
+  },
+  {
+   "title": "rallies.ai – Euro steady after ECB (DXY 102,05)",
+   "url": "https://rallies.ai/news/euro-steady-against-dollar-after-ecb-leaves-rates-unchanged-3ae4f304362db0a3",
+   "date": "29/10/2026"
+  },
+  {
+   "title": "Myfxbook – Community Outlook (page non lisible ce soir, sentiment non confirmé)",
+   "url": "https://www.myfxbook.com/community/outlook",
+   "date": "29/10/2026"
   }
  ],
  "lexicon": [
@@ -1609,6 +1681,10 @@
   [
    "Hausse défensive",
    "Hausse de taux décidée pour empêcher un choc (ici l'énergie) de se propager, sans annoncer une série de hausses."
+  ],
+  [
+   "Annualisé",
+   "Croissance d'un trimestre convertie en rythme sur un an. Un PIB à +3,4 % annualisé correspond à environ +0,8 % sur le seul trimestre."
   ]
  ]
 }
