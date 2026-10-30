@@ -5,10 +5,22 @@
   "end": "2026-10-30",
   "label": "Semaine du 26 au 30 octobre 2026"
  },
- "generatedAt": "2026-10-29T21:50:00+01:00",
- "nextUpdate": "Demain vers 21h40",
+ "generatedAt": "2026-10-30T21:55:00+01:00",
+ "nextUpdate": "Samedi vers 08h35",
  "archives": [],
  "updates": [
+  {
+   "date": "30/10 11h00",
+   "text": "Zone euro : PIB du 3e trimestre +0,4 % (après +0,6 %), 1,3 % sur un an. La France recule de 0,1 %, l'Allemagne progresse de 0,2 % (mieux que les 0,1 % attendus), l'Italie stagne. Consensus zone euro non confirmé.",
+   "effect": "Biais EUR inchangé (faible) : croissance en ralentissement mais positive ; la contraction française nourrit le thème du stress français sans franchir de seuil. EURUSD reste en attente.",
+   "tone": "wait"
+  },
+  {
+   "date": "30/10 04h00",
+   "text": "BoJ : taux maintenu à 1,25 %, vote 8–1 (Takata voulait une hausse). Prévision d'inflation 2027 relevée à 2,6 %. Ueda : une hausse est possible à chaque réunion, y compris en décembre. USDJPY est tombé à 156,96 puis revenu à 157,37.",
+   "effect": "Condition de confirmation du yen remplie : biais JPY relevé de 5,5 à 6,0 (légèrement fort). Réaction limitée car déjà pricé. USDJPY, EURJPY et GBPJPY restent en attente : une seule de leurs conditions est franchie.",
+   "tone": "ok"
+  },
   {
    "date": "29/10 14h15",
    "text": "BCE : taux inchangés (dépôt 2,50 %), décision unanime après un débat sur une hausse. Lagarde dit qu'une hausse en décembre reste probable et annonce son départ le 7 février 2027. EURUSD a touché 1,11 (plus bas depuis mai 2025) puis est revenu vers 1,116.",
@@ -401,14 +413,14 @@
   },
   {
    "code": "JPY",
-   "score": 5.5,
-   "direction": "Neutre",
+   "score": 6.0,
+   "direction": "Légèrement forte",
    "confidence": "Moyenne",
-   "reason": "BoJ en normalisation et plafond d'intervention à 160, contre écart de taux de 220 pb",
+   "reason": "BoJ ferme (vote 8–1, décembre ouvert) et plafond d'intervention à 160, contre écart de taux de 220 pb",
    "details": [
     [
      "Banque centrale",
-     "BoJ 1,25 % depuis le 18/09 (vote 7–2) ; maintien attendu le 30/10"
+     "BoJ 1,25 % maintenu le 30/10 (vote 8–1, Takata pour une hausse) ; inflation 2027 prévue à 2,6 %"
     ],
     [
      "Inflation",
@@ -433,11 +445,11 @@
    ],
    "confirm": "Ton restrictif de Ueda, rapport du 30/10 ouvrant décembre",
    "invalidate": "BoJ prudente, politique budgétaire expansionniste",
-   "simple": "Le yen est tiré dans deux sens : la BoJ remonte ses taux et Tokyo menace d'intervenir, mais l'écart de taux avec les États-Unis reste énorme.",
+   "simple": "Le yen gagne un peu de terrain sur le fond : la BoJ a gardé ses taux mais un membre voulait déjà monter, et Ueda laisse décembre ouvert. L'écart de taux avec les États-Unis reste énorme, ce qui limite le mouvement.",
    "forces": [
     [
      "up",
-     "BoJ en normalisation : 1,25 %, hausse en décembre pricée à environ 80 %"
+     "BoJ ferme le 30/10 : vote 8–1, prévision d'inflation relevée, hausse possible en décembre (pricée à environ 80 % le 19/10)"
     ],
     [
      "up",
@@ -452,12 +464,16 @@
      "Écart de 220 pb avec le 10 ans américain : emprunter en yen pour placer ailleurs reste rentable"
     ]
    ],
-   "week": "BoJ vendredi 30/10 vers 04h00 : maintien attendu. Le signal donné pour décembre compte plus que la décision.",
-   "mid": "Neutre, avec un léger avantage au yen si la BoJ confirme décembre.",
+   "week": "BoJ passée (30/10) : statu quo ferme, déjà largement pricé. Prochaines étapes : emploi US le 6/11, puis données japonaises avant la réunion de décembre.",
+   "mid": "Légèrement fort si les données confirment décembre ; la BoJ dit agir selon les données.",
    "lexicon": [
     [
      "Carry trade",
      "Emprunter dans une devise à taux bas (yen, franc) pour placer dans une devise à taux haut. Quand les marchés paniquent, ces positions sont fermées et la devise à taux bas remonte."
+    ],
+    [
+     "Vote dissident",
+     "Membre du comité qui vote contre la décision. Un dissident pour une hausse signale que la prochaine hausse se rapproche."
     ]
    ]
   },
@@ -684,7 +700,7 @@
      "Spéculateurs vendeurs extrêmes sur 3 ans : une bonne nouvelle peut provoquer un rachat brutal"
     ]
    ],
-   "week": "BCE passée : maintien unanime, hausse débattue, décembre « probable » selon Lagarde, qui partira le 7/02/2027. Reste le PIB T3 vendredi 30/10 et la grève française du 5/11.",
+   "week": "BCE (29/10) et PIB T3 (30/10 : +0,4 %, France −0,1 %) passés sans franchir de seuil. Reste l'inflation zone euro le 4/11 et la grève française du 5/11.",
    "mid": "Faible tant que l'écart OAT–Bund reste au-dessus de 150 pb.",
    "lexicon": [
     [
@@ -709,8 +725,8 @@
    "status": "pending",
    "driver": "Spread OAT–Bund + écart 10 ans US–Bund de 167 pb",
    "secondary": "Pétrole, positionnement vendeur extrême",
-   "past": "BCE inchangée (unanime, hausse débattue), Lagarde partira le 7/02/2027 ; core PCE US conforme à 0,3 %. EURUSD a touché 1,11, plus bas depuis mai 2025, puis 1,116.",
-   "expect": "BCE et PCE passés sans surprise. Reste le PIB zone euro vendredi 30/10, puis l'emploi US le 6/11 et la grève française du 5/11. Spéculateurs institutionnels (COT) très vendeurs d'euro.",
+   "past": "BCE inchangée (29/10) ; core PCE US 0,3 % ; PIB zone euro T3 +0,4 % (France −0,1 %).",
+   "expect": "Inflation zone euro le 4/11, grève française le 5/11, emploi US le 6/11. Spéculateurs institutionnels (COT) très vendeurs d'euro.",
    "mid": "Baissier, confiance moyenne. Risque : rachat brutal des positions vendeuses.",
    "scenarios": {
     "bull": "Spread < 150 pb + core PCE faible → rachat des positions vendeuses",
@@ -728,7 +744,7 @@
     ]
    ],
    "retail": null,
-   "statusNote": "Core PCE à 0,3 % : une des deux conditions de confirmation atteinte. L'écart OAT–Bund (environ 155 pb selon Euronews) reste entre 150 et 175 pb, sans franchir de seuil."
+   "statusNote": "PIB zone euro sans surprise nette. Core PCE à 0,3 % reste la seule condition de confirmation atteinte ; OAT–Bund vers 155 pb, entre les seuils de 150 et 175 pb."
   },
   {
    "symbol": "EURJPY",
@@ -740,8 +756,8 @@
    "status": "pending",
    "driver": "Faiblesse euro + BoJ en normalisation",
    "secondary": "Débouclage du carry en cas de risk-off",
-   "past": "Yen au plus haut de 5 semaines contre dollar le 23/10 (demande refuge).",
-   "expect": "BoJ vendredi 30/10 vers 04h00 : maintien attendu, hausse en décembre pricée ≈ 80 %.",
+   "past": "BoJ ferme le 30/10 (8–1) ; PIB zone euro T3 +0,4 %, France −0,1 %.",
+   "expect": "Inflation zone euro le 4/11, grève française le 5/11 ; données japonaises avant décembre.",
    "mid": "Baissier, confiance moyenne.",
    "scenarios": {
     "bull": "Détente française + BoJ prudente",
@@ -751,7 +767,7 @@
    "confirm": "BoJ restrictive le 30/10 ; spread français large",
    "invalidate": "Détente française ; BoJ prudente",
    "simple": "L'euro est la devise la plus faible et le yen est soutenu par la BoJ et son rôle de refuge : la paire penche à la baisse.",
-   "trap": "Si la BoJ est prudente vendredi et que la France rassure, le carry trade revient et la paire remonte.",
+   "trap": "Spéculateurs institutionnels (COT) très vendeurs d'euro et acheteurs nets de yen : le mouvement est déjà encombré. Sentiment des traders particuliers (retail) non confirmé ce soir. Une détente française peut faire remonter la paire.",
    "lexicon": [
     [
      "Carry trade",
@@ -759,7 +775,7 @@
     ]
    ],
    "retail": null,
-   "statusNote": "BCE passée sans surprise (maintien, décembre probable). Aucune condition franchie avant la BoJ de vendredi 30/10 vers 04h00."
+   "statusNote": "BoJ restrictive : une condition de confirmation atteinte. L'autre (spread français large) n'est pas franchie : OAT–Bund vers 155 pb (Euronews, 29/10), sous le seuil de 175 pb."
   },
   {
    "symbol": "AUDUSD",
@@ -833,8 +849,8 @@
    "status": "pending",
    "driver": "Intervention + BoJ contre écart US–Japon de 220 pb",
    "secondary": "Actions IA, carry",
-   "past": "156,87 le 23/10 ; intervention conjointe en juillet.",
-   "expect": "BoJ vendredi 30/10 vers 04h00, puis emploi US le 6/11.",
+   "past": "BoJ 30/10 : maintien à 1,25 %, vote 8–1, ton ferme. USDJPY 156,96 puis 157,37.",
+   "expect": "Emploi US le 6/11, CPI US le 10/11. Zone 160 surveillée (risque d'intervention).",
    "mid": "Biais insuffisamment confirmé.",
    "scenarios": {
     "bull": "Fed ferme + BoJ prudente → test de 159–160",
@@ -844,7 +860,7 @@
    "confirm": "Débouclage carry, BoJ restrictive",
    "invalidate": "Fed restrictive + BoJ prudente → test de 160",
    "simple": "Deux forces opposées : l'écart de taux pousse à la hausse, la menace d'intervention japonaise bloque vers 160. Pas de direction propre.",
-   "trap": "Au-dessus de 160, une intervention peut faire chuter la paire brutalement.",
+   "trap": "Les traders particuliers (retail) : non confirmé ce soir (Myfxbook illisible). Au-dessus de 160, une intervention peut faire chuter la paire brutalement ; une BoJ ferme ne suffit pas tant que l'écart de taux avec les États-Unis reste de 220 pb. Positionnement des spéculateurs institutionnels (COT) sur le yen : net acheteur.",
    "lexicon": [
     [
      "Intervention",
@@ -852,7 +868,7 @@
     ]
    ],
    "retail": null,
-   "statusNote": "Aucune condition franchie : core PCE US conforme (0,3 %) ; la BoJ (vendredi 30/10 vers 04h00) décide."
+   "statusNote": "BoJ restrictive : une des deux conditions de confirmation atteinte. Pas de débouclage du carry observé ; la paire reste dans sa plage 156–160."
   },
   {
    "symbol": "GBPUSD",
@@ -926,8 +942,8 @@
    "status": "pending",
    "driver": "Deux devises notées 5,0 et 5,5",
    "secondary": "Risk-off",
-   "past": "—",
-   "expect": "BoJ vendredi 30/10 vers 04h00, puis BoE le 5/11.",
+   "past": "BoJ ferme le 30/10 (8–1).",
+   "expect": "BoE le 5/11 (hausse attendue), emploi US le 6/11.",
    "mid": "Neutre.",
    "scenarios": {
     "bull": "Budget crédible + calme",
@@ -940,7 +956,7 @@
    "trap": "En cas de panique sur les marchés, le yen refuge l'emporte et la paire baisse vite.",
    "lexicon": [],
    "retail": null,
-   "statusNote": "Budget britannique passé sans franchir de seuil ; reste la BoJ (vendredi 30/10 vers 04h00)."
+   "statusNote": "BoJ passée avec un ton ferme ; la paire n'a pas de condition définie, elle reste en attente de la BoE du 5/11."
   }
  ],
  "cross": [
@@ -1275,10 +1291,10 @@
    "title": "Décision BoJ + rapport trimestriel",
    "exclusion": false,
    "pairs": "USDJPY, EURJPY, GBPJPY",
-   "status": "upcoming",
+   "status": "published",
    "forecast": "Maintien à 1,25 %",
    "previous": "Hausse le 18/09",
-   "votes": "7–2 en septembre ; 9–0 attendu (sources Nikkei)",
+   "votes": "8–1 : Hajime Takata dissident, voulait une hausse à 1,50 %",
    "priced": "Hausse en décembre ≈ 80 % (swaps, 19/10)",
    "scenarios": [
     [
@@ -1300,16 +1316,23 @@
      "ko"
     ]
    ],
-   "result": null
+   "result": {
+    "actual": "Taux maintenu à 1,25 %, comme attendu. Vote 8–1 (Takata pour une hausse à 1,50 %). Rapport trimestriel : prévision d'inflation relevée à 2,6 % pour l'exercice 2027 (contre 2,4 %). Ueda juge une hausse possible à chaque réunion, y compris en décembre. Cession des ETF accélérée.",
+    "priced": "Maintien attendu ; hausse en décembre pricée à environ 80 % (swaps, 19/10). Selon InvestingCube, ce statu quo ferme était en grande partie anticipé.",
+    "reaction": "USDJPY est descendu à 156,96 puis remonté à 157,37 (InvestingCube) ; le mouvement s'est atténué car le vote dissident et la hausse des prévisions étaient attendus (Yahoo Finance). Pas de tendance à tirer de cette réaction immédiate.",
+    "impact": "Condition de confirmation du yen remplie : ton restrictif et décembre ouvert. Mais cela était déjà pricé, d'où une réaction limitée. Biais JPY relevé à légèrement fort ; la décision de décembre dépendra des données.",
+    "effect": "Biais JPY relevé (5,5 → 6,0)",
+    "tone": "ok"
+   }
   },
   {
-   "when": "Ven. 30/10, 11h00 (à vérifier)",
+   "when": "Ven. 30/10, 11h00",
    "title": "PIB zone euro T3 (flash)",
    "exclusion": false,
    "pairs": "EURUSD",
-   "status": "upcoming",
+   "status": "published",
    "forecast": "Non confirmé",
-   "previous": "Non confirmé",
+   "previous": "+0,6 % t/t (T2), 1,2 % a/a",
    "votes": "Sans objet",
    "priced": "—",
    "scenarios": [
@@ -1332,7 +1355,14 @@
      "ko"
     ]
    ],
-   "result": null
+   "result": {
+    "actual": "Zone euro +0,4 % t/t, 1,3 % a/a (T2 : +0,6 % ; 1,2 %). France −0,1 % (contraction, pire qu'attendu), Allemagne +0,2 % (consensus 0,1 %), Italie 0,0 %, Espagne +0,6 %. Consensus zone euro : non confirmé.",
+    "priced": "Non confirmé (aucun consensus zone euro trouvé dans une source vérifiable).",
+    "reaction": "Non confirmé : aucune source vérifiable sur la réaction d'EURUSD à la publication.",
+    "impact": "Ni le scénario « croissance négative » ni une « surprise positive » nette : la zone euro ralentit mais reste en croissance. La contraction française renforce le thème du stress français sans franchir de seuil (OAT–Bund). Biais EUR faible inchangé, en attente.",
+    "effect": "Biais EUR inchangé (faible)",
+    "tone": "wait"
+   }
   }
  ],
  "horizon": "Semaine suivante : 3/11 RBA (04h30) et élections américaines ; 4/11 inflation zone euro ; 5/11 BoE (13h00) et grève en France ; 6/11 emploi US (14h30) ; 10/11 CPI US (14h30).",
@@ -1651,6 +1681,31 @@
    "title": "Myfxbook – Community Outlook (page non lisible ce soir, sentiment non confirmé)",
    "url": "https://www.myfxbook.com/community/outlook",
    "date": "29/10/2026"
+  },
+  {
+   "title": "Myfxbook – Community Outlook (page non lisible ce soir, sentiment non confirmé)",
+   "url": "https://www.myfxbook.com/community/outlook",
+   "date": "30/10/2026"
+  },
+  {
+   "title": "Yahoo Finance (Reuters) – Analysts react to BOJ decision (vote 8–1, Takata)",
+   "url": "https://finance.yahoo.com/economy/policy/articles/instant-view-analysts-react-boj-032614967.html",
+   "date": "30/10/2026"
+  },
+  {
+   "title": "InvestingCube – USD/JPY: BoJ holds rates but signals further tightening",
+   "url": "https://www.investingcube.com/forex/usd-jpy-boj-holds-rates-but-signals-further-tightening/",
+   "date": "30/10/2026"
+  },
+  {
+   "title": "Eurostat – GDP up by 0.4% in the euro area (flash T3, page non accessible directement)",
+   "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-30102026-ap",
+   "date": "30/10/2026"
+  },
+  {
+   "title": "Il Sole 24 Ore – Eurozone GDP grows by 0.4% in Q3 (chiffres par pays, d'après Eurostat)",
+   "url": "https://en.ilsole24ore.com/art/eurozone-gdp-grows-by-04-per-cent-in-the-third-quarter-AJGcY9yB",
+   "date": "30/10/2026"
   }
  ],
  "lexicon": [
@@ -1685,6 +1740,10 @@
   [
    "Annualisé",
    "Croissance d'un trimestre convertie en rythme sur un an. Un PIB à +3,4 % annualisé correspond à environ +0,8 % sur le seul trimestre."
+  ],
+  [
+   "Vote dissident",
+   "Membre du comité qui vote contre la décision. Un dissident pour une hausse signale que la prochaine hausse se rapproche."
   ]
  ]
 }
