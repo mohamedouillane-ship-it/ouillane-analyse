@@ -5,7 +5,7 @@
   "end": "2026-11-06",
   "label": "Semaine du 2 au 6 novembre 2026"
  },
- "generatedAt": "2026-11-03T21:55:00+01:00",
+ "generatedAt": "2026-11-04T21:50:00+01:00",
  "nextUpdate": "Demain vers 21h40",
  "archives": [
   {
@@ -14,6 +14,24 @@
   }
  ],
  "updates": [
+  {
+   "date": "04/11 matin",
+   "text": "Élections de mi-mandat américaines : les Démocrates prennent la Chambre et le Sénat (au moins 7 sièges gagnés au Sénat). Dollar index −0,43 % à 101,43, 10 ans US ≈ 4,93 %, or +2,85 % à 4 041 $.",
+   "effect": "Résultat conforme au scénario le plus pricé (≈ 70 %) : aucune condition franchie, note USD inchangée (6,0) avant l'emploi de vendredi.",
+   "tone": "wait"
+  },
+  {
+   "date": "04/11 11h00",
+   "text": "Inflation zone euro d'octobre : 4,0 % sur un an (attendu 4,0 %, septembre 3,8 %), sous-jacent stable à 2,5 %. Énergie +20,8 %. Euro +0,6 % à 1,1262 en séance.",
+   "effect": "Conforme : note EUR inchangée (3,5). EURUSD a dépassé ses seuils d'invalidation en séance, clôture non confirmée : statut en attente.",
+   "tone": "wait"
+  },
+  {
+   "date": "04/11 21h40",
+   "text": "Sentiment retail Myfxbook : page non lue ce soir (accès refusé par l'outil), relevé non confirmé.",
+   "effect": "Aucune lecture retail ce soir ; les anciens chiffres ne sont pas recopiés.",
+   "tone": "wait"
+  },
   {
    "date": "03/11 04h30",
    "text": "RBA : hausse de 4,60 % à 4,85 %, vote 6–3 (trois membres pour un maintien). Inflation vue au-dessus de 3 % sur un an ; la phrase sur de nouvelles hausses a été retirée. Bullock : « bon moment pour faire le point ». AUD −0,3 % à 0,6976.",
@@ -340,7 +358,7 @@
     ],
     [
      "Politique",
-     "Élections de mi-mandat le 3/11 : Démocrates favoris (Polymarket : Sénat 69 %, Chambre 94 %)"
+     "Mi-mandat du 3/11 : majorité démocrate à la Chambre et au Sénat (projection CBS News) ; totaux de sièges non confirmés"
     ],
     [
      "Différentiels",
@@ -349,7 +367,7 @@
    ],
    "confirm": "NFP ≥ 55 000 avec salaires ≥ 0,3 % m/m ; décembre pricé > 80 %",
    "invalidate": "NFP négatif ou chômage ≥ 4,4 % ; décembre pricé < 50 %",
-   "simple": "Le dollar reste soutenu parce que la Fed parle encore de monter ses taux en décembre, mais le marché de l'emploi ralentit et les élections de mardi peuvent changer la donne.",
+   "simple": "Le dollar reste soutenu parce que la Fed parle encore de monter ses taux en décembre, mais il a reculé après la victoire démocrate au Congrès et l'emploi de vendredi décidera de la suite.",
    "forces": [
     [
      "up",
@@ -365,14 +383,14 @@
     ],
     [
      "risk",
-     "Élections du 3/11 : un Congrès divisé ou démocrate change les perspectives budgétaires, réaction imprévisible"
+     "Élections du 3/11 : les Démocrates prennent la Chambre et le Sénat (scénario pricé à ≈ 70 %) ; dollar index −0,43 % à 101,43, 10 ans US ≈ 4,93 %"
     ],
     [
      "risk",
      "Chute de la tech (Nasdaq −2,86 %) : un risk-off fait baisser les taux US, ce qui peut freiner le dollar face au yen et au franc"
     ]
    ],
-   "week": "Élections mardi 3/11 (résultats dans la nuit) puis emploi d'octobre vendredi 6/11 à 14h30 : consensus 55 000 (Newsquawk) à 63 000 (investingLive), chômage 4,2 %, salaires +0,3 % m/m.",
+   "week": "Élections passées (balayage démocrate, conforme au pricing) ; reste l'emploi d'octobre vendredi 6/11 à 14h30 : consensus 55 000 (Newsquawk) à 63 000 (investingLive), chômage 4,2 %, salaires +0,3 % m/m.",
    "mid": "Légèrement fort sur 1 à 3 mois tant que l'inflation PCE reste au-dessus de 3 % et que la Fed vise décembre. Risque principal : une dégradation nette de l'emploi.",
    "lexicon": [
     [
@@ -666,7 +684,7 @@
     ],
     [
      "Inflation",
-     "Septembre 3,8 %, core 2,5 %, services 3,2 % ; octobre attendu 4,0 % ; Italie 5,6 %, Espagne 4,9 %, France 3,8 % (IPCH)"
+     "Octobre (flash) 4,0 %, core 2,5 %, services 3,3 %, énergie 20,8 % ; septembre 3,8 %"
     ],
     [
      "Croissance",
@@ -707,14 +725,14 @@
     ],
     [
      "up",
-     "Inflation attendue à 4,0 % en octobre : la BCE devrait monter en décembre"
+     "Inflation à 4,0 % en octobre (core 2,5 %), conforme : la hausse BCE de décembre reste pricée ≈ 84 %"
     ],
     [
      "risk",
      "Fonds spéculatifs déjà très vendeurs : une détente sur la France peut provoquer un rachat brutal"
     ]
    ],
-   "week": "Inflation zone euro flash mercredi 4/11 à 11h00 (attendu 4,0 %, core 2,5 %) ; grève en France jeudi 5/11 ; discours de Lagarde jeudi 19h00.",
+   "week": "Inflation d'octobre publiée à 4,0 % (core 2,5 %), conforme ; grève en France jeudi 5/11 ; discours de Lagarde jeudi 19h00.",
    "mid": "Faible sur 1 à 3 mois tant que l'écart OAT–Bund reste au-dessus de 150 pb ; une BCE qui monte plusieurs fois changerait le tableau.",
    "lexicon": [
     [
@@ -740,7 +758,7 @@
    "driver": "Écart de notes 2,5 (USD 6,0 / EUR 3,5) : spread OAT–Bund 159 pb et écart 10 ans US–Bund ≈ 160 pb",
    "secondary": "Pétrole à 113 $ (zone euro importatrice), hausse Fed de décembre pricée ≈ 76 % contre hausse BCE > 80 %",
    "past": "Semaine −0,39 % ; plus bas à 1,1103 le 29/10 après la BCE, clôture 1,1158. PCE US conforme, PIB zone euro +0,4 % (France −0,1 %).",
-   "expect": "Inflation zone euro le 4/11 (attendu 4,0 %), grève en France le 5/11, emploi US le 6/11. Spéculateurs institutionnels (fonds) nets vendeurs −71 574 contrats.",
+   "expect": "Grève en France et discours de Lagarde le 5/11, emploi US le 6/11 à 14h30 (consensus 55 000 à 63 000). Clôture du 4/11 à vérifier face à la MM20 (1,1196) et à 1,1250. Spéculateurs institutionnels (fonds) nets vendeurs −71 574 contrats.",
    "mid": "Baissier sur 1 à 3 mois tant que l'écart OAT–Bund reste au-dessus de 150 pb et que la Fed vise décembre.",
    "scenarios": {
     "bull": "Inflation zone euro ≥ 4,2 % + NFP faible (< 0) + OAT–Bund < 150 pb → rachat des positions vendeuses vers la MM20 (1,1196) puis au-delà",
@@ -750,7 +768,7 @@
    "confirm": "OAT–Bund > 165 pb ; NFP ≥ 55 000 ; clôture sous 1,1103",
    "invalidate": "OAT–Bund < 140 pb ; NFP négatif ; clôture au-dessus de la MM20 (1,1196) puis de 1,1250",
    "simple": "Le dollar (6,0) domine l'euro (3,5), écart de 2,5 points : la paire a plus de raisons de baisser, mais elle a déjà beaucoup baissé.",
-   "trap": "Biais en grande partie dans le prix, ne pas poursuivre : la paire a parcouru 91 % de son range 3 mois vers le bas (clôture 1,1158 pour un plus bas à 1,1103). Côté spéculateurs institutionnels (COT), les fonds sont nets vendeurs d'euro (−71 574) et le rapport « legacy » du 20/10 montrait un extrême sur 3 ans : risque de rachat brutal sur une inflation forte ou un NFP faible. Traders particuliers (retail) : non confirmé.",
+   "trap": "Biais en grande partie dans le prix, ne pas poursuivre. Spéculateurs institutionnels (COT) : fonds nets vendeurs d'euro (−71 574), extrême sur 3 ans dans le rapport « legacy » du 20/10 ; le rebond du 4/11 au-dessus de la MM20 en séance illustre ce risque de rachat. Traders particuliers (retail) : relevé du 4/11 non confirmé.",
    "lexicon": [
     [
      "Range 3 mois",
@@ -761,14 +779,8 @@
      "Moyennes des clôtures des 20 et 50 dernières séances : elles indiquent la tendance courte et moyenne."
     ]
    ],
-   "retail": {
-    "long": 82,
-    "short": 18,
-    "avgLong": "1,1411",
-    "avgShort": "1,1047",
-    "asOf": "03/11/2026 21h44 (relevé Myfxbook)"
-   },
-   "statusNote": "Prix : clôture 1,1158, MM20 1,1196, MM50 1,1387, range 3 mois 1,1103–1,1711 : le prix confirme la baisse (sous les deux moyennes) mais se situe à 9 % du bas du range, mouvement étendu."
+   "retail": null,
+   "statusNote": "En attente : l'euro a touché 1,1262 en séance le 4/11, au-dessus de la MM20 (1,1196) et de 1,1250 (seuils d'invalidation), mais la clôture n'est pas confirmée ; inflation zone euro conforme (4,0 %)."
   },
   {
    "symbol": "EURJPY",
@@ -781,7 +793,7 @@
    "driver": "Écart de notes 2,5 (JPY 6,0 / EUR 3,5) : BoJ vers une hausse en décembre contre stress budgétaire français",
    "secondary": "Refuge (Iran, chute de la tech) ; écart 10 ans Bund–JGB ≈ 57 pb seulement",
    "past": "Semaine +0,03 % ; clôture 175,77, plus bas de 3 mois à 175,03 le 30/10 après la BoJ.",
-   "expect": "Inflation zone euro le 4/11, minutes BoJ le 5/11, Ueda le 6/11. Gérants d'actifs nets acheteurs de yen +91 191.",
+   "expect": "Minutes BoJ le 5/11, Ueda le 6/11, emploi US le 6/11. Gérants d'actifs nets acheteurs de yen +91 191.",
    "mid": "Baissier sur 1 à 3 mois si la BoJ monte en décembre et si l'écart OAT–Bund reste élevé.",
    "scenarios": {
     "bull": "Ueda repousse décembre + inflation zone euro ≥ 4,2 % + rebond des actions → retour vers la MM20 (176,80) puis 178",
@@ -791,21 +803,15 @@
    "confirm": "Clôture sous 175,03 ; Ueda confirme décembre ; OAT–Bund > 165 pb",
    "invalidate": "Clôture au-dessus de la MM20 (176,80) puis de 178 ; Ueda prudent sur décembre",
    "simple": "Le yen (6,0) domine l'euro (3,5), écart de 2,5 points : la Banque du Japon se prépare à monter, la zone euro souffre de la dette française.",
-   "trap": "Biais en grande partie dans le prix, ne pas poursuivre : 93 % du range 3 mois déjà parcouru vers le bas (clôture 175,77 pour un plus bas à 175,03). Spéculateurs institutionnels (COT) : achats de yen en hausse (+31 713 contrats sur la semaine selon FXTribune) et fonds vendeurs d'euro, positionnement chargé dans le sens du biais. Traders particuliers (retail) : non confirmé.",
+   "trap": "Biais en grande partie dans le prix, ne pas poursuivre : 93 % du range 3 mois déjà parcouru vers le bas (clôture 175,77 pour un plus bas à 175,03). Spéculateurs institutionnels (COT) : achats de yen en hausse (+31 713 contrats sur la semaine selon FXTribune) et fonds vendeurs d'euro, positionnement chargé dans le sens du biais. Traders particuliers (retail) : relevé du 4/11 non confirmé.",
    "lexicon": [
     [
      "Carry trade",
      "Emprunter dans une devise à taux bas (yen) pour placer dans une devise à taux plus haut. Son débouclage fait monter le yen."
     ]
    ],
-   "retail": {
-    "long": 50,
-    "short": 50,
-    "avgLong": "179,7697",
-    "avgShort": "172,1083",
-    "asOf": "03/11/2026 21h44 (relevé Myfxbook)"
-   },
-   "statusNote": "Prix : clôture 175,77, MM20 176,80, MM50 179,25, range 3 mois 175,03–186,00 : le prix confirme la baisse mais se situe à 7 % du bas du range, mouvement étendu."
+   "retail": null,
+   "statusNote": "En attente : inflation zone euro conforme (4,0 %), aucune condition franchie ; niveau de clôture du 4/11 non confirmé."
   },
   {
    "symbol": "USDCHF",
@@ -828,20 +834,14 @@
    "confirm": "Clôture au-dessus de la MM20 (0,8281) ; NFP ≥ 55 000",
    "invalidate": "Clôture sous la MM50 (0,8216) ; escalade militaire ; CPI suisse ≥ 1,5 %",
    "simple": "Le dollar (6,0) rapporte toujours plus que le franc (4,5), mais l'écart n'est plus que de 1,5 point depuis que l'inflation suisse est montée à 1,5 % : la paire n'a plus de direction propre.",
-   "trap": "Annonces binaires : résultats des élections US cette nuit et frappe possible sur l'Iran (le franc monte comme refuge). Le prix a cassé sous la MM50 en séance : vendre maintenant reviendrait à suivre un mouvement déjà fait. Spéculateurs institutionnels (COT) : fonds nets vendeurs de franc (−17 502, CFTC 27/10), position qui peut se racheter si le franc continue de monter. Traders particuliers (retail) : 61 % acheteurs (Myfxbook, 03/11 21h44).",
+   "trap": "Annonces binaires : résultats des élections US cette nuit et frappe possible sur l'Iran (le franc monte comme refuge). Le prix a cassé sous la MM50 en séance : vendre maintenant reviendrait à suivre un mouvement déjà fait. Spéculateurs institutionnels (COT) : fonds nets vendeurs de franc (−17 502, CFTC 27/10), position qui peut se racheter si le franc continue de monter. Traders particuliers (retail) : relevé du 4/11 non confirmé.",
    "lexicon": [
     [
      "Valeur refuge",
      "Actif acheté quand les investisseurs ont peur : franc, yen, or."
     ]
    ],
-   "retail": {
-    "long": 61,
-    "short": 39,
-    "avgLong": "0,8415",
-    "avgShort": "0,8137",
-    "asOf": "03/11/2026 21h44 (relevé Myfxbook)"
-   },
+   "retail": null,
    "statusNote": "Invalidé : l'inflation suisse à 1,5 % atteint la condition d'invalidation (CPI ≥ 1,5 %) ; écart de notes ramené à 1,5. Le prix est passé sous la MM50 (0,8216) en séance, clôture non confirmée."
   },
   {
@@ -865,20 +865,14 @@
    "confirm": "Biais baissier léger seulement si clôture sous la MM20 (1,3299) après la BoE",
    "invalidate": "Pour une lecture baissière : clôture au-dessus de 1,3500",
    "simple": "Le dollar (6,0) a un léger avantage sur la livre (5,0), écart d'un point seulement, et le prix monte : pas de direction claire.",
-   "trap": "Annonce binaire : la hausse BoE est déjà pricée à ≈ 95 %, la livre peut baisser sur une hausse « prudente » ou monter sur un vote plus ferme que prévu. Spéculateurs institutionnels (COT) : gérants nets vendeurs −128 893 mais fonds nets acheteurs +17 195, lecture contradictoire. Traders particuliers (retail) : non confirmé.",
+   "trap": "Annonce binaire : la hausse BoE est déjà pricée à ≈ 95 %, la livre peut baisser sur une hausse « prudente » ou monter sur un vote plus ferme que prévu. Spéculateurs institutionnels (COT) : gérants nets vendeurs −128 893 mais fonds nets acheteurs +17 195, lecture contradictoire. Traders particuliers (retail) : relevé du 4/11 non confirmé.",
    "lexicon": [
     [
      "Pricé",
      "Déjà intégré dans les prix : si l'événement se produit comme prévu, il fait peu bouger le marché."
     ]
    ],
-   "retail": {
-    "long": 37,
-    "short": 63,
-    "avgLong": "1,3493",
-    "avgShort": "1,3172",
-    "asOf": "03/11/2026 21h44 (relevé Myfxbook)"
-   },
+   "retail": null,
    "statusNote": "Prix : clôture 1,3391, MM20 1,3299, MM50 1,3378, range 3 mois 1,3132–1,3675 : le prix est au-dessus des deux moyennes et contredit le léger avantage du dollar ; écart de notes 1,0 insuffisant."
   },
   {
@@ -902,20 +896,14 @@
    "confirm": "Biais baissier léger seulement si clôture sous la MM20 (210,01) et la MM50 (210,60)",
    "invalidate": "Pour une lecture baissière : clôture au-dessus de 212",
    "simple": "Le yen (6,0) a un léger avantage sur la livre (5,0), mais l'écart est faible et le prix monte : paire sans direction.",
-   "trap": "Paire très sensible au moral des marchés : une chute des actions fait plonger GBPJPY même sans nouvelle britannique ; une intervention japonaise ferait aussi chuter la paire. Spéculateurs institutionnels (COT) : yen acheté par les gérants (+91 191), livre vendue par les gérants (−128 893). Traders particuliers (retail) : non confirmé.",
+   "trap": "Paire très sensible au moral des marchés : une chute des actions fait plonger GBPJPY même sans nouvelle britannique ; une intervention japonaise ferait aussi chuter la paire. Spéculateurs institutionnels (COT) : yen acheté par les gérants (+91 191), livre vendue par les gérants (−128 893). Traders particuliers (retail) : relevé du 4/11 non confirmé.",
    "lexicon": [
     [
      "Paire croisée",
      "Paire sans dollar (ici livre contre yen) : elle amplifie souvent les mouvements de sentiment."
     ]
    ],
-   "retail": {
-    "long": 45,
-    "short": 55,
-    "avgLong": "212,7295",
-    "avgShort": "207,0669",
-    "asOf": "03/11/2026 21h44 (relevé Myfxbook)"
-   },
+   "retail": null,
    "statusNote": "Prix : clôture 210,95, MM20 210,01, MM50 210,60, range 3 mois 206,34–217,84 : le prix est au-dessus des deux moyennes et contredit le léger avantage du yen ; écart de notes 1,0 insuffisant."
   },
   {
@@ -939,20 +927,14 @@
    "confirm": "Aucun biais : attendre une sortie de 156–159 confirmée par les rendements US",
    "invalidate": "Sans objet (pas de biais directionnel)",
    "simple": "Dollar et yen sont à égalité (6,0 chacun) : l'écart de taux pousse vers le haut, la menace d'intervention et la BoJ poussent vers le bas.",
-   "trap": "Intervention japonaise possible à l'approche de 160 : chute de plusieurs yens en une séance. Spéculateurs institutionnels (COT) : gérants acheteurs de yen (+91 191), achats en hausse sur la semaine. Traders particuliers (retail) : non confirmé.",
+   "trap": "Intervention japonaise possible à l'approche de 160 : chute de plusieurs yens en une séance. Spéculateurs institutionnels (COT) : gérants acheteurs de yen (+91 191), achats en hausse sur la semaine. Traders particuliers (retail) : relevé du 4/11 non confirmé.",
    "lexicon": [
     [
      "Écart de taux",
      "Différence de rendement entre deux pays : l'argent va vers le rendement le plus élevé."
     ]
    ],
-   "retail": {
-    "long": 45,
-    "short": 55,
-    "avgLong": "159,1034",
-    "avgShort": "155,9193",
-    "asOf": "03/11/2026 21h44 (relevé Myfxbook)"
-   },
+   "retail": null,
    "statusNote": "Prix : clôture 157,53, MM20 157,91, MM50 157,42, range 3 mois 152,87–160,87 : prix collé à ses moyennes, sans tendance ; écart de notes 0."
   },
   {
@@ -976,15 +958,9 @@
    "confirm": "Aucun biais : attendre les deux rapports d'emploi du 6/11",
    "invalidate": "Sans objet (pas de biais directionnel)",
    "simple": "Dollar américain et canadien sont à égalité (6,0 chacun) : les deux banques centrales montent leurs taux, rien ne départage la paire.",
-   "trap": "Double annonce binaire vendredi 14h30 (emploi US et canadien) : mouvement violent dans un sens ou l'autre. Spéculateurs institutionnels (COT) : fonds très vendeurs de CAD (−96 747), risque de rachat du CAD sur un bon chiffre. Traders particuliers (retail) : non confirmé.",
+   "trap": "Double annonce binaire vendredi 14h30 (emploi US et canadien) : mouvement violent dans un sens ou l'autre. Spéculateurs institutionnels (COT) : fonds très vendeurs de CAD (−96 747), risque de rachat du CAD sur un bon chiffre. Traders particuliers (retail) : relevé du 4/11 non confirmé.",
    "lexicon": [],
-   "retail": {
-    "long": 55,
-    "short": 45,
-    "avgLong": "1,4093",
-    "avgShort": "1,3913",
-    "asOf": "03/11/2026 21h44 (relevé Myfxbook)"
-   },
+   "retail": null,
    "statusNote": "Prix : clôture 1,3973, MM20 1,4124, MM50 1,4028, range 3 mois 1,3729–1,4299 : prix sous ses moyennes (pression baissière) mais écart de notes 0 : pas de biais."
   },
   {
@@ -1008,22 +984,16 @@
    "confirm": "Aucun biais : un biais haussier exigerait un écart de notes ≥ 2 et une clôture au-dessus de la MM50",
    "invalidate": "Sans objet (pas de biais directionnel)",
    "simple": "L'AUD (6,5) et le dollar (6,0) sont presque à égalité : les deux banques centrales montent, la paire n'a pas de direction propre.",
-   "trap": "La hausse RBA est faite, mais le marché peut lire le vote 6–3 comme une fin de cycle. Spéculateurs institutionnels (COT) : gérants très vendeurs (−125 237) contre fonds acheteurs (+48 414), CFTC 27/10. Traders particuliers (retail) : 53 % vendeurs, 47 % acheteurs (Myfxbook, 03/11 21h44), sans excès.",
+   "trap": "La hausse RBA est faite, mais le marché peut lire le vote 6–3 comme une fin de cycle. Spéculateurs institutionnels (COT) : gérants très vendeurs (−125 237) contre fonds acheteurs (+48 414), CFTC 27/10. Traders particuliers (retail) : relevé du 4/11 non confirmé.",
    "lexicon": [],
-   "retail": {
-    "long": 47,
-    "short": 53,
-    "avgLong": "0,7048",
-    "avgShort": "0,6756",
-    "asOf": "03/11/2026 21h44 (relevé Myfxbook)"
-   },
+   "retail": null,
    "statusNote": "En attente : la RBA a monté à 4,85 % (conforme), mais avec un vote 6–3 et un ton prudent ; écart de notes toujours 0,5, la paire reste sans biais."
   }
  ],
  "cross": [
   {
    "asset": "DXY",
-   "level": "101,92",
+   "level": "≈ 101,43 (−0,43 %, 04/11, Latin Times)",
    "facts": "−0,12 % le 30/10, ≈ +0,1 % sur la semaine ; euro (≈ 57 % du DXY) au plus bas de 3 mois ; hausse Fed de décembre ≈ 76 %",
    "bias10": "Neutre à légèrement haussier",
    "bias3m": "Légèrement haussier",
@@ -1034,7 +1004,7 @@
   },
   {
    "asset": "XAUUSD",
-   "level": "3 898,9 $ (futures déc.) · spot 3 998,6 $",
+   "level": "spot ≈ 4 041 $ (+2,85 %, 04/11, Kitco)",
    "facts": "−3,3 % le 30/10 ; spot sous MM20 (4 110,9) et MM50 (4 270,5), range 3 mois 3 995–4 684 (Alpha Vantage) ; taux longs US ≈ 4,9 %, hausse Fed pricée",
    "bias10": "Baissier (mouvement étendu)",
    "bias3m": "Neutre",
@@ -1042,17 +1012,11 @@
    "confirm": "10 ans US > 5 % ; décembre pricé > 80 % ; clôture futures sous 3 850 $",
    "invalidate": "Frappes sur l'Iran avec ruée vers les refuges ; NFP négatif ; retour au-dessus de la MM20 spot (4 110 $)",
    "simple": "L'or ne joue pas son rôle de refuge : avec des taux à près de 5 % et une Fed qui veut monter, il ne rapporte rien face aux obligations ; vendredi, des ventes pour couvrir des pertes sur actions ont accéléré la baisse.",
-   "retail": {
-    "long": 64,
-    "short": 36,
-    "avgLong": "4238,8079",
-    "avgShort": "3855,1660",
-    "asOf": "03/11/2026 21h44 (relevé Myfxbook)"
-   }
+   "retail": null
   },
   {
    "asset": "XAGUSD",
-   "level": "49,14 $ (futures) · spot 51,18 $",
+   "level": "spot ≈ 51,91 $ (+4,50 %, 04/11, Kitco)",
    "facts": "−5,86 % le 30/10 ; spot sous MM20 (57,4) et MM50 (62,2), au plus bas du range 3 mois 51,2–69,6 ; ratio or/argent ≈ 79 ; semi-conducteurs −7,2 % (demande industrielle)",
    "bias10": "Baissier (mouvement étendu)",
    "bias3m": "Neutre à baissier",
@@ -1060,13 +1024,7 @@
    "confirm": "Ratio or/argent > 80 ; nouvelle baisse des valeurs technologiques",
    "invalidate": "Retour au-dessus de 55 $ ; rebond des semi-conducteurs",
    "simple": "L'argent baisse encore plus que l'or car il dépend aussi de l'industrie (électronique, solaire) et la tech chute.",
-   "retail": {
-    "long": 63,
-    "short": 37,
-    "avgLong": "66,2923",
-    "avgShort": "51,5207",
-    "asOf": "03/11/2026 21h44 (relevé Myfxbook)"
-   }
+   "retail": null
   },
   {
    "asset": "USOIL",
@@ -1203,7 +1161,7 @@
    "title": "Élections de mi-mandat américaines (contexte exceptionnel)",
    "exclusion": false,
    "pairs": "Toutes les paires USD, US500, US100, US30, XAUUSD",
-   "status": "pending",
+   "status": "published",
    "forecast": "Polymarket : Démocrates 69 % au Sénat, 94 % à la Chambre ; balayage démocrate 70 %",
    "previous": "Chambre 220–215 républicaine ; Sénat 53–47 républicain (investingLive)",
    "votes": "Sans objet (élection)",
@@ -1228,14 +1186,21 @@
      "ok"
     ]
    ],
-   "result": null
+   "result": {
+    "actual": "Les Démocrates remportent la majorité à la Chambre et au Sénat (projection CBS News citée par Latin Times) : au moins 7 sièges gagnés au Sénat et au moins 18 à la Chambre selon Kitco (27 circonscriptions selon Latin Times). Totaux définitifs des sièges : non confirmés.",
+    "priced": "Avant : balayage démocrate ≈ 70 %, Chambre démocrate + Sénat républicain ≈ 24 %, balayage républicain ≈ 7 % (Polymarket via Newsquawk, 30/10).",
+    "reaction": "Dollar index vers 101,3 puis 101,43 (−0,43 %, plus bas de cinq semaines vers 101,26, Latin Times) ; 10 ans US ≈ 4,93 % (−2 pb), 2 ans 4,60 % ; or spot 4 041 $ (+2,85 %), argent 51,91 $ (+4,50 %) (Kitco) ; futures Nasdaq-100 jusqu'à −2,4 % puis retour à l'équilibre ; à 9h12 ET : S&P 500 +0,36 %, Nasdaq +0,83 %, Dow −0,38 % (Schwab). Réaction immédiate, aucune tendance à en tirer.",
+    "impact": "En attente : le résultat correspond au scénario le plus pricé (balayage démocrate). Le dollar recule sans franchir de condition : la note USD dépend toujours de l'emploi de vendredi et du pricing de décembre. Le 10 ans reste au-dessus de 4,80 %, seuil d'invalidation du DXY.",
+    "effect": "Balayage démocrate, conforme au pricing : dollar en repli, biais USD inchangé avant le NFP.",
+    "tone": "wait"
+   }
   },
   {
    "when": "Mer. 4/11, 11h00",
    "title": "Inflation zone euro octobre (flash)",
    "exclusion": false,
    "pairs": "EURUSD, EURJPY",
-   "status": "pending",
+   "status": "published",
    "forecast": "4,0 % a/a ; core 2,5 % (investingLive) ; Pantheon 4,0 %, BofA 3,7 % avant les données italiennes",
    "previous": "3,8 % ; core 2,5 % ; services 3,2 %",
    "votes": "BCE : décision unanime le 29/10 ; la BCE ne publie pas de votes nominatifs",
@@ -1260,7 +1225,14 @@
      "ok"
     ]
    ],
-   "result": null
+   "result": {
+    "actual": "Inflation zone euro d'octobre (flash Eurostat) : 4,0 % sur un an (consensus 4,0 %, septembre 3,8 %), +0,4 % sur le mois. Sous-jacent (hors énergie, alimentation, alcool, tabac) : 2,5 %, stable (consensus 2,5 %). Énergie 20,8 % (18,9 %), services 3,3 % (3,2 %), alimentation 1,6 % (1,3 %), biens industriels 1,2 % (1,1 %). Italie 5,6 %, France 3,8 %, Allemagne 2,8 %.",
+    "priced": "Avant : hausse BCE en décembre > 80 % (Trading Economics, 29/10). Après : ≈ 84 % sur les marchés de prédiction (Euronews).",
+    "reaction": "Euro +0,6 % à 1,1262 $ en séance (Euronews), mouvement attribué surtout aux élections américaines. Clôture du jour non confirmée. Réaction immédiate, aucune tendance à en tirer.",
+    "impact": "En attente : chiffre conforme au consensus, scénario « biais EUR inchangé ». Aucune condition franchie (ni ≥ 4,2 %, ni ≤ 3,8 %). La hausse de décembre reste l'hypothèse dominante ; la note EUR reste à 3,5, pénalisée par l'écart OAT–Bund.",
+    "effect": "Inflation 4,0 %, core 2,5 %, conforme : biais EUR inchangé, décembre toujours pricé.",
+    "tone": "wait"
+   }
   },
   {
    "when": "Jeu. 5/11, 13h00 (conf. 13h30)",
@@ -1437,6 +1409,36 @@
   ]
  },
  "sources": [
+  {
+   "title": "Eurostat — Euro area annual inflation up to 4.0% (flash octobre 2026)",
+   "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-04112026-ap",
+   "date": "04/11/2026 (titre ; page non lue, chiffres via Euronews)"
+  },
+  {
+   "title": "Euronews — Eurozone inflation hits 4%",
+   "url": "https://www.euronews.com/2026/11/04/eurozone-inflation-hits-4-which-countries-saw-prices-jump-the-most",
+   "date": "04/11/2026"
+  },
+  {
+   "title": "Kitco — Gold and silver surge as Democratic midterm sweep drives dollar, yields lower",
+   "url": "https://www.kitco.com/news/article/2026-11-04/gold-and-silver-surge-democratic-midterm-sweep-drives-dollar-yields-lower",
+   "date": "04/11/2026"
+  },
+  {
+   "title": "Latin Times — Dollar falls to five-week lows as Democrats sweep Congress",
+   "url": "https://www.latintimes.com/dollar-falls-gold-rises-after-democratic-midterm-sweep-600903",
+   "date": "04/11/2026"
+  },
+  {
+   "title": "Charles Schwab — Stock market update (open)",
+   "url": "https://www.schwab.com/learn/story/stock-market-update-open",
+   "date": "04/11/2026, 9h12 ET"
+  },
+  {
+   "title": "Myfxbook — Community Outlook",
+   "url": "https://www.myfxbook.com/community/outlook",
+   "date": "04/11/2026 : page non lue, relevé non confirmé"
+  },
   {
    "title": "Newsquawk — Week in Focus 2–6 novembre 2026",
    "url": "https://www.newsquawk.com/headlines/week-in-focus-2nd-6th-november-2026-highlights-include-us-midterm-election-nfp-ism-pmis-rba-boe-and-ez-cpi-",
