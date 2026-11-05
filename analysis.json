@@ -5,7 +5,7 @@
   "end": "2026-11-06",
   "label": "Semaine du 2 au 6 novembre 2026"
  },
- "generatedAt": "2026-11-04T21:50:00+01:00",
+ "generatedAt": "2026-11-05T21:45:00+01:00",
  "nextUpdate": "Demain vers 21h40",
  "archives": [
   {
@@ -14,6 +14,24 @@
   }
  ],
  "updates": [
+  {
+   "date": "05/11 13h00",
+   "text": "Banque d'Angleterre : taux relevé de 3,75 % à 4,00 %, comme prévu, mais vote 8–1 (attendu 7–2) ; le seul opposant, Mann, voulait 4,25 %. Bailey : sauf résolution au Moyen-Orient, ce ne sera probablement pas la dernière hausse. Inflation prévue en pic à 4,8 % mi-2027. Livre en hausse face au dollar (chiffre non confirmé).",
+   "effect": "Condition de confirmation GBP franchie : note GBP 5,0 → 5,5. GBPUSD : écart réduit à 0,5, en attente. GBPJPY : lecture baissière invalidée (clôture 4/11 à 213,41 au-dessus de 212).",
+   "tone": "ok"
+  },
+  {
+   "date": "05/11 21h40",
+   "text": "Sentiment retail Myfxbook : page non lue ce soir (autorisation d'accès non obtenue par l'outil), relevé non confirmé.",
+   "effect": "Aucune lecture retail ce soir ; les anciens chiffres ne sont pas recopiés.",
+   "tone": "wait"
+  },
+  {
+   "date": "05/11 21h40",
+   "text": "Budget fédéral canadien prévu à 22h00 : non publié à l'heure de cette mise à jour.",
+   "effect": "USDCAD inchangé ; traité au prochain suivi.",
+   "tone": "wait"
+  },
   {
    "date": "04/11 matin",
    "text": "Élections de mi-mandat américaines : les Démocrates prennent la Chambre et le Sénat (au moins 7 sièges gagnés au Sénat). Dollar index −0,43 % à 101,43, 10 ans US ≈ 4,93 %, or +2,85 % à 4 041 $.",
@@ -545,18 +563,18 @@
   },
   {
    "code": "GBP",
-   "score": 5.0,
-   "direction": "Neutre",
+   "score": 5.5,
+   "direction": "Légèrement haussier",
    "confidence": "Faible",
-   "reason": "Hausse BoE à 4,00 % pricée ≈ 95 % : soutien déjà dans le prix, croissance fragile",
+   "reason": "BoE à 4,00 % votée 8–1 (un vote pour 0,50 point) et nouvelle hausse jugée probable par Bailey ; croissance fragile",
    "details": [
     [
      "Banque centrale",
-     "BoE 3,75 %, vote 6–3 le 16/09 (trois pour une hausse) ; hausse à 4,00 % attendue le 5/11 par 18 instituts sur 21"
+     "BoE relevée à 4,00 % le 5/11, vote 8–1 (Mann pour 4,25 %) ; Bailey : pas probablement la dernière hausse sauf résolution au Moyen-Orient"
     ],
     [
      "Inflation",
-     "CPI septembre 3,5 %, core 2,8 %, services 3,7 % ; passage au-dessus de 4 % attendu début 2027 (FinChiefs)"
+     "CPI septembre 3,5 %, core 2,8 %, services 3,7 % ; prévision BoE : pic 4,8 % au T2 2027, retour à 2 % au T3 2028"
     ],
     [
      "Emploi",
@@ -568,7 +586,7 @@
     ],
     [
      "Pricé",
-     "Hausse du 5/11 ≈ 95 % (FinChiefs), ≈ 94 % (Polymarket) ; nouvelles hausses pricées en février et juillet (Trading Economics)"
+     "Après la BoE : hausse de décembre « à pile ou face », trois hausses pricées pour 2027 (Reuters via Investing.com, 5/11)"
     ],
     [
      "Budget",
@@ -581,26 +599,30 @@
    ],
    "confirm": "Vote 7–2 ou plus net pour la hausse et message ouvert sur février",
    "invalidate": "Vote serré (5–4) ou message « une hausse puis pause » qui fait reculer le pricing de février",
-   "simple": "La livre est neutre : la Banque d'Angleterre devrait monter ses taux jeudi, mais tout le monde l'attend déjà ; c'est le message pour la suite qui fera bouger la livre.",
+   "simple": "La livre devient légèrement favorable : la Banque d'Angleterre a monté ses taux à 4,00 % avec un vote plus net que prévu (8 contre 1, le seul opposant voulait monter plus) et laisse la porte ouverte à une nouvelle hausse.",
    "forces": [
     [
      "up",
-     "Hausse à 4,00 % attendue jeudi et inflation services 3,7 % : taux britanniques parmi les plus élevés"
+     "Hausse à 4,00 % votée 8–1, un membre voulait 4,25 % : vote plus ferme que le 7–2 attendu"
+    ],
+    [
+     "up",
+     "Bailey et Lombardelli jugent une nouvelle hausse probable si les pressions inflationnistes restent fortes"
     ],
     [
      "down",
-     "Hausse pricée à ≈ 95 % : pas de surprise possible dans le sens d'une hausse"
+     "Taylor : « pas le début d'un cycle de hausses » ; communiqué sans trajectoire prédéfinie"
     ],
     [
      "down",
-     "La plupart des instituts jugent le marché trop optimiste sur le nombre de hausses (4 ou plus pricées)"
+     "Croissance britannique fragile et chômage 4,7 %"
     ],
     [
      "risk",
-     "Vote serré ou ton prudent : la livre peut baisser malgré la hausse"
+     "Fin du conflit au Moyen-Orient : baisse du pétrole qui retirerait la justification des hausses"
     ]
    ],
-   "week": "BoE jeudi 5/11 à 13h00 (rapport + conférence de Bailey 13h30) : hausse à 4,00 % pricée ≈ 95 %. Le vote et le pricing de février font le prix.",
+   "week": "BoE passée (5/11) : hausse à 4,00 % votée 8–1, confirmation du biais. Reste l'emploi US vendredi 6/11 à 14h30, qui joue sur GBPUSD par le dollar.",
    "mid": "Neutre sur 1 à 3 mois : la BoE soutient, la croissance freine ; aucun moteur dominant.",
    "lexicon": [
     [
@@ -610,6 +632,14 @@
     [
      "Vote 7–2",
      "Sept membres pour la décision, deux contre."
+    ],
+    [
+     "Vote 8–1",
+     "Huit membres pour la décision, un contre (ici, il voulait une hausse plus forte)."
+    ],
+    [
+     "MPC",
+     "Comité de politique monétaire de la BoE : neuf membres qui votent le taux."
     ]
    ]
   },
@@ -846,16 +876,16 @@
   },
   {
    "symbol": "GBPUSD",
-   "dominant": "Aucune nette (USD 6,0 / GBP 5,0)",
+   "dominant": "Aucune nette (USD 6,0 / GBP 5,5)",
    "bias10": "Neutre, en attente de confirmation par le prix",
    "bias3m": "Neutre",
    "kind": "flat",
    "confidence": "Faible",
    "status": "pending",
-   "driver": "Écart de notes 1,0 : hausse BoE pricée ≈ 95 % contre hausse Fed de décembre ≈ 76 %",
+   "driver": "Écart de notes 0,5 : BoE à 4,00 % votée 8–1 contre hausse Fed de décembre ≈ 76 %",
    "secondary": "Écart 10 ans Gilt–US +35 pb en faveur de la livre ; croissance britannique fragile",
-   "past": "Semaine +0,14 % ; clôture 1,3391 au-dessus de ses deux moyennes.",
-   "expect": "BoE le 5/11 (vote et ton), emploi US le 6/11, élections US le 3/11.",
+   "past": "Clôture 1,3471 le 4/11 (Alpha Vantage) ; 5/11 : livre en hausse après la BoE, clôture non confirmée.",
+   "expect": "Emploi US le 6/11 à 14h30 : seul événement majeur restant cette semaine pour la paire.",
    "mid": "Neutre sur 1 à 3 mois : deux banques centrales qui montent, aucun moteur dominant.",
    "scenarios": {
     "bull": "Vote BoE 7–2 ou mieux avec février ouvert + NFP faible → 1,3500 puis plus haut de 3 mois 1,3675",
@@ -864,8 +894,8 @@
    },
    "confirm": "Biais baissier léger seulement si clôture sous la MM20 (1,3299) après la BoE",
    "invalidate": "Pour une lecture baissière : clôture au-dessus de 1,3500",
-   "simple": "Le dollar (6,0) a un léger avantage sur la livre (5,0), écart d'un point seulement, et le prix monte : pas de direction claire.",
-   "trap": "Annonce binaire : la hausse BoE est déjà pricée à ≈ 95 %, la livre peut baisser sur une hausse « prudente » ou monter sur un vote plus ferme que prévu. Spéculateurs institutionnels (COT) : gérants nets vendeurs −128 893 mais fonds nets acheteurs +17 195, lecture contradictoire. Traders particuliers (retail) : relevé du 4/11 non confirmé.",
+   "simple": "La livre (5,5) se rapproche du dollar (6,0) après la hausse de la Banque d'Angleterre : écart d'un demi-point seulement, la paire reste sans direction claire.",
+   "trap": "Vote BoE ferme mais Taylor nie un cycle de hausses : la livre peut reperdre si l'emploi US surprend à la hausse. Spéculateurs institutionnels (COT) : gérants nets vendeurs de livre −128 893, fonds nets acheteurs +17 195 (27/10), lecture contradictoire. Traders particuliers (retail) : relevé du 5/11 non confirmé.",
    "lexicon": [
     [
      "Pricé",
@@ -873,20 +903,20 @@
     ]
    ],
    "retail": null,
-   "statusNote": "Prix : clôture 1,3391, MM20 1,3299, MM50 1,3378, range 3 mois 1,3132–1,3675 : le prix est au-dessus des deux moyennes et contredit le léger avantage du dollar ; écart de notes 1,0 insuffisant."
+   "statusNote": "Clôture du 4/11 à 1,3471 (Alpha Vantage), au-dessus de la MM20 (1,3299) et sous 1,3500 : aucune condition franchie ; écart de notes réduit à 0,5 après la BoE, la paire reste sans direction."
   },
   {
    "symbol": "GBPJPY",
-   "dominant": "Aucune nette (JPY 6,0 / GBP 5,0)",
+   "dominant": "Aucune nette (JPY 6,0 / GBP 5,5)",
    "bias10": "Neutre, en attente de confirmation par le prix",
    "bias3m": "Neutre",
    "kind": "flat",
    "confidence": "Faible",
-   "status": "pending",
-   "driver": "Écart de notes 1,0 : BoJ vers décembre contre BoE qui monte le 5/11",
+   "status": "invalidated",
+   "driver": "Écart de notes 0,5 : BoJ vers décembre contre BoE relevée à 4,00 % (vote 8–1)",
    "secondary": "Écart 10 ans Gilt–JGB ≈ 252 pb favorable à la livre ; refuge yen en cas d'escalade",
-   "past": "Semaine +0,57 % ; clôture 210,95 au-dessus de ses deux moyennes.",
-   "expect": "BoE le 5/11, Ueda le 6/11, emploi US le 6/11.",
+   "past": "Clôture 213,41 le 4/11 (Alpha Vantage), au-dessus de 212 ; réaction du 5/11 après la BoE non confirmée.",
+   "expect": "Ueda le 6/11, emploi US le 6/11 à 14h30 (moral des marchés).",
    "mid": "Neutre sur 1 à 3 mois : carry favorable à la livre contre BoJ qui se durcit.",
    "scenarios": {
     "bull": "BoE ferme + actions qui rebondissent → 212 puis 214",
@@ -895,8 +925,8 @@
    },
    "confirm": "Biais baissier léger seulement si clôture sous la MM20 (210,01) et la MM50 (210,60)",
    "invalidate": "Pour une lecture baissière : clôture au-dessus de 212",
-   "simple": "Le yen (6,0) a un léger avantage sur la livre (5,0), mais l'écart est faible et le prix monte : paire sans direction.",
-   "trap": "Paire très sensible au moral des marchés : une chute des actions fait plonger GBPJPY même sans nouvelle britannique ; une intervention japonaise ferait aussi chuter la paire. Spéculateurs institutionnels (COT) : yen acheté par les gérants (+91 191), livre vendue par les gérants (−128 893). Traders particuliers (retail) : relevé du 4/11 non confirmé.",
+   "simple": "Le yen (6,0) n'a plus qu'un demi-point d'avance sur la livre (5,5) et le prix a clôturé au-dessus de 212 : la lecture baissière est abandonnée, paire sans direction.",
+   "trap": "Paire très sensible au moral des marchés : une chute des actions ou une intervention japonaise ferait chuter GBPJPY même après une BoE ferme. Spéculateurs institutionnels (COT) : yen acheté par les gérants (+91 191), livre vendue par les gérants (−128 893). Traders particuliers (retail) : relevé du 5/11 non confirmé.",
    "lexicon": [
     [
      "Paire croisée",
@@ -904,7 +934,7 @@
     ]
    ],
    "retail": null,
-   "statusNote": "Prix : clôture 210,95, MM20 210,01, MM50 210,60, range 3 mois 206,34–217,84 : le prix est au-dessus des deux moyennes et contredit le léger avantage du yen ; écart de notes 1,0 insuffisant."
+   "statusNote": "Clôture du 4/11 à 213,41 (Alpha Vantage), au-dessus de 212 : la lecture baissière légère est invalidée ; l'écart de notes réduit à 0,5 ne donne plus d'avantage au yen."
   },
   {
    "symbol": "USDJPY",
@@ -1239,7 +1269,7 @@
    "title": "Décision BoE + rapport (MPR)",
    "exclusion": false,
    "pairs": "GBPUSD, GBPJPY",
-   "status": "pending",
+   "status": "published",
    "forecast": "Hausse de 3,75 % à 4,00 % (18 instituts sur 21)",
    "previous": "3,75 %, vote 6–3 le 16/09 (trois pour une hausse)",
    "votes": "Dernier vote 6–3 (maintien). Attendu : 7–2 pour la hausse selon le calendrier investingLive (source unique)",
@@ -1264,7 +1294,14 @@
      "ko"
     ]
    ],
-   "result": null
+   "result": {
+    "actual": "Bank Rate relevé de 3,75 % à 4,00 % (consensus 4,00 %), première hausse depuis août 2023. Vote 8–1 : 8 pour +0,25 point (Bailey, Breeden, Dhingra, Greene, Lombardelli, Pill, Ramsden, Taylor), 1 pour +0,50 point (Mann). Communiqué : « la politique monétaire n'est pas sur une trajectoire prédéfinie ». Bailey : sauf résolution du conflit au Moyen-Orient, « il ne semble pas probable que ce soit la dernière hausse ». Prévision d'inflation : pic à 4,8 % au 2e trimestre 2027, retour à 2 % au 3e trimestre 2028 ; scénario défavorable (pétrole ≈ 130 $) 6,2 %.",
+    "priced": "Avant : hausse ≈ 95 % (FinChiefs, 30/10), ≈ 94 % (Polymarket) ; vote attendu 7–2 (calendrier investingLive, source unique). Après : hausse en décembre jugée « à pile ou face » et trois hausses d'un quart de point pricées pour 2027 (Reuters via Investing.com).",
+    "reaction": "Livre en hausse face au dollar et rendement du Gilt 2 ans en hausse (Reuters via Investing.com, sans chiffre) ; FTSE 100 ≈ +0,6 % (MoneyWeek). Niveaux de clôture GBPUSD et GBPJPY du 5/11 non confirmés. Réaction immédiate, aucune tendance à en tirer.",
+    "impact": "Confirmé : vote 8–1, plus net que le 7–2 attendu, avec un dissident pour une hausse plus forte, et message ouvert sur une nouvelle hausse (Bailey, Lombardelli). La condition de confirmation GBP est franchie : note GBP relevée de 5,0 à 5,5. Nuance : Taylor précise que ce n'est « pas le début d'un cycle de hausses ».",
+    "effect": "Hausse à 4,00 % votée 8–1, porte ouverte à une suite : GBP relevée à 5,5.",
+    "tone": "ok"
+   }
   },
   {
    "when": "Jeu. 5/11, 22h00",
@@ -1398,7 +1435,7 @@
   "avoid": [
    "USDCHF : biais haussier invalidé le 3/11 (CPI suisse 1,5 %, écart de notes ramené à 1,5), prix sous la MM50 en séance.",
    "USDJPY, USDCAD, AUDUSD : devises à égalité ou presque (écart 0 à 0,5), annonces binaires (intervention, emplois, RBA).",
-   "GBPUSD et GBPJPY : écart de notes de 1 seulement et prix au-dessus de ses moyennes ; BoE déjà pricée à ≈ 95 %."
+   "GBPUSD et GBPJPY : écart de notes réduit à 0,5 après la BoE du 5/11 (GBP 5,5) ; lecture baissière de GBPJPY invalidée (clôture 213,41 au-dessus de 212)."
   ],
   "watch": [
    "Élections du 3/11 : balayage républicain (≈ 7 % pricé) → dollar et taux US en hausse.",
@@ -1623,6 +1660,31 @@
    "title": "Alpha Vantage — Or spot (contrôle de fraîcheur des prix Myfxbook)",
    "url": "https://www.alphavantage.co/documentation/",
    "date": "03/11/2026 21h45"
+  },
+  {
+   "title": "Myfxbook — Community Outlook (page non lue, relevé non confirmé)",
+   "url": "https://www.myfxbook.com/community/outlook",
+   "date": "05/11/2026 21h40"
+  },
+  {
+   "title": "ActionForex — BoE Bank rate increased to 4% (vote 8–1 nominatif, extraits du communiqué)",
+   "url": "https://www.actionforex.com/central-banks/bank-of-england/659951-boe-bank-rate-increased-to-4-2/",
+   "date": "05/11/2026"
+  },
+  {
+   "title": "Reuters via Investing.com — Bank of England raises rates for first time since 2023, warns more likely",
+   "url": "https://ca.investing.com/news/economy-news/bank-of-england-raises-rates-for-first-time-since-2023-warns-more-likely-4935844",
+   "date": "05/11/2026"
+  },
+  {
+   "title": "MoneyWeek — Live: Bank of England raises interest rates",
+   "url": "https://moneyweek.com/economy/news/live/uk-interest-rates-november-bank-of-england",
+   "date": "05/11/2026"
+  },
+  {
+   "title": "Alpha Vantage — FX_DAILY GBPUSD et GBPJPY (clôtures du 4/11)",
+   "url": "https://www.alphavantage.co/documentation/",
+   "date": "05/11/2026 21h40"
   }
  ],
  "lexicon": [
@@ -1673,6 +1735,14 @@
   [
    "Vote dissident",
    "Membre du comité qui vote contre la décision. Un dissident pour une hausse signale que la prochaine hausse se rapproche."
+  ],
+  [
+   "MPC",
+   "Comité de politique monétaire de la Banque d'Angleterre : neuf membres qui votent le taux."
+  ],
+  [
+   "Vote 8–1",
+   "Huit membres pour la décision, un contre."
   ]
  ]
 }
