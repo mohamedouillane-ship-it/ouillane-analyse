@@ -5,8 +5,8 @@
   "end": "2026-11-06",
   "label": "Semaine du 2 au 6 novembre 2026"
  },
- "generatedAt": "2026-11-05T21:45:00+01:00",
- "nextUpdate": "Demain vers 21h40",
+ "generatedAt": "2026-11-06T21:45:00+01:00",
+ "nextUpdate": "Samedi vers 08h35",
  "archives": [
   {
    "label": "Semaine du 26/10/2026",
@@ -14,6 +14,30 @@
   }
  ],
  "updates": [
+  {
+   "date": "06/11 14h30",
+   "text": "Emploi américain d'octobre : +165 000 emplois, contre 55 000 à 63 000 attendus ; chômage en baisse à 4,1 % ; salaires +0,4 % sur le mois et 3,1 % sur un an ; août et septembre relevés de 84 000. Le dollar index a pris 0,7 % à 102,22 et la hausse de la Fed en décembre est pricée à ≈ 78 % (≈ 70 % avant).",
+   "effect": "Condition de confirmation USD franchie : note USD 6,0 → 6,5. EURUSD confirmé (écart 3,0). USDCHF repasse de « invalidé » à « en attente » (écart 2,0, signaux contradictoires). Décembre reste sous le seuil de 80 %.",
+   "tone": "ok"
+  },
+  {
+   "date": "06/11 14h30",
+   "text": "Emploi canadien d'octobre : −4 700 emplois (attendu +14 500), troisième mois négatif ; chômage en hausse à 6,7 % (6,5 % attendu) ; salaires +2,2 % sur un an.",
+   "effect": "Conditions d'invalidation CAD atteintes : note CAD 6,0 → 5,5. USDCAD : écart 1,0 en faveur du dollar américain, toujours sans biais.",
+   "tone": "ko"
+  },
+  {
+   "date": "05/11 22h00",
+   "text": "Budget fédéral canadien : déficit 2026-27 de 62,3 milliards de dollars, légèrement sous les 63,3 milliards évoqués avant publication.",
+   "effect": "Scénario « conforme » : pas d'effet sur la note CAD ; réaction du marché non confirmée.",
+   "tone": "wait"
+  },
+  {
+   "date": "06/11 21h40",
+   "text": "Sentiment retail Myfxbook : page non lue ce soir (autorisation d'accès non obtenue par l'outil), relevé non confirmé.",
+   "effect": "Aucune lecture retail ce soir ; les anciens chiffres ne sont pas recopiés.",
+   "tone": "wait"
+  },
   {
    "date": "05/11 13h00",
    "text": "Banque d'Angleterre : taux relevé de 3,75 % à 4,00 %, comme prévu, mais vote 8–1 (attendu 7–2) ; le seul opposant, Mann, voulait 4,25 %. Bailey : sauf résolution au Moyen-Orient, ce ne sera probablement pas la dernière hausse. Inflation prévue en pic à 4,8 % mi-2027. Livre en hausse face au dollar (chiffre non confirmé).",
@@ -93,8 +117,8 @@
     "label": "US 10 ans · 2 ans 4,56 % (30/10)"
    },
    {
-    "value": "≈ 76 %",
-    "label": "Hausse Fed en décembre pricée (CME FedWatch, 30/10)"
+    "value": "≈ 78 %",
+    "label": "Hausse Fed en décembre pricée (Reuters, 6/11, après l'emploi)"
    },
    {
     "value": "−2,86 %",
@@ -106,7 +130,7 @@
    "Deux hausses pricées cette semaine : RBA à 4,85 % le 3/11 (≈ 79 % selon Newsquawk) et BoE à 4,00 % le 5/11 (≈ 95 % selon FinChiefs).",
    "Inflation qui réaccélère : PCE US 3,6 % (core 3,1 %), zone euro 3,8 % en septembre avec 4,0 % attendu en octobre, Royaume-Uni 3,5 %, Australie 4,3 % en septembre.",
    "Taux longs élevés mais en léger repli sur la semaine : US 10 ans 4,94 %, Gilt 5,29 %, OAT 4,93 %, Bund 3,34 %, JGB 2,77 % (30/10).",
-   "Croissance divergente : PIB US T3 +3,4 % annualisé mais seulement 29 000 emplois en septembre ; zone euro +0,4 % au T3 avec la France à −0,1 %.",
+   "Croissance divergente : PIB US T3 +3,4 % annualisé et +165 000 emplois en octobre (chômage 4,1 %) ; zone euro +0,4 % au T3 avec la France à −0,1 %.",
    "Choc actions : Nasdaq-100 −3,46 % et semi-conducteurs −7,2 % le 30/10 (Intel, Amazon, Alphabet) ; VIX 19,42."
   ],
   "interpretation": "Le marché combine deux peurs : une inflation tirée par le pétrole qui oblige les banques centrales à monter leurs taux, et un doute sur les dépenses IA qui fait chuter la tech. Ce n'est pas un risk-off franc (DXY quasi stable à 101,92) mais les refuges classiques ne jouent pas tous : l'or a perdu 3,3 % vendredi. La semaine est chargée en événements binaires (RBA, élections américaines, BoE, emploi US) : les biais restent conditionnels.",
@@ -205,6 +229,30 @@
     "previous": "Zone euro septembre 3,8 %",
     "reaction": "Prévision zone euro relevée à 4,0 % (Pantheon)",
     "date": "30/10"
+   },
+   {
+    "name": "Budget fédéral canadien",
+    "actual": "Déficit 2026-27 : 62,3 Md$",
+    "expected": "63,3 Md$ évoqués (Money.ca)",
+    "previous": "Non confirmé",
+    "reaction": "Réaction du CAD non confirmée",
+    "date": "05/11"
+   },
+   {
+    "name": "Emploi US octobre (NFP)",
+    "actual": "+165 000 ; chômage 4,1 % ; salaires +0,4 % m/m, 3,1 % a/a ; révisions +84 000",
+    "expected": "+55 000 à +63 000 ; 4,2 % ; +0,3 %",
+    "previous": "+29 000 (révisé +60 000) ; 4,2 %",
+    "reaction": "DXY +0,7 % à 102,22 ; 2 ans 4,52 % (+6 pb) ; décembre ≈ 78 %",
+    "date": "06/11"
+   },
+   {
+    "name": "Emploi Canada octobre",
+    "actual": "−4 700 ; chômage 6,7 %",
+    "expected": "+14 500 ; 6,5 %",
+    "previous": "−68 300 ; 6,5 %",
+    "reaction": "Non confirmée",
+    "date": "06/11"
    }
   ],
   "markets": [
@@ -345,10 +393,10 @@
   },
   {
    "code": "USD",
-   "score": 6.0,
+   "score": 6.5,
    "direction": "Légèrement forte",
    "confidence": "Moyenne",
-   "reason": "Fed restrictive et hausse de décembre pricée ≈ 76 %, mais emploi faible et élections binaires",
+   "reason": "Fed restrictive, emploi d'octobre très au-dessus des attentes (+165 000, salaires +0,4 %) et hausse de décembre pricée ≈ 78 %",
    "details": [
     [
      "Banque centrale",
@@ -360,7 +408,7 @@
     ],
     [
      "Emploi",
-     "+29 000 en septembre, chômage 4,2 %, salaires 3,0 % a/a"
+     "+165 000 en octobre (consensus 55 000–63 000), chômage 4,1 %, salaires +0,4 % m/m et 3,1 % a/a ; août et septembre révisés de +84 000 (BLS, 6/11)"
     ],
     [
      "Croissance",
@@ -368,11 +416,11 @@
     ],
     [
      "Taux",
-     "2 ans 4,56 %, 10 ans 4,94 % (30/10) ; réel non confirmé cette semaine"
+     "2 ans 4,52 %, 10 ans 4,87 %, 30 ans 5,27 % (Reuters, 6/11, après l'emploi)"
     ],
     [
      "Pricé",
-     "Hausse en décembre ≈ 76 % (CME FedWatch, 30/10) ; Polymarket/Kalshi ≈ 72 %"
+     "Hausse en décembre ≈ 78 % après l'emploi, contre ≈ 70 % avant (Reuters, 6/11)"
     ],
     [
      "Politique",
@@ -383,32 +431,32 @@
      "10 ans US–Bund ≈ 160 pb ; US–JGB ≈ 217 pb"
     ]
    ],
-   "confirm": "NFP ≥ 55 000 avec salaires ≥ 0,3 % m/m ; décembre pricé > 80 %",
-   "invalidate": "NFP négatif ou chômage ≥ 4,4 % ; décembre pricé < 50 %",
-   "simple": "Le dollar reste soutenu parce que la Fed parle encore de monter ses taux en décembre, mais il a reculé après la victoire démocrate au Congrès et l'emploi de vendredi décidera de la suite.",
+   "confirm": "Décembre pricé > 80 % ; CPI d'octobre (10/11) ≥ consensus",
+   "invalidate": "CPI d'octobre nettement sous le consensus ; décembre pricé < 50 % ; 10 ans US < 4,70 %",
+   "simple": "Le dollar se renforce : l'emploi américain d'octobre est près de trois fois supérieur aux attentes et les salaires accélèrent, ce qui rend plus probable une hausse de la Fed en décembre (≈ 78 %).",
    "forces": [
     [
      "up",
-     "Inflation PCE 3,6 % et core 3,1 % : la Fed garde un biais de hausse, pricée à ≈ 76 % pour décembre"
+     "+165 000 emplois en octobre contre 55 000 à 63 000 attendus, chômage en baisse à 4,1 % : le marché du travail ne freine pas la Fed"
     ],
     [
      "up",
-     "Deux membres du FOMC ont déjà voté pour une hausse le 28/10, Musalem et Barkin vont dans le même sens"
+     "Salaires +0,4 % sur le mois et 3,1 % sur un an : pression sur l'inflation, argument pour une hausse en décembre"
     ],
     [
-     "down",
-     "Seulement 29 000 emplois en septembre : un nouveau chiffre faible vendredi ferait reculer la hausse de décembre"
-    ],
-    [
-     "risk",
-     "Élections du 3/11 : les Démocrates prennent la Chambre et le Sénat (scénario pricé à ≈ 70 %) ; dollar index −0,43 % à 101,43, 10 ans US ≈ 4,93 %"
+     "up",
+     "Inflation PCE 3,6 % et core 3,1 % ; deux membres du FOMC ont déjà voté pour une hausse le 28/10"
     ],
     [
      "risk",
-     "Chute de la tech (Nasdaq −2,86 %) : un risk-off fait baisser les taux US, ce qui peut freiner le dollar face au yen et au franc"
+     "Décembre pricé ≈ 78 %, encore sous le seuil de 80 % : le CPI d'octobre (10/11) doit le confirmer"
+    ],
+    [
+     "risk",
+     "Congrès passé aux Démocrates le 3/11 et tech fragile : un risk-off fait baisser les taux US, ce qui peut freiner le dollar face au yen et au franc"
     ]
    ],
-   "week": "Élections passées (balayage démocrate, conforme au pricing) ; reste l'emploi d'octobre vendredi 6/11 à 14h30 : consensus 55 000 (Newsquawk) à 63 000 (investingLive), chômage 4,2 %, salaires +0,3 % m/m.",
+   "week": "Emploi d'octobre publié le 6/11 : +165 000, chômage 4,1 %, salaires +0,4 %. Prochaine étape : CPI US d'octobre le 10/11 (heure à confirmer).",
    "mid": "Légèrement fort sur 1 à 3 mois tant que l'inflation PCE reste au-dessus de 3 % et que la Fed vise décembre. Risque principal : une dégradation nette de l'emploi.",
    "lexicon": [
     [
@@ -497,10 +545,10 @@
   },
   {
    "code": "CAD",
-   "score": 6.0,
-   "direction": "Légèrement forte",
+   "score": 5.5,
+   "direction": "Neutre",
    "confidence": "Moyenne",
-   "reason": "BoC passée à 2,50 % avec d'autres hausses possibles, pétrole élevé, mais emploi en chute et budget le 5/11",
+   "reason": "BoC à 2,50 % et pétrole élevé, mais troisième mois d'emploi négatif et chômage à 6,7 % ; budget conforme",
    "details": [
     [
      "Banque centrale",
@@ -512,7 +560,7 @@
     ],
     [
      "Emploi",
-     "−68 000 en septembre, −42 000 en août ; chômage 6,5 %"
+     "−4 700 en octobre (consensus +14 500), troisième mois négatif ; chômage 6,7 % (+0,2 point) ; salaires +2,2 % a/a (Statistique Canada, 6/11)"
     ],
     [
      "Termes de l'échange",
@@ -520,20 +568,20 @@
     ],
     [
      "Budget",
-     "Budget fédéral le 5/11 ; déficit évoqué de 63,3 Md$ (titre Money.ca, article non lu)"
+     "Budget du 5/11 : déficit 2026-27 de 62,3 Md$ (Global News), conforme aux 63,3 Md$ évoqués"
     ],
     [
      "Positionnement",
      "Fonds spéculatifs nets vendeurs −96 747 contrats (CFTC, 27/10)"
     ]
    ],
-   "confirm": "Emploi d'octobre positif (consensus +14 500) et chômage ≤ 6,5 % ; budget sans dérapage",
-   "invalidate": "Troisième mois d'emploi négatif ou chômage ≥ 6,7 % ; chute du pétrole sous 95 $",
-   "simple": "Le dollar canadien est soutenu par la hausse de taux de la Banque du Canada et par le pétrole cher, mais l'emploi s'effondre : vendredi dira si la hausse tient.",
+   "confirm": "Inflation d'octobre ≥ 3,1 % et BoC qui maintient un discours de hausse ; pétrole > 110 $",
+   "invalidate": "Pétrole sous 95 $ ; BoC qui écarte une nouvelle hausse",
+   "simple": "Le dollar canadien perd son avantage : l'emploi recule pour le troisième mois et le chômage monte à 6,7 %, ce qui rend une nouvelle hausse de la Banque du Canada moins probable. Le pétrole cher et un budget sans dérapage le soutiennent encore.",
    "forces": [
     [
      "up",
-     "BoC relevée à 2,50 % le 28/10 et nouvelle hausse possible : rendement en hausse"
+     "BoC relevée à 2,50 % le 28/10 : rendement plus élevé qu'avant"
     ],
     [
      "up",
@@ -541,23 +589,27 @@
     ],
     [
      "down",
-     "110 000 emplois perdus en deux mois, chômage 6,5 % : frein à de nouvelles hausses"
+     "Troisième mois d'emploi négatif (−4 700 en octobre) et chômage à 6,7 % : frein à de nouvelles hausses de la BoC"
+    ],
+    [
+     "down",
+     "Salaires ralentis à 2,2 % sur un an : moins de pression inflationniste interne"
     ],
     [
      "risk",
-     "Fonds spéculatifs nets vendeurs de CAD (−96 747) : un bon chiffre d'emploi peut provoquer un rachat rapide"
-    ],
-    [
-     "risk",
-     "Budget du 5/11 : un déficit plus large que prévu peut peser"
+     "Fonds spéculatifs nets vendeurs de CAD (−96 747) : positionnement déjà chargé à la vente, rachat possible sur une bonne nouvelle"
     ]
    ],
-   "week": "Budget fédéral jeudi 5/11 à 22h00 ; emploi d'octobre vendredi 6/11 à 14h30 (consensus +14 500, chômage 6,5 %), en même temps que l'emploi US.",
-   "mid": "Légèrement ferme sur 1 à 3 mois tant que le pétrole reste au-dessus de 100 $ et que l'inflation tourne autour de 3 % ; l'emploi est le risque.",
+   "week": "Budget du 5/11 (déficit 62,3 Md$, conforme) et emploi d'octobre du 6/11 (−4 700, chômage 6,7 %) publiés. Prochaine décision BoC le 9/12.",
+   "mid": "Neutre sur 1 à 3 mois : le pétrole au-dessus de 100 $ soutient, l'emploi en baisse freine la BoC.",
    "lexicon": [
     [
      "Termes de l'échange",
      "Rapport entre les prix de ce qu'un pays exporte et de ce qu'il importe. Pétrole cher = gain pour le Canada."
+    ],
+    [
+     "Taux d'emploi",
+     "Part de la population en âge de travailler qui a un emploi."
     ]
    ]
   },
@@ -784,11 +836,11 @@
    "bias3m": "Baissier",
    "kind": "down",
    "confidence": "Moyenne",
-   "status": "pending",
-   "driver": "Écart de notes 2,5 (USD 6,0 / EUR 3,5) : spread OAT–Bund 159 pb et écart 10 ans US–Bund ≈ 160 pb",
+   "status": "confirmed",
+   "driver": "Écart de notes 3,0 (USD 6,5 / EUR 3,5) : spread OAT–Bund 159 pb (30/10) et emploi US très au-dessus des attentes",
    "secondary": "Pétrole à 113 $ (zone euro importatrice), hausse Fed de décembre pricée ≈ 76 % contre hausse BCE > 80 %",
-   "past": "Semaine −0,39 % ; plus bas à 1,1103 le 29/10 après la BCE, clôture 1,1158. PCE US conforme, PIB zone euro +0,4 % (France −0,1 %).",
-   "expect": "Grève en France et discours de Lagarde le 5/11, emploi US le 6/11 à 14h30 (consensus 55 000 à 63 000). Clôture du 4/11 à vérifier face à la MM20 (1,1196) et à 1,1250. Spéculateurs institutionnels (fonds) nets vendeurs −71 574 contrats.",
+   "past": "Clôtures 1,1227 le 4/11 et 1,1218 le 5/11 (Alpha Vantage) : au-dessus de la MM20 (1,1196) mais sous 1,1250. Inflation zone euro conforme (4,0 %), emploi US +165 000 le 6/11.",
+   "expect": "CPI US d'octobre le 10/11. Clôture du 6/11 non disponible à l'heure de ce suivi. Spéculateurs institutionnels (fonds) nets vendeurs −71 574 contrats.",
    "mid": "Baissier sur 1 à 3 mois tant que l'écart OAT–Bund reste au-dessus de 150 pb et que la Fed vise décembre.",
    "scenarios": {
     "bull": "Inflation zone euro ≥ 4,2 % + NFP faible (< 0) + OAT–Bund < 150 pb → rachat des positions vendeuses vers la MM20 (1,1196) puis au-delà",
@@ -797,8 +849,8 @@
    },
    "confirm": "OAT–Bund > 165 pb ; NFP ≥ 55 000 ; clôture sous 1,1103",
    "invalidate": "OAT–Bund < 140 pb ; NFP négatif ; clôture au-dessus de la MM20 (1,1196) puis de 1,1250",
-   "simple": "Le dollar (6,0) domine l'euro (3,5), écart de 2,5 points : la paire a plus de raisons de baisser, mais elle a déjà beaucoup baissé.",
-   "trap": "Biais en grande partie dans le prix, ne pas poursuivre. Spéculateurs institutionnels (COT) : fonds nets vendeurs d'euro (−71 574), extrême sur 3 ans dans le rapport « legacy » du 20/10 ; le rebond du 4/11 au-dessus de la MM20 en séance illustre ce risque de rachat. Traders particuliers (retail) : relevé du 4/11 non confirmé.",
+   "simple": "Le dollar (6,5) domine l'euro (3,5), écart de 3 points après l'emploi américain : la paire a plus de raisons de baisser, mais elle a déjà beaucoup baissé.",
+   "trap": "Biais en grande partie dans le prix, ne pas poursuivre. Spéculateurs institutionnels (COT) : fonds nets vendeurs d'euro (−71 574), extrême sur 3 ans ; risque de rachat brutal. Traders particuliers (retail) : relevé du 6/11 non confirmé (page Myfxbook non lue).",
    "lexicon": [
     [
      "Range 3 mois",
@@ -810,7 +862,7 @@
     ]
    ],
    "retail": null,
-   "statusNote": "En attente : l'euro a touché 1,1262 en séance le 4/11, au-dessus de la MM20 (1,1196) et de 1,1250 (seuils d'invalidation), mais la clôture n'est pas confirmée ; inflation zone euro conforme (4,0 %)."
+   "statusNote": "Confirmé sur le fondamental : NFP à +165 000, au-dessus du seuil de 55 000. Côté prix, ni la clôture sous 1,1103 ni l'invalidation (clôture au-dessus de 1,1250) ne sont atteintes ; clôture du 6/11 non confirmée."
   },
   {
    "symbol": "EURJPY",
@@ -823,7 +875,7 @@
    "driver": "Écart de notes 2,5 (JPY 6,0 / EUR 3,5) : BoJ vers une hausse en décembre contre stress budgétaire français",
    "secondary": "Refuge (Iran, chute de la tech) ; écart 10 ans Bund–JGB ≈ 57 pb seulement",
    "past": "Semaine +0,03 % ; clôture 175,77, plus bas de 3 mois à 175,03 le 30/10 après la BoJ.",
-   "expect": "Minutes BoJ le 5/11, Ueda le 6/11, emploi US le 6/11. Gérants d'actifs nets acheteurs de yen +91 191.",
+   "expect": "CPI US d'octobre le 10/11 (heure à confirmer). Discours d'Ueda du 6/11 : contenu non confirmé.",
    "mid": "Baissier sur 1 à 3 mois si la BoJ monte en décembre et si l'écart OAT–Bund reste élevé.",
    "scenarios": {
     "bull": "Ueda repousse décembre + inflation zone euro ≥ 4,2 % + rebond des actions → retour vers la MM20 (176,80) puis 178",
@@ -833,7 +885,7 @@
    "confirm": "Clôture sous 175,03 ; Ueda confirme décembre ; OAT–Bund > 165 pb",
    "invalidate": "Clôture au-dessus de la MM20 (176,80) puis de 178 ; Ueda prudent sur décembre",
    "simple": "Le yen (6,0) domine l'euro (3,5), écart de 2,5 points : la Banque du Japon se prépare à monter, la zone euro souffre de la dette française.",
-   "trap": "Biais en grande partie dans le prix, ne pas poursuivre : 93 % du range 3 mois déjà parcouru vers le bas (clôture 175,77 pour un plus bas à 175,03). Spéculateurs institutionnels (COT) : achats de yen en hausse (+31 713 contrats sur la semaine selon FXTribune) et fonds vendeurs d'euro, positionnement chargé dans le sens du biais. Traders particuliers (retail) : relevé du 4/11 non confirmé.",
+   "trap": "Biais en grande partie dans le prix, ne pas poursuivre : 93 % du range 3 mois déjà parcouru vers le bas (clôture 175,77 pour un plus bas à 175,03). Spéculateurs institutionnels (COT) : achats de yen en hausse (+31 713 contrats sur la semaine selon FXTribune) et fonds vendeurs d'euro, positionnement chargé dans le sens du biais. Traders particuliers (retail) : relevé du 6/11 non confirmé.",
    "lexicon": [
     [
      "Carry trade",
@@ -845,16 +897,16 @@
   },
   {
    "symbol": "USDCHF",
-   "dominant": "USD",
+   "dominant": "USD (6,5 / CHF 4,5)",
    "bias10": "Neutre (biais haussier invalidé par le CPI suisse)",
    "bias3m": "Neutre",
    "kind": "flat",
    "confidence": "Faible",
-   "status": "invalidated",
-   "driver": "Écart de notes 1,5 (USD 6,0 / CHF 4,5) : sous le seuil de 2 depuis l'inflation suisse à 1,5 %",
+   "status": "pending",
+   "driver": "Écart de notes revenu à 2,0 (USD 6,5 / CHF 4,5) après l'emploi US",
    "secondary": "Géopolitique (refuge franc), élections US, emploi US",
-   "past": "Semaine précédente +0,01 % (clôture 0,8250). Mardi 3/11 : CPI suisse 1,5 % ; USDCHF au plus bas de sept semaines à 0,8149 (FXStreet), 0,8209 au relevé Myfxbook de 21h44, sous la MM50 (0,8216) en séance. Clôture du jour non confirmée.",
-   "expect": "Résultats des élections US cette nuit, discours de Schlegel (BNS) jeudi 13h40, emploi US vendredi 14h30. Un nouveau biais exigerait un écart de notes ≥ 2.",
+   "past": "CPI suisse 1,5 % le 3/11 (condition d'invalidation atteinte) ; emploi US +165 000 le 6/11 (condition de confirmation atteinte).",
+   "expect": "CPI US le 10/11 ; un biais haussier exige une clôture au-dessus de la MM20 (0,8281). Clôture du 6/11 non confirmée.",
    "mid": "Neutre à haussier sur 1 à 3 mois : l'écart de taux favorise le dollar, la géopolitique favorise le franc.",
    "scenarios": {
     "bull": "Balayage républicain ou NFP fort, désescalade avec l'Iran → retour au-dessus de la MM50 (0,8216)",
@@ -863,8 +915,8 @@
    },
    "confirm": "Clôture au-dessus de la MM20 (0,8281) ; NFP ≥ 55 000",
    "invalidate": "Clôture sous la MM50 (0,8216) ; escalade militaire ; CPI suisse ≥ 1,5 %",
-   "simple": "Le dollar (6,0) rapporte toujours plus que le franc (4,5), mais l'écart n'est plus que de 1,5 point depuis que l'inflation suisse est montée à 1,5 % : la paire n'a plus de direction propre.",
-   "trap": "Annonces binaires : résultats des élections US cette nuit et frappe possible sur l'Iran (le franc monte comme refuge). Le prix a cassé sous la MM50 en séance : vendre maintenant reviendrait à suivre un mouvement déjà fait. Spéculateurs institutionnels (COT) : fonds nets vendeurs de franc (−17 502, CFTC 27/10), position qui peut se racheter si le franc continue de monter. Traders particuliers (retail) : relevé du 4/11 non confirmé.",
+   "simple": "Le dollar (6,5) reprend l'avantage sur le franc (4,5) grâce à l'emploi américain, mais l'inflation suisse a remonté : les deux signaux se contredisent, la paire reste en attente.",
+   "trap": "Signaux contradictoires (emploi US fort, inflation suisse en hausse) : risque de faux départ. Spéculateurs institutionnels (COT) : fonds nets vendeurs de CHF (−17 502). Traders particuliers (retail) : relevé du 6/11 non confirmé.",
    "lexicon": [
     [
      "Valeur refuge",
@@ -872,11 +924,11 @@
     ]
    ],
    "retail": null,
-   "statusNote": "Invalidé : l'inflation suisse à 1,5 % atteint la condition d'invalidation (CPI ≥ 1,5 %) ; écart de notes ramené à 1,5. Le prix est passé sous la MM50 (0,8216) en séance, clôture non confirmée."
+   "statusNote": "En attente : la condition de confirmation NFP ≥ 55 000 est franchie (+165 000) mais l'invalidation du 3/11 (CPI suisse 1,5 %) reste valable ; écart de notes revenu à 2,0, il manque une clôture au-dessus de la MM20 (0,8281)."
   },
   {
    "symbol": "GBPUSD",
-   "dominant": "Aucune nette (USD 6,0 / GBP 5,5)",
+   "dominant": "USD de peu (6,5 / GBP 5,5)",
    "bias10": "Neutre, en attente de confirmation par le prix",
    "bias3m": "Neutre",
    "kind": "flat",
@@ -885,7 +937,7 @@
    "driver": "Écart de notes 0,5 : BoE à 4,00 % votée 8–1 contre hausse Fed de décembre ≈ 76 %",
    "secondary": "Écart 10 ans Gilt–US +35 pb en faveur de la livre ; croissance britannique fragile",
    "past": "Clôture 1,3471 le 4/11 (Alpha Vantage) ; 5/11 : livre en hausse après la BoE, clôture non confirmée.",
-   "expect": "Emploi US le 6/11 à 14h30 : seul événement majeur restant cette semaine pour la paire.",
+   "expect": "CPI US d'octobre le 10/11 (heure à confirmer).",
    "mid": "Neutre sur 1 à 3 mois : deux banques centrales qui montent, aucun moteur dominant.",
    "scenarios": {
     "bull": "Vote BoE 7–2 ou mieux avec février ouvert + NFP faible → 1,3500 puis plus haut de 3 mois 1,3675",
@@ -903,7 +955,7 @@
     ]
    ],
    "retail": null,
-   "statusNote": "Clôture du 4/11 à 1,3471 (Alpha Vantage), au-dessus de la MM20 (1,3299) et sous 1,3500 : aucune condition franchie ; écart de notes réduit à 0,5 après la BoE, la paire reste sans direction."
+   "statusNote": "En attente : écart de notes 1,0 en faveur du dollar après l'emploi US, sous le seuil de 2 ; aucune condition de prix franchie (clôture du 6/11 non confirmée)."
   },
   {
    "symbol": "GBPJPY",
@@ -916,7 +968,7 @@
    "driver": "Écart de notes 0,5 : BoJ vers décembre contre BoE relevée à 4,00 % (vote 8–1)",
    "secondary": "Écart 10 ans Gilt–JGB ≈ 252 pb favorable à la livre ; refuge yen en cas d'escalade",
    "past": "Clôture 213,41 le 4/11 (Alpha Vantage), au-dessus de 212 ; réaction du 5/11 après la BoE non confirmée.",
-   "expect": "Ueda le 6/11, emploi US le 6/11 à 14h30 (moral des marchés).",
+   "expect": "CPI US d'octobre le 10/11 (heure à confirmer). Discours d'Ueda du 6/11 : contenu non confirmé.",
    "mid": "Neutre sur 1 à 3 mois : carry favorable à la livre contre BoJ qui se durcit.",
    "scenarios": {
     "bull": "BoE ferme + actions qui rebondissent → 212 puis 214",
@@ -938,7 +990,7 @@
   },
   {
    "symbol": "USDJPY",
-   "dominant": "Aucune (USD 6,0 / JPY 6,0)",
+   "dominant": "USD de peu (6,5 / JPY 6,0)",
    "bias10": "Neutre, paire peu propre",
    "bias3m": "Neutre",
    "kind": "flat",
@@ -947,7 +999,7 @@
    "driver": "Écart de notes 0 : écart de taux 10 ans ≈ 217 pb (pro-dollar) contre BoJ qui se durcit et menace d'intervention (pro-yen)",
    "secondary": "Rendements US (4,94 %), refuge, élections US",
    "past": "Semaine +0,43 % ; plus bas à 156,94 après la BoJ, clôture 157,53.",
-   "expect": "Élections le 3/11, emploi US le 6/11, Ueda le 6/11.",
+   "expect": "CPI US d'octobre le 10/11 (heure à confirmer). Discours d'Ueda du 6/11 : contenu non confirmé.",
    "mid": "Neutre sur 1 à 3 mois, coincé entre 152,9 et 160.",
    "scenarios": {
     "bull": "NFP solide + 10 ans US > 5 % → 158,5 puis zone d'intervention 160",
@@ -957,7 +1009,7 @@
    "confirm": "Aucun biais : attendre une sortie de 156–159 confirmée par les rendements US",
    "invalidate": "Sans objet (pas de biais directionnel)",
    "simple": "Dollar et yen sont à égalité (6,0 chacun) : l'écart de taux pousse vers le haut, la menace d'intervention et la BoJ poussent vers le bas.",
-   "trap": "Intervention japonaise possible à l'approche de 160 : chute de plusieurs yens en une séance. Spéculateurs institutionnels (COT) : gérants acheteurs de yen (+91 191), achats en hausse sur la semaine. Traders particuliers (retail) : relevé du 4/11 non confirmé.",
+   "trap": "Intervention japonaise possible à l'approche de 160 : chute de plusieurs yens en une séance. Spéculateurs institutionnels (COT) : gérants acheteurs de yen (+91 191), achats en hausse sur la semaine. Traders particuliers (retail) : relevé du 6/11 non confirmé.",
    "lexicon": [
     [
      "Écart de taux",
@@ -965,37 +1017,37 @@
     ]
    ],
    "retail": null,
-   "statusNote": "Prix : clôture 157,53, MM20 157,91, MM50 157,42, range 3 mois 152,87–160,87 : prix collé à ses moyennes, sans tendance ; écart de notes 0."
+   "statusNote": "En attente : emploi US +165 000, écart de notes 0,5, insuffisant pour un biais ; 10 ans US à 4,87 %, sous le seuil de 5 % ; clôture du 6/11 non confirmée."
   },
   {
    "symbol": "USDCAD",
-   "dominant": "Aucune (USD 6,0 / CAD 6,0)",
+   "dominant": "USD (6,5 / CAD 5,5)",
    "bias10": "Neutre, paire peu propre",
    "bias3m": "Neutre",
    "kind": "flat",
    "confidence": "Faible",
    "status": "pending",
-   "driver": "Écart de notes 0 : Fed et BoC toutes deux en mode hausse",
+   "driver": "Écart de notes 1,0 : emploi US fort contre emploi canadien en recul",
    "secondary": "Pétrole (WTI 104 $), emploi des deux pays le même jour, budget canadien",
-   "past": "Semaine −0,22 % ; clôture 1,3973 sous ses deux moyennes après la hausse BoC.",
-   "expect": "Budget canadien le 5/11 à 22h00, emplois US et canadien le 6/11 à 14h30.",
+   "past": "Clôtures 1,3977 le 4/11 et 1,4016 le 5/11 (Alpha Vantage). Budget conforme (déficit 62,3 Md$) ; emploi Canada −4 700, chômage 6,7 % ; emploi US +165 000.",
+   "expect": "CPI US le 10/11 ; CPI canadien d'octobre (date non confirmée ici) ; BoC le 9/12.",
    "mid": "Neutre sur 1 à 3 mois ; une baisse nécessiterait un emploi canadien qui se redresse.",
    "scenarios": {
     "bull": "Emploi canadien négatif + NFP solide → retour au-dessus de la MM50 (1,4028)",
     "central": "Range 1,39–1,41",
     "bear": "Emploi canadien positif + pétrole > 110 $ → 1,3850 puis 1,3729"
    },
-   "confirm": "Aucun biais : attendre les deux rapports d'emploi du 6/11",
+   "confirm": "Aucun biais : un biais haussier exigerait un écart de notes ≥ 2 et une clôture au-dessus de la MM20 (1,4124)",
    "invalidate": "Sans objet (pas de biais directionnel)",
-   "simple": "Dollar américain et canadien sont à égalité (6,0 chacun) : les deux banques centrales montent leurs taux, rien ne départage la paire.",
-   "trap": "Double annonce binaire vendredi 14h30 (emploi US et canadien) : mouvement violent dans un sens ou l'autre. Spéculateurs institutionnels (COT) : fonds très vendeurs de CAD (−96 747), risque de rachat du CAD sur un bon chiffre. Traders particuliers (retail) : relevé du 4/11 non confirmé.",
+   "simple": "Le dollar américain (6,5) passe devant le canadien (5,5) après les deux rapports d'emploi, mais l'écart d'un point reste trop faible pour donner une direction claire.",
+   "trap": "Spéculateurs institutionnels (COT) : fonds très vendeurs de CAD (−96 747) ; si l'emploi canadien déçoit, ce positionnement est déjà dans le prix. Traders particuliers (retail) : relevé du 6/11 non confirmé.",
    "lexicon": [],
    "retail": null,
-   "statusNote": "Prix : clôture 1,3973, MM20 1,4124, MM50 1,4028, range 3 mois 1,3729–1,4299 : prix sous ses moyennes (pression baissière) mais écart de notes 0 : pas de biais."
+   "statusNote": "En attente : emplois publiés (US +165 000, Canada −4 700) ; écart de notes porté à 1,0, sous le seuil de 2 nécessaire pour un biais. Clôture du 6/11 non confirmée."
   },
   {
    "symbol": "AUDUSD",
-   "dominant": "Aucune nette (AUD 6,5 / USD 6,0)",
+   "dominant": "Aucune (AUD 6,5 / USD 6,5)",
    "bias10": "Neutre, paire peu propre",
    "bias3m": "Neutre",
    "kind": "flat",
@@ -1004,7 +1056,7 @@
    "driver": "Écart de notes 0,5 : RBA vers 4,85 % contre Fed vers une hausse en décembre",
    "secondary": "Actions technologiques, Chine, pétrole",
    "past": "Semaine précédente −0,04 % (clôture 0,7030). Mardi 3/11 : RBA à 4,85 %, vote 6–3 ; AUD −0,3 % à 0,6976 (ABC), 0,6966 au relevé Myfxbook de 21h44, sous la MM20 (0,6991).",
-   "expect": "Élections US (résultats cette nuit), emploi US vendredi 6/11 à 14h30. Côté RBA, prochaine décision en décembre (date non confirmée ici).",
+   "expect": "CPI US d'octobre le 10/11 (heure à confirmer).",
    "mid": "Neutre sur 1 à 3 mois, range 0,689–0,724.",
    "scenarios": {
     "bull": "Hausse RBA avec février ouvert + rebond des actions → reprise de la MM50 (0,7064) puis 0,7120",
@@ -1014,28 +1066,28 @@
    "confirm": "Aucun biais : un biais haussier exigerait un écart de notes ≥ 2 et une clôture au-dessus de la MM50",
    "invalidate": "Sans objet (pas de biais directionnel)",
    "simple": "L'AUD (6,5) et le dollar (6,0) sont presque à égalité : les deux banques centrales montent, la paire n'a pas de direction propre.",
-   "trap": "La hausse RBA est faite, mais le marché peut lire le vote 6–3 comme une fin de cycle. Spéculateurs institutionnels (COT) : gérants très vendeurs (−125 237) contre fonds acheteurs (+48 414), CFTC 27/10. Traders particuliers (retail) : relevé du 4/11 non confirmé.",
+   "trap": "La hausse RBA est faite, mais le marché peut lire le vote 6–3 comme une fin de cycle. Spéculateurs institutionnels (COT) : gérants très vendeurs (−125 237) contre fonds acheteurs (+48 414), CFTC 27/10. Traders particuliers (retail) : relevé du 6/11 non confirmé.",
    "lexicon": [],
    "retail": null,
-   "statusNote": "En attente : la RBA a monté à 4,85 % (conforme), mais avec un vote 6–3 et un ton prudent ; écart de notes toujours 0,5, la paire reste sans biais."
+   "statusNote": "En attente : la note USD remonte à 6,5 après l'emploi, au niveau de l'AUD : écart 0, pas de biais."
   }
  ],
  "cross": [
   {
    "asset": "DXY",
-   "level": "≈ 101,43 (−0,43 %, 04/11, Latin Times)",
-   "facts": "−0,12 % le 30/10, ≈ +0,1 % sur la semaine ; euro (≈ 57 % du DXY) au plus bas de 3 mois ; hausse Fed de décembre ≈ 76 %",
+   "level": "102,22 (+0,7 %, 06/11 après l'emploi, Reuters)",
+   "facts": "Emploi US +165 000, salaires +0,4 % : DXY +0,7 % ; hausse Fed de décembre ≈ 78 % (contre ≈ 70 % avant)",
    "bias10": "Neutre à légèrement haussier",
    "bias3m": "Légèrement haussier",
    "confidence": "Faible",
-   "confirm": "NFP ≥ 55 000 ; décembre pricé > 80 %",
+   "confirm": "Décembre pricé > 80 % ; CPI US du 10/11 ≥ consensus",
    "invalidate": "NFP négatif ; 10 ans US < 4,80 %",
-   "simple": "Le dollar index monte surtout parce que l'euro, qui en pèse plus de la moitié, est faible ; l'emploi de vendredi décidera de la suite."
+   "simple": "Le dollar index monte après un emploi américain bien plus fort que prévu ; le CPI du 10/11 dira si la hausse de la Fed en décembre se confirme."
   },
   {
    "asset": "XAUUSD",
    "level": "spot ≈ 4 041 $ (+2,85 %, 04/11, Kitco)",
-   "facts": "−3,3 % le 30/10 ; spot sous MM20 (4 110,9) et MM50 (4 270,5), range 3 mois 3 995–4 684 (Alpha Vantage) ; taux longs US ≈ 4,9 %, hausse Fed pricée",
+   "facts": "−3,3 % le 30/10 ; spot sous MM20 (4 110,9) et MM50 (4 270,5), range 3 mois 3 995–4 684 (Alpha Vantage) ; taux longs US ≈ 4,9 %, hausse Fed pricée ; emploi US fort le 6/11 (rendements en hausse) : niveau de l'or après publication non confirmé",
    "bias10": "Baissier (mouvement étendu)",
    "bias3m": "Neutre",
    "confidence": "Faible",
@@ -1070,7 +1122,7 @@
   {
    "asset": "US500",
    "level": "7 580,07",
-   "facts": "−1,82 % le 30/10, −1,2 % en octobre ; résultats tech décevants (Alphabet, Amazon, Intel) ; VIX 19,42 ; 10 ans 4,94 %",
+   "facts": "−1,82 % le 30/10, −1,2 % en octobre ; résultats tech décevants (Alphabet, Amazon, Intel) ; VIX 19,42 ; 10 ans 4,94 % ; 6/11 après l'emploi : S&P 500 +0,6 % (intrajournalier, Reuters)",
    "bias10": "Neutre à baissier",
    "bias3m": "Neutre",
    "confidence": "Faible",
@@ -1081,7 +1133,7 @@
   {
    "asset": "US100",
    "level": "28 384,85 (Nasdaq-100)",
-   "facts": "−3,46 % le 30/10 ; Nasdaq composite −5,2 % en octobre, pire mois depuis mars 2025 ; SOX −7,2 % ; flux de trésorerie d'Amazon négatif (−42 Md$ sur 12 mois) ; gérants nets acheteurs du Nasdaq-100 (+66 372)",
+   "facts": "−3,46 % le 30/10 ; Nasdaq composite −5,2 % en octobre, pire mois depuis mars 2025 ; SOX −7,2 % ; flux de trésorerie d'Amazon négatif (−42 Md$ sur 12 mois) ; gérants nets acheteurs du Nasdaq-100 (+66 372) ; 6/11 après l'emploi : Nasdaq composite +1,7 % (intrajournalier, Reuters)",
    "bias10": "Baissier",
    "bias3m": "Neutre à baissier",
    "confidence": "Moyenne",
@@ -1092,7 +1144,7 @@
   {
    "asset": "US30",
    "level": "51 770,31",
-   "facts": "−1,09 % le 30/10 mais +1,5 % en octobre ; moins exposé à la tech",
+   "facts": "−1,09 % le 30/10 mais +1,5 % en octobre ; moins exposé à la tech ; 6/11 après l'emploi : Dow −0,6 % (intrajournalier, Reuters)",
    "bias10": "Neutre",
    "bias3m": "Neutre",
    "confidence": "Faible",
@@ -1308,7 +1360,7 @@
    "title": "Budget fédéral canadien (contexte exceptionnel)",
    "exclusion": false,
    "pairs": "USDCAD",
-   "status": "pending",
+   "status": "published",
    "forecast": "Déficit évoqué de 63,3 Md$ (titre Money.ca ; article non lu)",
    "previous": "Non confirmé",
    "votes": "Sans objet (budget). La BoC décide par consensus et ne publie pas de votes",
@@ -1333,14 +1385,21 @@
      "ok"
     ]
    ],
-   "result": null
+   "result": {
+    "actual": "Budget 2026 présenté le 5/11 par François-Philippe Champagne : déficit 2026-27 de 62,3 Md$ (Global News, MNP), présenté comme « relativement stable » puis en baisse sur l'horizon de cinq ans ; environ 289 Md$ de déficits cumulés sur la période (EnergyNow, chiffre non vérifié sur le document officiel). Ratio dette/PIB non confirmé.",
+    "priced": "Déficit évoqué avant publication : 63,3 Md$ (titre Money.ca). BoC : 13,3 pb de hausse pricés d'ici fin 2026 (Newsquawk).",
+    "reaction": "Réaction du CAD et des obligations canadiennes non confirmée. USDCAD clôture 1,4016 le 5/11 (Alpha Vantage), heure de clôture du fournisseur non précisée.",
+    "impact": "En attente : déficit de 62,3 Md$, légèrement sous les 63,3 Md$ évoqués, soit le scénario « conforme » (pas de dérapage). Aucun effet sur la note CAD.",
+    "effect": "Budget conforme (déficit 62,3 Md$) : pas d'effet sur le CAD.",
+    "tone": "wait"
+   }
   },
   {
    "when": "Ven. 6/11, 14h30",
    "title": "Emploi US octobre (NFP)",
    "exclusion": true,
    "pairs": "Toutes les paires USD, XAUUSD, US500, US100, US30",
-   "status": "pending",
+   "status": "published",
    "forecast": "+55 000 (Newsquawk) à +63 000 (investingLive) ; chômage 4,2 % ; salaires +0,3 % m/m, 2,9 % a/a ; Barclays 50 000 et chômage 4,1 %",
    "previous": "+29 000 ; chômage 4,2 % ; salaires +0,1 % m/m, 3,0 % a/a",
    "votes": "Fed : 10–2 le 28/10 (Cook et Hammack pour une hausse) ; prochain FOMC en décembre",
@@ -1365,14 +1424,21 @@
      "ko"
     ]
    ],
-   "result": null
+   "result": {
+    "actual": "+165 000 emplois (consensus +55 000 à +63 000) ; chômage 4,1 % (consensus 4,2 %) ; salaires horaires +0,4 % m/m (consensus +0,3 %), +3,1 % a/a (consensus 2,9 %). Révisions : août relevé à +186 000 (+53 000), septembre à +60 000 (+31 000), soit +84 000 sur deux mois. Taux de participation 61,9 % (BLS).",
+    "priced": "Avant : hausse Fed en décembre ≈ 70 % ; après : ≈ 78 % (Reuters via Yahoo Finance, 6/11). Le relevé CME FedWatch du 30/10 donnait ≈ 76 %.",
+    "reaction": "Selon Reuters (6/11, 15h45 heure de Paris) : dollar index +0,7 % à 102,22 ; rendement 2 ans US 4,52 % (+6 pb), 10 ans 4,87 % (+3 pb), 30 ans 5,27 % (+2 pb), rendements montés puis en partie revenus ; Nasdaq +1,7 %, S&P 500 +0,6 %, Dow −0,6 % (chiffres intrajournaliers). Or : niveau après publication non confirmé. Réaction immédiate, aucune tendance à en tirer.",
+    "impact": "Confirmé pour le dollar : le chiffre dépasse nettement le haut du consensus, les salaires accélèrent (0,4 %) et les deux mois précédents sont révisés en hausse. La condition « NFP ≥ 55 000 avec salaires ≥ 0,3 % » est franchie ; la seconde (décembre pricé > 80 %) ne l'est pas encore (≈ 78 %). Note USD relevée de 6,0 à 6,5. Le scénario « décembre proche de 100 % » n'est pas observé.",
+    "effect": "Emploi US très au-dessus des attentes (+165 000, salaires +0,4 %) : USD relevé à 6,5.",
+    "tone": "ok"
+   }
   },
   {
    "when": "Ven. 6/11, 14h30",
    "title": "Emploi Canada octobre",
    "exclusion": false,
    "pairs": "USDCAD",
-   "status": "pending",
+   "status": "published",
    "forecast": "+14 500 ; chômage 6,5 %",
    "previous": "−68 300 ; chômage 6,5 %",
    "votes": "BoC : décision par consensus, votes non publiés ; hausse à 2,50 % le 28/10",
@@ -1397,7 +1463,14 @@
      "ko"
     ]
    ],
-   "result": null
+   "result": {
+    "actual": "−4 700 emplois (consensus +14 500), troisième mois négatif après −68 300 en septembre et −42 000 en août ; chômage 6,7 % (+0,2 point, consensus 6,5 %) ; taux d'emploi 60,5 % (−0,1 point) ; salaires horaires +2,2 % a/a (2,3 % en septembre) (Statistique Canada).",
+    "priced": "BoC : 13,3 pb de hausse supplémentaire pricés d'ici fin 2026 (Newsquawk, relevé précédent) ; pricing après publication non confirmé.",
+    "reaction": "Réaction du dollar canadien non confirmée (publication simultanée avec l'emploi US, qui a fait monter le dollar américain). Réaction immédiate, aucune tendance à en tirer.",
+    "impact": "Invalidé pour le CAD : les deux conditions d'invalidation sont atteintes (troisième mois d'emploi négatif, chômage à 6,7 %). Statistique Canada qualifie l'emploi de « peu changé », mais le chômage monte. Note CAD abaissée de 6,0 à 5,5.",
+    "effect": "Emploi canadien négatif pour le 3e mois, chômage 6,7 % : CAD abaissé à 5,5.",
+    "tone": "ko"
+   }
   }
  ],
  "horizon": "Semaine suivante : 10/11 CPI US d'octobre (heure à confirmer) ; suite des tensions autour d'Ormuz ; données japonaises avant la BoJ de décembre ; décisions BoC (9/12), RBNZ (9/12) et Fed (décembre) en ligne de mire.",
@@ -1429,20 +1502,18 @@
  ],
  "conclusion": {
   "coherent": [
-   "EURUSD baissier : écart 2,5 et prix sous ses deux moyennes, mais mouvement étendu (9 % du range 3 mois) et fonds déjà vendeurs : ne pas poursuivre.",
-   "EURJPY baissier : écart 2,5 et prix sous ses deux moyennes, mais mouvement étendu (7 % du range 3 mois) : ne pas poursuivre."
+   "EURUSD baissier confirmé sur le fondamental : écart 3,0 après l'emploi US (+165 000), mais mouvement étendu et fonds déjà très vendeurs : ne pas poursuivre.",
+   "EURJPY baissier : écart 2,5 et prix sous ses deux moyennes (relevé précédent), mais mouvement étendu : ne pas poursuivre."
   ],
   "avoid": [
-   "USDCHF : biais haussier invalidé le 3/11 (CPI suisse 1,5 %, écart de notes ramené à 1,5), prix sous la MM50 en séance.",
-   "USDJPY, USDCAD, AUDUSD : devises à égalité ou presque (écart 0 à 0,5), annonces binaires (intervention, emplois, RBA).",
-   "GBPUSD et GBPJPY : écart de notes réduit à 0,5 après la BoE du 5/11 (GBP 5,5) ; lecture baissière de GBPJPY invalidée (clôture 213,41 au-dessus de 212)."
+   "USDCHF : signaux contradictoires (emploi US fort, CPI suisse 1,5 %), écart de notes revenu à 2,0 mais sans confirmation de prix.",
+   "USDJPY, USDCAD, AUDUSD : écarts de 0 à 1,0, insuffisants pour un biais.",
+   "GBPUSD et GBPJPY : écarts de 1,0 et 0,5, pas de direction claire."
   ],
   "watch": [
-   "Élections du 3/11 : balayage républicain (≈ 7 % pricé) → dollar et taux US en hausse.",
-   "Inflation zone euro du 4/11 : ≥ 4,2 % → risque de rachat de l'euro.",
-   "BoE du 5/11 : vote serré → livre en baisse malgré la hausse.",
-   "NFP du 6/11 : négatif → USD en baisse, EURUSD invalidé.",
-   "Géopolitique : frappes contre l'Iran → CHF et JPY montent."
+   "CPI US d'octobre (10/11) : au-dessus du consensus → décembre au-delà de 80 %, dollar soutenu.",
+   "CPI US sous le consensus → reflux des rendements, risque de rachat de l'euro.",
+   "Géopolitique (Ormuz, Iran) : CHF et JPY refuges, pétrole."
   ]
  },
  "sources": [
@@ -1685,6 +1756,41 @@
    "title": "Alpha Vantage — FX_DAILY GBPUSD et GBPJPY (clôtures du 4/11)",
    "url": "https://www.alphavantage.co/documentation/",
    "date": "05/11/2026 21h40"
+  },
+  {
+   "title": "BLS — Employment Situation Summary, octobre 2026",
+   "url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+   "date": "06/11/2026"
+  },
+  {
+   "title": "Statistique Canada — Enquête sur la population active, octobre 2026",
+   "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/261106/dq261106a-eng.htm",
+   "date": "06/11/2026"
+  },
+  {
+   "title": "Reuters via Yahoo Finance — Strong October jobs report sends yields higher",
+   "url": "https://finance.yahoo.com/economy/policy/articles/strong-october-jobs-report-sends-134858909.html",
+   "date": "06/11/2026"
+  },
+  {
+   "title": "Global News — Budget 2026 (déficit 62,3 Md$)",
+   "url": "https://globalnews.ca/news/12138651/budget-2026-mark-carney/",
+   "date": "05/11/2026"
+  },
+  {
+   "title": "EnergyNow — Canada's 2026 federal budget: $289 billion in deficits (titre)",
+   "url": "https://energynow.ca/2026/11/canadas-2026-federal-budget-289-billion-in-deficits-major-energy-investments-and-a-renewed-push-for-canadian-resource-development/",
+   "date": "06/11/2026"
+  },
+  {
+   "title": "Alpha Vantage — FX_DAILY EURUSD et USDCAD (clôtures des 4 et 5/11)",
+   "url": "https://www.alphavantage.co/documentation/",
+   "date": "06/11/2026 21h40"
+  },
+  {
+   "title": "Myfxbook — Community Outlook (page non lue, relevé non confirmé)",
+   "url": "https://www.myfxbook.com/community/outlook",
+   "date": "06/11/2026 21h40"
   }
  ],
  "lexicon": [
