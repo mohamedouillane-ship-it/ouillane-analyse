@@ -1,0 +1,1419 @@
+{
+ "version": 1,
+ "week": {
+  "start": "2026-11-09",
+  "end": "2026-11-13",
+  "label": "Semaine du 9 au 13 novembre 2026"
+ },
+ "generatedAt": "2026-11-09T21:55:00+01:00",
+ "nextUpdate": "Demain vers 21h40",
+ "archives": [
+  {
+   "label": "Semaine du 02/11/2026",
+   "file": "/api/analysis?week=2026-11-02"
+  },
+  {
+   "label": "Semaine du 26/10/2026",
+   "file": "/api/analysis?week=2026-10-26"
+  }
+ ],
+ "updates": [
+  {
+   "date": "09/11 18h25",
+   "text": "Discours de Bailey (BoE) à Zurich sur l'indépendance des banques centrales : aucune indication sur la hausse de décembre. Il répète que la BoE fixe les taux pour ramener l'inflation à la cible, juge l'IA porteuse d'un choc de croissance positif et signale un risque de bulle sur les valeurs liées à l'IA.",
+   "effect": "Ni confirmation ni invalidation pour la livre : GBPUSD et GBPJPY restent sans biais, en attente du PIB britannique jeudi 12/11.",
+   "tone": "wait"
+  },
+  {
+   "date": "09/11 21h40",
+   "text": "Sentiment retail Myfxbook non confirmé : la page lue ce soir affiche des prix incohérents avec le marché (EURUSD 1,16366, USDJPY 147,871, or 3 349,54 $, contre ≈ 1,11, ≈ 158 et ≈ 4 070 $ en réalité). Relevé rejeté, aucun ancien chiffre recopié.",
+   "effect": "Pas de lecture à contre-courant possible ce soir.",
+   "tone": "wait"
+  }
+ ],
+ "regime": {
+  "thesis": "Banques centrales toujours en mode hausse face à une inflation tirée par l'énergie, mais le pétrole a fortement reculé sur l'espoir d'un accord avec l'Iran après les élections américaines, pendant que la chute des valeurs liées à l'IA installe un risk-off. Le dollar en profite (emploi fort, hausse Fed de décembre pricée ≈ 77–80 %) ; les devises cycliques (AUD, CAD) décrochent. Le CPI US du 10/11 est l'arbitre de la semaine.",
+  "stats": [
+   {
+    "value": "≈ 97,79 $",
+    "label": "Brent le 6/11 (CappNotes) · 113,43 $ le 30/10 (relevé précédent)"
+   },
+   {
+    "value": "4,85–4,86 %",
+    "label": "US 10 ans le 6/11 · 2 ans 4,51–4,52 %"
+   },
+   {
+    "value": "≈ 77–80 %",
+    "label": "Hausse Fed de décembre pricée (Polymarket 76,5 %, Kalshi ≈ 78 %, CME FedWatch « vers 80 % » via Reuters)"
+   },
+   {
+    "value": "−4,9 %",
+    "label": "Nasdaq-100 sur la semaine (28 384,85 → 26 989,99) · VIX 25,64"
+   }
+  ],
+  "points": [
+   "Politique monétaire restrictive partout sauf en Suisse : Fed 3,75–4,00 %, BCE dépôt 2,50 %, BoE 4,00 % depuis le 5/11 (vote 8–1), BoJ 1,25 %, BoC 2,50 %, RBA 4,85 % depuis le 3/11 (vote 6–3), BNS 0 %.",
+   "Emploi US d'octobre très fort : +165 000 (consensus Reuters 65 000), chômage 4,1 %, salaires +0,4 % m/m et 3,1 % a/a ; Williams, Musalem et Daly restent orientés vers la fermeté (Reuters via GV Wire, 6/11).",
+   "Choc actions : Nasdaq −5,52 % et S&P 500 −4,36 % le 5/11, Nikkei −5,96 % et Kospi −6,02 % le 6/11 ; S&P 500 ≈ −2,7 % sur la semaine (CappNotes, TradingNews).",
+   "Pétrole en net repli : Brent sous 100 $ le 4/11 pour la première fois depuis septembre (≈ 94 $), 97,79 $ le 6/11 ; WTI 90,37 $ (CBS News, CappNotes).",
+   "Inflation élevée : zone euro 4,0 % en octobre (core 2,5 %), Royaume-Uni 3,5 % en septembre, PCE US 3,6 % (core 3,1 %), Suisse 1,5 %, Japon core 2,1 % en septembre.",
+   "Taux : US 2 ans 4,51 %, 10 ans 4,86 %, 30 ans 5,26 %, courbe 2–10 ans ≈ +35 pb (6/11) ; spéculateurs nets vendeurs record de futures 5 ans US (−1 275 370 contrats au 3/11, TFTC/CFTC)."
+  ],
+  "interpretation": "Le marché a vendu le pétrole sur l'espoir diplomatique d'après-élections, mais n'a pas reçu de baisse d'inflation pour autant : la Fed reste attendue en hausse en décembre et l'emploi fort a renforcé ce scénario. Dans ce contexte, la chute de la tech pousse vers le dollar (refuge et rendement) plutôt que vers le yen, freiné par une BoJ moins pressée (hausse de décembre pricée ≈ 68 % contre ≈ 77 % avant le 30/10). Les devises liées aux matières premières et au risque (AUD, CAD) perdent sur les deux tableaux : moins de pétrole et moins d'appétit pour le risque. Interprétation, pas une certitude : le CPI US du 10/11 peut inverser la lecture.",
+  "conflicts": [
+   "Pétrole en baisse (moins d'inflation importée) contre banques centrales qui gardent un biais de hausse : si le repli dure, le pricing de décembre (Fed, BCE, BoE) peut se dégonfler.",
+   "Risk-off actions contre dollar fort : d'habitude le yen et le franc profitent du stress ; cette semaine le dollar a pris l'essentiel du flux refuge.",
+   "CAD : baisse du pétrole et emploi négatif contre BoC qui a monté le 28/10 et évoque d'autres hausses.",
+   "EUR : le reflux de l'énergie aide la zone euro importatrice, mais l'écart de croissance et de taux avec les États-Unis reste défavorable."
+  ],
+  "geopolitics": "Guerre États-Unis–Iran : Brent tombé de 116 $ (23/10) à ≈ 94 $ le 4/11 après les élections de mi-mandat, sur l'espoir d'un accord. Médiation qatarie, pakistanaise et saoudienne : nouvelle proposition le 3/11, réponse américaine jugée « pas convaincante » par Téhéran ; le Guide suprême a écarté un changement de politique américaine après le scrutin (4/11). Trump : pas de nouvelles frappes prévues mais « locked and loaded ». Iran : détroit d'Ormuz fermé aux navires non coordonnés avec Téhéran ; les Gardiens de la révolution revendiquent des pétroliers touchés par des mines les 3–6/11 (non confirmé par les autorités maritimes) ; blocus naval américain des ports iraniens maintenu (CBS News). Devises touchées : CAD (pétrole), EUR et JPY (importateurs d'énergie), CHF et JPY (refuges).",
+  "guide": [
+   {
+    "step": "Le climat",
+    "text": "Les marchés ont peur deux fois : la bourse tech chute (Nasdaq-100 −4,9 % sur la semaine) et l'inflation reste haute, donc la Fed devrait encore monter ses taux en décembre (≈ 77–80 % de probabilité). Le pétrole a reculé (Brent ≈ 98 $ contre 113 $ une semaine plus tôt) parce que le marché espère un accord avec l'Iran, sans garantie."
+   },
+   {
+    "step": "Qui est fort, qui est faible",
+    "text": "Le dollar est le plus solide (note 7,0) : emploi très fort (+165 000) et Fed ferme. Livre et yen au milieu (5,5). L'AUD baisse (5,0) avec la tech. Le franc (4,5, taux à 0 %) et le dollar canadien (4,5, emploi négatif et pétrole en repli) sont faibles. L'euro reste le plus faible (4,0), un peu aidé par la baisse de l'énergie."
+   },
+   {
+    "step": "Ce que ça donne sur les paires",
+    "text": "USDCAD est la paire la plus cohérente : écart de 2,5 points et prix au-dessus de ses deux moyennes. EURUSD et AUDUSD sont baissiers sur le fond (écarts 3,0 et 2,0) mais déjà au plus bas de leur range de 3 mois : ne pas poursuivre. USDCHF n'est pas confirmé par le prix. GBPUSD, GBPJPY, USDJPY et EURJPY n'ont pas d'écart suffisant pour un vrai biais. Mardi 10/11, le CPI US peut tout rebattre."
+   }
+  ]
+ },
+ "facts": {
+  "published": [
+   {
+    "name": "Emploi US octobre (NFP)",
+    "actual": "+165 000 ; chômage 4,1 % ; salaires +0,4 % m/m, 3,1 % a/a ; septembre révisé à +60 000",
+    "expected": "65 000 (sondage Reuters)",
+    "previous": "Septembre +29 000 en première estimation ; chômage 4,2 %",
+    "reaction": "DXY +0,77 % à 102,26, plus forte hausse quotidienne depuis le 17/06 ; 2 ans +4,1 pb à 4,52 % (Reuters via GV Wire)",
+    "date": "06/11"
+   },
+   {
+    "name": "Emploi Canada octobre",
+    "actual": "−4 700 ; chômage 6,7 % ; salaires +2,2 % a/a",
+    "expected": "+14 500 ; 6,5 %",
+    "previous": "−68 300 ; 6,5 %",
+    "reaction": "USDCAD clôture 1,4128 (+0,8 % sur la séance, Alpha Vantage)",
+    "date": "06/11"
+   },
+   {
+    "name": "Décision BoE",
+    "actual": "Hausse à 4,00 %, vote 8–1 (Mann pour 4,25 %)",
+    "expected": "Hausse à 4,00 %, vote 7–2",
+    "previous": "3,75 %",
+    "reaction": "Livre au plus haut de plus de 7 semaines le 5/11, puis −0,71 % le 6/11 à 1,3355",
+    "date": "05/11"
+   },
+   {
+    "name": "Inflation zone euro octobre (flash)",
+    "actual": "4,0 % a/a ; core 2,5 %",
+    "expected": "4,0 %",
+    "previous": "3,8 %",
+    "reaction": "Euro +0,6 % en séance le 4/11, effacé le 6/11 (clôture 1,1143)",
+    "date": "04/11"
+   },
+   {
+    "name": "Décision RBA",
+    "actual": "Hausse à 4,85 %, vote 6–3 ; phrase sur de nouvelles hausses retirée",
+    "expected": "Hausse à 4,85 %",
+    "previous": "4,60 %",
+    "reaction": "AUD −0,3 % à 0,6976 ; AUDUSD −2,4 % sur la semaine à 0,6863",
+    "date": "03/11"
+   },
+   {
+    "name": "CPI Suisse octobre",
+    "actual": "1,5 % a/a ; core 0,5 %",
+    "expected": "1,3 %",
+    "previous": "1,0 %",
+    "reaction": "USDCHF au plus bas de sept semaines (0,8149) le 3/11 ; 0,8205 le 6/11",
+    "date": "03/11"
+   },
+   {
+    "name": "Élections de mi-mandat US",
+    "actual": "Démocrates majoritaires à la Chambre et au Sénat (projections)",
+    "expected": "Scénario le plus pricé",
+    "previous": "—",
+    "reaction": "Brent −8 à −9 % le 4/11 (≈ 94 $), sur l'espoir d'un accord avec l'Iran (CBS News)",
+    "date": "03–04/11"
+   },
+   {
+    "name": "Actions (choc IA / semi-conducteurs)",
+    "actual": "Nasdaq −5,52 %, S&P 500 −4,36 % le 5/11 ; Nikkei −5,96 %, Kospi −6,02 % le 6/11",
+    "expected": "—",
+    "previous": "Nasdaq −2,86 % le 30/10",
+    "reaction": "Dollar acheté comme refuge, AUD au plus bas de 3 mois, VIX 25,64 le 6/11",
+    "date": "05–06/11"
+   }
+  ],
+  "markets": [
+   {
+    "market": "US 2 ans / 10 ans",
+    "level": "4,51 % / 4,86 %",
+    "note": "Courbe 2–10 ans ≈ +35 pb ; 30 ans 5,26 % (CappNotes, 6/11)"
+   },
+   {
+    "market": "US 10 ans réel (TIPS)",
+    "level": "non confirmé",
+    "note": "2,74 % le 16/10 (dernier relevé ConvexTrade/FRED), non mis à jour"
+   },
+   {
+    "market": "Bund / OAT 10 ans",
+    "level": "non confirmé",
+    "note": "Écart OAT–Bund 159 pb le 30/10 (relevé précédent), non reconfirmé cette semaine"
+   },
+   {
+    "market": "Écart de taux directeurs US–Japon",
+    "level": "262,5 pb",
+    "note": "Fed 3,875 % (milieu de fourchette) contre BoJ 1,25 % (TradingNews)"
+   },
+   {
+    "market": "DXY",
+    "level": "102,26–102,32",
+    "note": "+0,77 % le 6/11, ≈ +0,3 % sur la semaine (Reuters via GV Wire ; CappNotes)"
+   },
+   {
+    "market": "EURUSD / GBPUSD",
+    "level": "1,1143 / 1,3349",
+    "note": "Semaine −0,13 % / −0,31 % (Alpha Vantage)"
+   },
+   {
+    "market": "USDJPY / USDCAD",
+    "level": "158,45 / 1,4128",
+    "note": "Semaine +0,58 % / +1,11 %"
+   },
+   {
+    "market": "AUDUSD / USDCHF",
+    "level": "0,6863 / 0,8205",
+    "note": "Semaine −2,38 % / −0,55 % ; AUDUSD au plus bas de 3 mois"
+   },
+   {
+    "market": "EURJPY / GBPJPY",
+    "level": "176,56 / 211,51",
+    "note": "Semaine +0,45 % / +0,27 %"
+   },
+   {
+    "market": "Or / Argent (spot)",
+    "level": "4 068,66 $ / 51,94 $",
+    "note": "Alpha Vantage, 07/11 07h42 UTC ; or −0,79 % le 6/11 (≈ 4 081 $, CappNotes) ; ratio ≈ 78,3"
+   },
+   {
+    "market": "Brent / WTI",
+    "level": "97,79 $ / 90,37 $",
+    "note": "6/11 (CappNotes) ; Brent 103 $ le 3/11, ≈ 94 $ le 4/11, 96,70 $ le 5/11 (CBS News)"
+   },
+   {
+    "market": "S&P 500 / Nasdaq-100 / Dow",
+    "level": "7 376,86 / 26 989,99 / 51 285,73",
+    "note": "Semaine ≈ −2,7 % / −4,9 % / −0,9 % (calcul sur les clôtures du 30/10) ; VIX 25,64"
+   }
+  ],
+  "cot": "Rapport CFTC du 3/11 (publié le 6/11) : seule la partie Treasuries est confirmée par la presse — spéculateurs nets vendeurs de 1 275 370 contrats sur le 5 ans US (+246 314 sur la semaine), −1 002 544 sur le 2 ans, −962 359 sur le 10 ans (TFTC). Devises au 3/11 : FXTribune titre que les spéculateurs ont ajouté 24 649 contrats nets vendeurs de dollar canadien (article non lisible, titre seul). La page CFTC « Traders in Financial Futures » lue ce matin affichait encore les positions du 20/10 : euro, gérants nets acheteurs +190 421 et fonds nets vendeurs −68 840 ; yen, gérants +79 103, fonds −22 890 ; livre, gérants −134 621, fonds +24 104 ; AUD, gérants −128 739, fonds +52 497 ; CAD, gérants −5 399, fonds −91 113 ; CHF, gérants −25 535, fonds −13 607 ; Nasdaq-100, gérants +78 767, fonds −7 688. Dernier relevé complet du 27/10 (analyse précédente) : euro, fonds −71 574 ; AUD, gérants −125 237 ; CAD, fonds −96 747. Prochain rapport : lundi 16/11 (jour férié fédéral du 11/11).",
+  "unconfirmed": "Positions COT devises au 3/11 (hors titre FXTribune sur le CAD) ; rendement réel US 10 ans et point mort de la semaine ; rendements 2 et 10 ans allemand, français, britannique et japonais au 6/11 ; pricing OIS exact BCE, BoE, BoC, RBA et BNS ; consensus du PIB britannique T3 ; heure et consensus du PIB zone euro (2e estimation) ; cuivre ; sentiment retail Myfxbook (page lue le 07/11 vers 08h50 mais prix affichés incohérents avec le marché : EURUSD 1,17855 contre 1,1143 en clôture, AUDUSD 0,67066 contre 0,6863, XAGUSD 72,34 contre 51,94 : relevé rejeté ; nouveau relevé du 09/11 vers 21h40 également rejeté : EURUSD 1,16366, USDJPY 147,871, XAUUSD 3 349,54 ; aucun ancien chiffre recopié) ; CPI chinois d'octobre (9/11) ; réaction de la livre au discours de Bailey."
+ },
+ "currencies": [
+  {
+   "code": "USD",
+   "score": 7.0,
+   "direction": "Légèrement forte",
+   "confidence": "Moyenne",
+   "reason": "Emploi d'octobre très au-dessus des attentes, Fed attendue en hausse en décembre (≈ 77–80 %) et rôle de refuge pendant la chute de la tech",
+   "details": [
+    [
+     "Banque centrale",
+     "Fed 3,75–4,00 % (vote 10–2 le 28/10, deux voix pour une hausse) ; Williams : inflation trop élevée ; Daly : hausse probablement encore nécessaire malgré la chute de la tech (6/11)"
+    ],
+    [
+     "Inflation",
+     "PCE septembre 3,6 %, core 3,1 % ; CPI septembre +0,6 % m/m, 3,7 % a/a, core +0,3 % m/m"
+    ],
+    [
+     "Emploi",
+     "+165 000 en octobre (Reuters : 65 000 attendus), chômage 4,1 %, salaires +0,4 % m/m et 3,1 % a/a"
+    ],
+    [
+     "Croissance",
+     "PIB T3 +3,4 % annualisé"
+    ],
+    [
+     "Taux",
+     "2 ans 4,51 %, 10 ans 4,86 %, 30 ans 5,26 % ; courbe +35 pb (6/11)"
+    ],
+    [
+     "Pricé",
+     "Hausse de décembre : Polymarket 76,5 %, Kalshi ≈ 78 %, CME FedWatch « vers 80 % » (≈ 67 % le 5/11)"
+    ],
+    [
+     "Positionnement",
+     "Spéculateurs nets vendeurs record de futures 5 ans US (−1,28 million de contrats au 3/11) : ils parient sur des taux plus hauts"
+    ],
+    [
+     "Refuge",
+     "DXY +0,77 % le 6/11 pendant que Nikkei et Kospi perdaient ≈ 6 %"
+    ]
+   ],
+   "confirm": "CPI d'octobre (10/11) ≥ +0,3 % m/m sur le core ; décembre pricé > 80 %",
+   "invalidate": "Core CPI ≤ +0,1 % m/m ; décembre pricé < 60 % ; 10 ans US < 4,70 %",
+   "simple": "Le dollar est la devise la plus solide : l'emploi américain a créé presque trois fois plus de postes que prévu et la Fed devrait encore monter ses taux en décembre ; en plus, les investisseurs l'achètent quand la bourse chute.",
+   "forces": [
+    [
+     "up",
+     "+165 000 emplois contre 65 000 attendus, chômage 4,1 % : rien n'oblige la Fed à ralentir"
+    ],
+    [
+     "up",
+     "Hausse de décembre pricée ≈ 77–80 % : le dollar rapporte davantage que les autres devises"
+    ],
+    [
+     "up",
+     "Refuge : DXY +0,77 % le 6/11 pendant la chute des bourses asiatiques"
+    ],
+    [
+     "risk",
+     "CPI du 10/11 publié sans taux annuel (données d'octobre 2025 manquantes) : la lecture se fera sur la variation mensuelle, d'où un risque de réaction brutale"
+    ],
+    [
+     "down",
+     "Pétrole en baisse (Brent ≈ 98 $ contre 113 $) : moins d'inflation importée à venir, ce qui peut réduire le besoin de hausses"
+    ]
+   ],
+   "week": "Mardi 10/11 à 14h30 : CPI d'octobre (RBC : +0,3 % m/m total et core ; nowcast de Cleveland +0,24 % et +0,21 %). Mercredi 11/11 : marché obligataire fermé (Veterans Day). Vendredi 13/11 : prix à la production.",
+   "mid": "Légèrement fort sur 1 à 3 mois tant que la Fed vise une hausse en décembre et que l'emploi tient. Risque : un reflux durable du pétrole qui ferait baisser l'inflation, ou un choc actions qui ferait chuter les taux longs.",
+   "lexicon": [
+    [
+     "CPI",
+     "Indice des prix à la consommation : mesure l'inflation payée par les ménages."
+    ],
+    [
+     "Nowcast de Cleveland",
+     "Estimation en temps réel de l'inflation par la Fed de Cleveland, à partir des prix de l'énergie et de séries récentes."
+    ],
+    [
+     "Veterans Day",
+     "Jour férié fédéral américain du 11 novembre : marché obligataire et banques fermés, bourse ouverte."
+    ]
+   ]
+  },
+  {
+   "code": "GBP",
+   "score": 5.5,
+   "direction": "Neutre",
+   "confidence": "Faible",
+   "reason": "BoE remontée à 4,00 % avec plusieurs membres favorables à d'autres hausses, mais comité divisé sur la suite et croissance fragile",
+   "details": [
+    [
+     "Banque centrale",
+     "Hausse à 4,00 % le 5/11, vote 8–1 (Mann pour 4,25 %) ; Pill, Greene, Lombardelli : d'autres hausses probables ; Taylor : « pas le début d'un cycle »"
+    ],
+    [
+     "Inflation",
+     "CPI septembre 3,5 % ; prévision BoE ≈ 4½ % au T1 2027 et ≈ 5 % au T2 2027"
+    ],
+    [
+     "Emploi",
+     "Bailey : marché du travail en voie de stabilisation ; salaires sous-jacents ≈ 3,5 % (Greene)"
+    ],
+    [
+     "Croissance",
+     "« Plus forte que prévu », devrait ralentir (BoE) ; PIB T2 +0,5 %"
+    ],
+    [
+     "Pricé",
+     "Hausse du 17/12 : pricing exact non confirmé"
+    ],
+    [
+     "Positionnement",
+     "Gérants nets vendeurs −134 621, fonds nets acheteurs +24 104 (CFTC, 20/10)"
+    ],
+    [
+     "Bailey (9/11)",
+     "Discours à Zurich sans signal sur les taux : « fixer les taux pour ramener l'inflation à la cible » ; IA vue comme un choc d'offre positif, avec un risque de bulle"
+    ]
+   ],
+   "confirm": "PIB T3 (12/11) au-dessus de +0,3 % t/t ; un membre du MPC qui annonce une hausse probable en décembre",
+   "invalidate": "PIB T3 négatif ; la BoE qui présente la hausse du 5/11 comme « unique »",
+   "simple": "La livre est soutenue par une Banque d'Angleterre qui vient de monter ses taux et en laisse prévoir d'autres, mais l'économie britannique reste fragile et le comité est divisé : la livre n'est ni forte ni faible.",
+   "forces": [
+    [
+     "up",
+     "Taux relevé à 4,00 %, un membre voulait 4,25 % : la BoE reste du côté des hausses"
+    ],
+    [
+     "up",
+     "Inflation vue à ≈ 5 % au T2 2027 par la BoE : pression pour continuer"
+    ],
+    [
+     "down",
+     "Taylor parle d'une hausse « pour l'instant », pas d'un cycle : la suite n'est pas acquise"
+    ],
+    [
+     "risk",
+     "PIB T3 jeudi 12/11 : un chiffre faible relancerait la crainte de stagflation"
+    ],
+    [
+     "down",
+     "Livre −0,71 % le 6/11 face au dollar après l'emploi US : sensible au dollar fort"
+    ]
+   ],
+   "week": "Bailey (9/11) n'a donné aucune indication sur décembre. Reste : jeudi 12/11 à 08h00, PIB T3 (première estimation) et PIB de septembre ; consensus non confirmé ; T2 +0,5 %.",
+   "mid": "Neutre sur 1 à 3 mois : soutien des taux contre croissance faible. La décision du 17/12 et l'inflation d'octobre (semaine du 16/11) trancheront.",
+   "lexicon": [
+    [
+     "Stagflation",
+     "Inflation élevée et croissance faible en même temps."
+    ],
+    [
+     "MPC",
+     "Comité de politique monétaire de la Banque d'Angleterre (9 membres, votes publiés nominativement)."
+    ]
+   ]
+  },
+  {
+   "code": "JPY",
+   "score": 5.5,
+   "direction": "Neutre",
+   "confidence": "Faible",
+   "reason": "BoJ qui veut continuer à monter et protection d'intervention vers 160, mais pricing de décembre en baisse et yen qui n'a pas joué son rôle de refuge cette semaine",
+   "details": [
+    [
+     "Banque centrale",
+     "BoJ 1,25 % maintenu le 30/10 (vote 8–1, Takata pour 1,50 %) ; Ueda : sous-jacent près de 2 % avec « des risques haussiers » (6/11)"
+    ],
+    [
+     "Pricé",
+     "Hausse du 18/12 ≈ 68,4 % contre 77,3 % avant le 30/10 ; 83 % des économistes l'attendent (TradingNews)"
+    ],
+    [
+     "Inflation",
+     "Core CPI 2,1 % en septembre ; mesures sous-jacentes 2,4 %"
+    ],
+    [
+     "Différentiel",
+     "Écart de taux directeurs US–Japon 262,5 pb"
+    ],
+    [
+     "Intervention",
+     "Interventions record de 15 399 Md¥ du 30/07 au 26/08, dont une conjointe avec les États-Unis le 31/07 ; ligne surveillée 160"
+    ],
+    [
+     "Risque",
+     "Nikkei −5,96 % le 6/11 ; yen −0,6 % sur la semaine face au dollar malgré le risk-off"
+    ]
+   ],
+   "confirm": "Signal explicite de la BoJ pour décembre ; USDJPY qui recule sous 156",
+   "invalidate": "Pricing de décembre < 50 % ; USDJPY au-dessus de 160 sans réaction du ministère des Finances",
+   "simple": "Le yen est tiraillé : la Banque du Japon veut monter ses taux et Tokyo intervient si le dollar dépasse 160, mais l'écart de taux avec les États-Unis reste énorme (262,5 pb) et le marché doute un peu plus d'une hausse en décembre.",
+   "forces": [
+    [
+     "up",
+     "BoJ décidée à « continuer à relever » son taux ; un membre voulait déjà 1,50 %"
+    ],
+    [
+     "risk",
+     "Intervention possible près de 160 : en juillet, le dollar a perdu ≈ 4 yens en deux séances"
+    ],
+    [
+     "down",
+     "Hausse de décembre moins pricée (68,4 % contre 77,3 %)"
+    ],
+    [
+     "down",
+     "Écart de taux de 262,5 pb avec les États-Unis, qui peut passer à 287,5 pb si seule la Fed monte"
+    ],
+    [
+     "down",
+     "Japon importateur d'énergie, mais le reflux du pétrole atténue ce frein cette semaine"
+    ]
+   ],
+   "week": "Pas de donnée majeure suivie : résumé des opinions de la BoJ (semaine du 9/11, Newsquawk). PIB T3 lundi 16/11 à 00h50. Surveillance des déclarations du ministère des Finances si USDJPY approche 160.",
+   "mid": "Neutre sur 1 à 3 mois, à arbitrer par la BoJ du 18/12 et la Fed de décembre. Une hausse BoJ sans hausse Fed réduirait l'écart à 237,5 pb.",
+   "lexicon": [
+    [
+     "Intervention",
+     "Achat de yens par le ministère des Finances japonais pour freiner sa baisse."
+    ],
+    [
+     "Résumé des opinions",
+     "Document de la BoJ qui reprend, sans les noms, les avis des membres lors de la dernière réunion."
+    ]
+   ]
+  },
+  {
+   "code": "AUD",
+   "score": 5.0,
+   "direction": "Neutre",
+   "confidence": "Moyenne",
+   "reason": "Taux le plus élevé de la watchlist (4,85 %) mais RBA qui ne promet plus de hausse, chute des actions tech et baisse des matières premières",
+   "details": [
+    [
+     "Banque centrale",
+     "Hausse à 4,85 % le 3/11, vote 6–3 ; phrase sur de nouvelles hausses retirée ; Bullock : « bon moment pour faire le point »"
+    ],
+    [
+     "Inflation",
+     "CPI mensuel septembre 4,3 % a/a ; trimmed mean T3 +1,0 % t/t"
+    ],
+    [
+     "Prix",
+     "AUDUSD −2,38 % sur la semaine à 0,6863, au plus bas de 3 mois"
+    ],
+    [
+     "Risque",
+     "Nasdaq −5,52 % le 5/11, Kospi −6,02 % le 6/11 : l'AUD suit l'appétit pour le risque"
+    ],
+    [
+     "Positionnement",
+     "Gérants nets vendeurs −128 739, fonds nets acheteurs +52 497 (CFTC, 20/10)"
+    ],
+    [
+     "Calendrier",
+     "Emploi d'octobre le 19/11, CPI d'octobre le 25/11 (ABS)"
+    ]
+   ],
+   "confirm": "Rebond durable des actions technologiques ; RBA qui rouvre la porte à février",
+   "invalidate": "Nouvelle chute de la tech ; emploi du 19/11 faible",
+   "simple": "Le dollar australien a reculé fortement cette semaine (−2,4 %) : la banque centrale a monté ses taux mais sans promettre la suite, et la chute des valeurs technologiques a fait fuir les investisseurs vers le dollar américain.",
+   "forces": [
+    [
+     "up",
+     "Taux de 4,85 %, le plus haut de la watchlist"
+    ],
+    [
+     "down",
+     "RBA divisée (6–3) et ton prudent : le marché ne voit plus de hausse rapide"
+    ],
+    [
+     "down",
+     "Chute des actions tech et asiatiques : l'AUD baisse avec le risque"
+    ],
+    [
+     "risk",
+     "Plus bas de 3 mois atteint (0,6852 en séance) : un rebond technique brutal est possible si la tech se reprend"
+    ],
+    [
+     "down",
+     "Gérants d'actifs nets vendeurs ≈ −129 000 contrats"
+    ]
+   ],
+   "week": "Aucune donnée australienne majeure suivie cette semaine ; l'AUD dépendra du CPI US (10/11), des actions technologiques et du commerce extérieur chinois. CPI chinois du 9/11 non relevé (non confirmé).",
+   "mid": "Neutre sur 1 à 3 mois : rendement élevé contre RBA en pause et risk-off. Emploi (19/11) et CPI (25/11) décideront de la suite.",
+   "lexicon": [
+    [
+     "Trimmed mean",
+     "Inflation sous-jacente australienne qui exclut les variations de prix les plus extrêmes."
+    ]
+   ]
+  },
+  {
+   "code": "CHF",
+   "score": 4.5,
+   "direction": "Légèrement faible",
+   "confidence": "Faible",
+   "reason": "Taux à 0 % et inflation sous-jacente à 0,5 %, partiellement compensés par la demande refuge",
+   "details": [
+    [
+     "Banque centrale",
+     "BNS 0 % ; inflation d'octobre 1,5 % (énergie), sous-jacent 0,5 %"
+    ],
+    [
+     "Différentiel",
+     "Écart de taux directeurs avec les États-Unis ≈ 388 pb, le plus grand de la watchlist"
+    ],
+    [
+     "Refuge",
+     "USDCHF −0,55 % sur la semaine malgré la hausse du dollar : le franc a profité du stress"
+    ],
+    [
+     "Positionnement",
+     "Gérants nets vendeurs −25 535, fonds nets vendeurs −13 607 (CFTC, 20/10)"
+    ],
+    [
+     "Pricé",
+     "Pricing BNS non confirmé"
+    ]
+   ],
+   "confirm": "BNS qui évoque un relèvement ; nouvelle hausse de l'inflation suisse",
+   "invalidate": "Retour du risk-on ; recul de l'inflation suisse sous 1 %",
+   "simple": "Le franc rapporte zéro (taux de la BNS à 0 %), ce qui le rend peu attractif, mais il reste acheté quand les marchés ont peur : cette semaine, il a même un peu progressé face au dollar.",
+   "forces": [
+    [
+     "down",
+     "Taux à 0 % : plus de 3,8 points d'écart avec le dollar"
+    ],
+    [
+     "down",
+     "Inflation sous-jacente 0,5 % : la BNS n'a aucune raison de monter"
+    ],
+    [
+     "up",
+     "Refuge : USDCHF −0,55 % sur la semaine pendant la chute des actions"
+    ],
+    [
+     "risk",
+     "Escalade autour d'Ormuz : achats de franc brutaux possibles"
+    ]
+   ],
+   "week": "Aucune annonce suisse suivie cette semaine ; le franc réagira au risque (actions, Iran) et au CPI US.",
+   "mid": "Légèrement faible sur 1 à 3 mois par le rendement nul ; soutenu à chaque épisode de stress.",
+   "lexicon": []
+  },
+  {
+   "code": "CAD",
+   "score": 4.5,
+   "direction": "Légèrement faible",
+   "confidence": "Moyenne",
+   "reason": "Troisième mois d'emploi négatif, chômage à 6,7 % et pétrole en net repli, malgré une BoC qui a monté le 28/10",
+   "details": [
+    [
+     "Emploi",
+     "−4 700 en octobre (attendu +14 500), chômage 6,7 % (attendu 6,5 %), salaires +2,2 % a/a"
+    ],
+    [
+     "Banque centrale",
+     "BoC 2,50 % depuis le 28/10 ; Macklem : d'autres hausses pourraient être nécessaires (3/11)"
+    ],
+    [
+     "Pricé",
+     "≈ 70 pb de hausses supplémentaires d'ici fin 2027 (swaps, Reuters via Kitco, 3/11)"
+    ],
+    [
+     "Croissance",
+     "PIB T3 estimé +1,3 % annualisé, sous les 2 % prévus par la BoC ; industrie en contraction en octobre"
+    ],
+    [
+     "Pétrole",
+     "WTI 90,37 $ le 6/11, contre 104,12 $ le 30/10 (relevé précédent)"
+    ],
+    [
+     "Taux",
+     "Canada 10 ans 3,771 % le 3/11"
+    ],
+    [
+     "Positionnement",
+     "Spéculateurs : +24 649 contrats nets vendeurs ajoutés au 3/11 (titre FXTribune) ; fonds nets vendeurs −91 113 au 20/10"
+    ]
+   ],
+   "confirm": "WTI < 88 $ ; nouvelle hausse du chômage ; CPI canadien d'octobre (semaine du 16/11) en baisse",
+   "invalidate": "Rebond du pétrole au-dessus de 100 $ ; BoC qui confirme une hausse en décembre",
+   "simple": "Le dollar canadien faiblit : l'emploi recule pour le troisième mois, le chômage monte à 6,7 % et le pétrole, sa grande exportation, a fortement baissé (WTI ≈ 90 $).",
+   "forces": [
+    [
+     "down",
+     "Emploi −4 700 et chômage 6,7 % : l'économie ralentit"
+    ],
+    [
+     "down",
+     "Pétrole en repli (WTI ≈ 90 $ contre 104 $ une semaine plus tôt) : moins de recettes d'exportation"
+    ],
+    [
+     "up",
+     "BoC remontée à 2,50 % et prête à aller plus loin (≈ 70 pb pricés d'ici fin 2027)"
+    ],
+    [
+     "risk",
+     "Rupture des discussions avec l'Iran : rebond brutal du pétrole qui soutiendrait le CAD"
+    ],
+    [
+     "risk",
+     "Spéculateurs déjà nettement vendeurs : un rachat peut faire remonter le CAD rapidement"
+    ]
+   ],
+   "week": "Pas de donnée canadienne majeure suivie cette semaine ; le CAD suivra le pétrole (négociations avec l'Iran) et le CPI US.",
+   "mid": "Légèrement faible sur 1 à 3 mois tant que l'emploi recule et que le pétrole reste sous 100 $. La BoC (9/12) peut freiner la baisse.",
+   "lexicon": [
+    [
+     "Termes de l'échange",
+     "Rapport entre les prix des exportations et des importations d'un pays ; pour le Canada, ils montent avec le pétrole."
+    ]
+   ]
+  },
+  {
+   "code": "EUR",
+   "score": 4.0,
+   "direction": "Faible",
+   "confidence": "Moyenne",
+   "reason": "Croissance faible et écart de taux défavorable face aux États-Unis ; la baisse de l'énergie et une BCE proche d'une hausse limitent la faiblesse",
+   "details": [
+    [
+     "Banque centrale",
+     "Dépôt 2,50 % maintenu le 29/10 ; Lagarde : « beaucoup d'indicateurs d'ici décembre » pour décider (5/11) ; Nagel : la BCE devra « probablement » monter en décembre (Bloomberg, 3/11)"
+    ],
+    [
+     "Inflation",
+     "Octobre 4,0 % (plus haut de 3 ans), core 2,5 %"
+    ],
+    [
+     "Croissance",
+     "PIB T3 +0,4 % t/t (flash), France −0,1 %"
+    ],
+    [
+     "Énergie",
+     "Brent ≈ 98 $ contre 113 $ : allègement pour une zone importatrice"
+    ],
+    [
+     "Budget",
+     "Écart OAT–Bund 159 pb le 30/10, non reconfirmé cette semaine"
+    ],
+    [
+     "Pricé",
+     "Hausse de décembre : sondage Reuters du 8/10 l'anticipe ; pricing OIS non confirmé"
+    ],
+    [
+     "Positionnement",
+     "Gérants nets acheteurs +190 421, fonds nets vendeurs −68 840 (CFTC, 20/10)"
+    ]
+   ],
+   "confirm": "PIB T3 révisé en baisse ; écart OAT–Bund > 165 pb ; CPI US fort",
+   "invalidate": "BCE qui confirme nettement décembre et Fed qui recule ; Brent < 90 $ durablement",
+   "simple": "L'euro reste la devise la plus faible : l'économie européenne croît peu et le dollar rapporte nettement plus. La baisse du pétrole l'aide un peu, car l'Europe importe son énergie.",
+   "forces": [
+    [
+     "down",
+     "Croissance de 0,4 % au T3 et France en recul (−0,1 %)"
+    ],
+    [
+     "down",
+     "Écart avec la Fed : hausse américaine pricée ≈ 77–80 % en décembre, BCE encore indécise"
+    ],
+    [
+     "up",
+     "Pétrole −14 % environ en une semaine : facture énergétique allégée"
+    ],
+    [
+     "up",
+     "Inflation 4,0 % : plusieurs gouverneurs (Nagel) poussent pour une hausse en décembre"
+    ],
+    [
+     "risk",
+     "Fonds déjà nets vendeurs : un CPI US faible peut provoquer un rachat rapide"
+    ]
+   ],
+   "week": "Mercredi 11/11 à 08h00 : inflation allemande finale (2,8 % en flash selon LiteFinance). Vendredi 13/11 : PIB T3 zone euro (2e estimation) et emploi ; heure non confirmée.",
+   "mid": "Faible sur 1 à 3 mois face au dollar tant que l'écart de croissance persiste ; une hausse BCE en décembre avec une Fed en pause renverserait la lecture.",
+   "lexicon": [
+    [
+     "Écart OAT–Bund",
+     "Différence de rendement entre la dette française et la dette allemande à 10 ans : il mesure le stress budgétaire français."
+    ]
+   ]
+  }
+ ],
+ "pairs": [
+  {
+   "symbol": "USDCAD",
+   "dominant": "USD",
+   "bias10": "Haussier",
+   "bias3m": "Haussier",
+   "kind": "up",
+   "confidence": "Moyenne",
+   "statusNote": "Prix : clôture 1,4128, MM20 1,4070, MM50 1,4044, range 3 mois 1,3729–1,4299 : le prix confirme (au-dessus des deux moyennes), à 70 % du range. Écart de notes 2,5. En attente du CPI US.",
+   "driver": "Écart de notes 2,5 (USD 7,0 / CAD 4,5) : emploi US +165 000 contre emploi canadien −4 700 et chômage 6,7 %",
+   "secondary": "Pétrole en repli (WTI 90,37 $ contre 104,12 $ le 30/10) ; Fed attendue en hausse en décembre (≈ 77–80 %) contre BoC qui vient de monter à 2,50 %",
+   "past": "+1,11 % sur la semaine, clôture 1,4128 (plus haut de séance 1,4137) ; le 3/11, le CAD avait touché 1,3940, son plus fort depuis le 16/09 (Kitco).",
+   "expect": "CPI US mardi 10/11 à 14h30 ; négociations avec l'Iran pour le pétrole. Aucune donnée canadienne majeure suivie.",
+   "mid": "Haussier sur 1 à 3 mois tant que l'emploi canadien recule et que le WTI reste sous 100 $.",
+   "scenarios": {
+    "bull": "CPI US ≥ +0,3 % m/m core et WTI < 88 $ → retour vers le plus haut de 3 mois 1,4299",
+    "central": "CPI conforme, pétrole stable → paire soutenue au-dessus de la MM20 (1,4070)",
+    "bear": "Accord avec l'Iran rejeté et pétrole > 100 $, ou CPI US faible → retour sous la MM50 (1,4044)"
+   },
+   "confirm": "Core CPI US ≥ +0,3 % m/m ; WTI < 88 $ ; clôture au-dessus de 1,4137",
+   "invalidate": "Clôture sous la MM50 (1,4044) ; WTI > 100 $ ; core CPI ≤ +0,1 %",
+   "simple": "Le dollar américain (7,0) domine le dollar canadien (4,5), écart de 2,5 points : l'emploi va bien aux États-Unis et mal au Canada, et le pétrole a baissé.",
+   "trap": "Spéculateurs institutionnels (COT) : ils ont ajouté ≈ 24 600 contrats nets vendeurs de CAD au 3/11 (titre FXTribune) et les fonds étaient déjà vendeurs (−91 113 au 20/10) : le positionnement va dans le sens du biais, risque de rachat brutal sur une hausse du pétrole. Traders particuliers (retail) : relevé non confirmé. Annonce binaire : une avancée ou une rupture avec l'Iran peut faire bouger le pétrole de plus de 5 % en une séance (−8 à −9 % le 4/11).",
+   "lexicon": [
+    [
+     "WTI",
+     "Pétrole brut américain de référence ; le Brent est la référence internationale."
+    ]
+   ],
+   "retail": null,
+   "status": "pending"
+  },
+  {
+   "symbol": "EURUSD",
+   "dominant": "USD",
+   "bias10": "Baissier (mouvement étendu, ne pas poursuivre)",
+   "bias3m": "Baissier",
+   "kind": "down",
+   "confidence": "Moyenne",
+   "statusNote": "Prix : clôture 1,1143, MM20 1,1190, MM50 1,1342, range 3 mois 1,1103–1,1711 : le prix confirme (sous les deux moyennes), mais à 7 % du range seulement. Écart de notes 3,0.",
+   "driver": "Écart de notes 3,0 (USD 7,0 / EUR 4,0) : emploi US très fort et Fed pricée en hausse, contre croissance européenne de 0,4 %",
+   "secondary": "BCE encore indécise (Lagarde « dépend des données ») ; la baisse du pétrole est un soutien partiel de l'euro",
+   "past": "−0,82 % le 6/11 à 1,1143 après l'emploi US, troisième baisse hebdomadaire d'affilée (−0,13 % sur la semaine) ; plus haut de la semaine 1,1272 le 4/11.",
+   "expect": "CPI US mardi 10/11 ; PIB T3 zone euro (2e estimation) vendredi 13/11. Plus bas de 3 mois (1,1103) à 40 points.",
+   "mid": "Baissier sur 1 à 3 mois tant que la Fed vise décembre et que la croissance européenne reste faible.",
+   "scenarios": {
+    "bull": "CPI US ≤ +0,1 % m/m core → reflux du dollar, rachat vers la MM20 (1,1190) puis 1,1272",
+    "central": "CPI conforme → paire sous pression mais bloquée au-dessus de 1,1103, rebonds probables",
+    "bear": "CPI US ≥ +0,4 % m/m → cassure du plus bas de 3 mois 1,1103"
+   },
+   "confirm": "Core CPI US ≥ +0,3 % m/m ; clôture sous 1,1103",
+   "invalidate": "Clôture au-dessus de la MM20 (1,1190) puis de 1,1272 ; core CPI ≤ +0,1 %",
+   "simple": "Le dollar (7,0) domine l'euro (4,0), écart de 3 points : la paire a plus de raisons de baisser que de monter, mais elle est déjà tout près de son plus bas de 3 mois.",
+   "trap": "Biais en grande partie dans le prix, ne pas poursuivre : la paire est à 7 % de son range de 3 mois. Spéculateurs institutionnels (COT) : fonds nets vendeurs (−68 840 au 20/10, −71 574 au 27/10), positionnement déjà chargé dans le sens du biais ; gérants nets acheteurs (+190 421). Traders particuliers (retail) : relevé non confirmé. CPI publié sans taux annuel : réaction potentiellement désordonnée.",
+   "lexicon": [
+    [
+     "Range 3 mois",
+     "Écart entre le plus haut et le plus bas des trois derniers mois. Une paire tout en bas de ce range a déjà fait l'essentiel de sa baisse."
+    ],
+    [
+     "MM20 / MM50",
+     "Moyennes des clôtures des 20 et 50 dernières séances : elles indiquent la tendance courte et moyenne."
+    ]
+   ],
+   "retail": null,
+   "status": "pending"
+  },
+  {
+   "symbol": "AUDUSD",
+   "dominant": "USD",
+   "bias10": "Baissier (mouvement étendu, ne pas poursuivre)",
+   "bias3m": "Neutre à baissier",
+   "kind": "down",
+   "confidence": "Faible",
+   "statusNote": "Prix : clôture 0,6863, MM20 0,6987, MM50 0,7043, range 3 mois 0,6852–0,7237 : le prix confirme (sous les deux moyennes), mais à 3 % du range. Écart de notes 2,0, juste au seuil.",
+   "driver": "Écart de notes 2,0 (USD 7,0 / AUD 5,0) : RBA prudente après sa hausse et chute des actions tech qui profite au dollar",
+   "secondary": "Baisse des matières premières ; données chinoises (CPI, commerce) en début de semaine",
+   "past": "−2,38 % sur la semaine à 0,6863 ; plus bas de séance 0,6852 le 6/11 ; −0,3 % après la RBA du 3/11.",
+   "expect": "CPI US mardi 10/11 ; actions technologiques ; commerce extérieur chinois. Emploi australien seulement le 19/11.",
+   "mid": "Neutre à baissier sur 1 à 3 mois : taux australiens élevés contre risk-off et RBA en pause.",
+   "scenarios": {
+    "bull": "Rebond de la tech et CPI US faible → rachat vers la MM20 (0,6987)",
+    "central": "Stabilisation près de 0,6850–0,6950 après une baisse de 2,4 %",
+    "bear": "Nouvelle chute du Nasdaq et CPI US fort → cassure de 0,6852"
+   },
+   "confirm": "Clôture sous 0,6852 ; nouvelle baisse du Nasdaq ; core CPI US ≥ +0,3 %",
+   "invalidate": "Clôture au-dessus de la MM20 (0,6987) ; rebond net des actions tech",
+   "simple": "Le dollar américain (7,0) prend l'avantage sur l'australien (5,0), écart de 2 points juste suffisant : la baisse est logique, mais la paire a déjà chuté de 2,4 % en une semaine et touche son plus bas de 3 mois.",
+   "trap": "Biais en grande partie dans le prix, ne pas poursuivre : la paire est à 3 % de son range de 3 mois. Spéculateurs institutionnels (COT) : gérants d'actifs nets vendeurs (−128 739 au 20/10), dans le sens du biais ; fonds nets acheteurs (+52 497) qui peuvent encore liquider. Traders particuliers (retail) : relevé non confirmé. Un rebond de la tech peut provoquer un rachat rapide.",
+   "lexicon": [
+    [
+     "Risk-off",
+     "Phase où les investisseurs vendent les actifs risqués (actions, devises cycliques comme l'AUD) pour acheter des refuges."
+    ]
+   ],
+   "retail": null,
+   "status": "pending"
+  },
+  {
+   "symbol": "USDCHF",
+   "dominant": "USD",
+   "bias10": "Neutre, en attente de confirmation par le prix",
+   "bias3m": "Légèrement haussier",
+   "kind": "flat",
+   "confidence": "Faible",
+   "statusNote": "Prix : clôture 0,8205, MM20 0,8249, MM50 0,8230, range 3 mois 0,7947–0,8394 : le prix ne confirme pas (sous les deux moyennes alors que l'écart de notes de 2,5 penche vers le dollar).",
+   "driver": "Écart de notes 2,5 (USD 7,0 / CHF 4,5) : écart de taux ≈ 388 pb en faveur du dollar",
+   "secondary": "Demande refuge pour le franc pendant la chute des actions ; inflation suisse remontée à 1,5 %",
+   "past": "−0,55 % sur la semaine à 0,8205 malgré la hausse du dollar ; plus bas de sept semaines à 0,8149 le 3/11 après le CPI suisse.",
+   "expect": "CPI US mardi 10/11 ; évolution du risque (actions, Iran).",
+   "mid": "Légèrement haussier sur 1 à 3 mois par l'écart de taux, sous réserve que le prix repasse au-dessus de ses moyennes.",
+   "scenarios": {
+    "bull": "CPI US fort et retour du risk-on → clôture au-dessus de la MM20 (0,8249), biais haussier confirmé",
+    "central": "Paire entre 0,8150 et 0,8250, sans direction",
+    "bear": "Escalade géopolitique ou nouvelle chute des actions → retour vers 0,8149 puis plus bas"
+   },
+   "confirm": "Clôture au-dessus de la MM20 (0,8249) puis de 0,8300 ; core CPI US ≥ +0,3 %",
+   "invalidate": "Clôture sous 0,8149 ; escalade autour d'Ormuz",
+   "simple": "Le dollar (7,0) rapporte bien plus que le franc (4,5), mais le franc est acheté comme refuge : le prix reste sous ses moyennes, donc pas de biais tant qu'il ne remonte pas.",
+   "trap": "Le refuge prime sur l'écart de taux dans les phases de stress : une nouvelle chute des actions peut faire baisser la paire malgré un dollar fort. Spéculateurs institutionnels (COT) : gérants (−25 535) et fonds (−13 607) nets vendeurs de franc au 20/10, positionnement modéré. Traders particuliers (retail) : relevé non confirmé.",
+   "lexicon": [
+    [
+     "Valeur refuge",
+     "Actif acheté en période de peur (franc, yen, or, dollar)."
+    ]
+   ],
+   "retail": null,
+   "status": "pending"
+  },
+  {
+   "symbol": "USDJPY",
+   "dominant": "USD",
+   "bias10": "Légèrement haussier (confiance faible, plafond 160)",
+   "bias3m": "Neutre",
+   "kind": "up",
+   "confidence": "Faible",
+   "statusNote": "Prix : clôture 158,45, MM20 157,96, MM50 157,31, range 3 mois 152,87–160,39 : le prix confirme (au-dessus des deux moyennes), à 74 % du range. Écart de notes 1,5 seulement : biais léger au mieux.",
+   "driver": "Écart de notes 1,5 (USD 7,0 / JPY 5,5) : écart de taux directeurs 262,5 pb et hausse Fed de décembre mieux pricée que celle de la BoJ (≈ 77–80 % contre ≈ 68 %)",
+   "secondary": "Risk-off qui n'a pas profité au yen cette semaine ; risque d'intervention à 160",
+   "past": "+0,58 % sur la semaine à 158,45 ; plus haut de séance 158,76 le 3/11 ; 200 jours vers 158,66 (TradingNews).",
+   "expect": "CPI US mardi 10/11 ; déclarations du ministère des Finances ; résumé des opinions de la BoJ ; PIB japonais T3 lundi 16/11 à 00h50.",
+   "mid": "Neutre sur 1 à 3 mois : la BoJ du 18/12 et la Fed de décembre décideront ; un pricing BoJ en hausse ferait reculer la paire.",
+   "scenarios": {
+    "bull": "CPI US fort → test de 159,50–160, zone où le risque d'intervention monte",
+    "central": "Paire entre 157 et 159,50",
+    "bear": "CPI US faible ou intervention → retour vers 156,07 puis 155,20"
+   },
+   "confirm": "Core CPI US ≥ +0,3 % ; clôture au-dessus de 158,76",
+   "invalidate": "Clôture sous la MM50 (157,31) ; avertissement « action décisive » de Tokyo ; core CPI ≤ +0,1 %",
+   "simple": "Le dollar (7,0) a un léger avantage sur le yen (5,5), écart de 1,5 point : la paire monte doucement, mais Tokyo a déjà dépensé plus de 15 000 milliards de yens pour défendre sa devise près de 160.",
+   "trap": "Intervention : Tokyo a acheté du yen pour 15 399 Md¥ du 30/07 au 26/08, avec une opération conjointe américaine le 31/07 ; près de 160, un recul de plusieurs yens en quelques heures est possible. Mouvement en partie fait (74 % du range). Spéculateurs institutionnels (COT) : gérants nets acheteurs de yen (+79 103 au 20/10), fonds nets vendeurs (−22 890). Traders particuliers (retail) : relevé non confirmé.",
+   "lexicon": [
+    [
+     "Ligne d'intervention",
+     "Niveau (ici 160) au-delà duquel le marché s'attend à ce que le Japon achète des yens."
+    ]
+   ],
+   "retail": null,
+   "status": "pending"
+  },
+  {
+   "symbol": "EURJPY",
+   "dominant": "JPY",
+   "bias10": "Légèrement baissier (confiance faible, ne pas poursuivre)",
+   "bias3m": "Neutre",
+   "kind": "down",
+   "confidence": "Faible",
+   "statusNote": "Prix : clôture 176,56, MM20 176,76, MM50 178,41, range 3 mois 175,03–186,00 : le prix confirme de peu (sous les deux moyennes), à 14 % du range. Écart de notes 1,5 seulement.",
+   "driver": "Écart de notes 1,5 (JPY 5,5 / EUR 4,0) : BoJ orientée vers une hausse, croissance européenne faible",
+   "secondary": "Deux importateurs d'énergie : la baisse du pétrole les aide tous les deux ; BCE et BoJ visent toutes deux décembre",
+   "past": "+0,45 % sur la semaine à 176,56 ; plus haut 178,53 le 4/11, rejeté.",
+   "expect": "CPI US (effet indirect via le yen) ; PIB T3 zone euro vendredi 13/11 ; PIB japonais lundi 16/11.",
+   "mid": "Neutre sur 1 à 3 mois : les deux banques centrales visent décembre.",
+   "scenarios": {
+    "bull": "Risk-on et BoJ moins pricée → retour au-dessus de la MM50 (178,41)",
+    "central": "Range 175–178",
+    "bear": "Nouvelle chute des actions et BoJ confirmée → cassure de 175,03"
+   },
+   "confirm": "Clôture sous 175,03",
+   "invalidate": "Clôture au-dessus de la MM50 (178,41)",
+   "simple": "Le yen (5,5) a un léger avantage sur l'euro (4,0), écart de 1,5 point : la pente est légèrement baissière, mais la paire est déjà proche de son plus bas de 3 mois.",
+   "trap": "Biais en grande partie dans le prix, ne pas poursuivre : 14 % du range de 3 mois. Les deux banques centrales peuvent monter en décembre : une annonce de l'une ou l'autre peut inverser la paire. Spéculateurs institutionnels (COT) : fonds nets vendeurs d'euro (−68 840) et de yen (−22 890) au 20/10. Traders particuliers (retail) : relevé non confirmé.",
+   "lexicon": [],
+   "retail": null,
+   "status": "pending"
+  },
+  {
+   "symbol": "GBPUSD",
+   "dominant": "USD",
+   "bias10": "Neutre, en attente de confirmation par le prix",
+   "bias3m": "Neutre",
+   "kind": "flat",
+   "confidence": "Faible",
+   "statusNote": "Pas de biais : écart de notes 1,5 et prix proche de ses moyennes (1,3448 à 21h45 contre MM20 1,3346 et MM50 1,3360, calculées au 6/11). Bailey n'a rien changé ; en attente du CPI US et du PIB britannique.",
+   "driver": "Écart de notes 1,5 (USD 7,0 / GBP 5,5) : emploi US fort contre BoE qui vient de monter",
+   "secondary": "PIB britannique T3 (12/11) ; Bailey (9/11) sans signal sur décembre",
+   "past": "−0,31 % sur la semaine ; plus haut de plus de 7 semaines le 5/11 après la BoE (1,3506), puis −0,71 % le 6/11 à 1,3355 (Reuters).",
+   "expect": "CPI US mardi 10/11 à 14h30 ; PIB britannique jeudi 12/11 à 08h00. Le discours de Bailey du 9/11 n'a donné aucune indication sur les taux.",
+   "mid": "Neutre sur 1 à 3 mois : deux banques centrales en hausse.",
+   "scenarios": {
+    "bull": "PIB T3 solide et CPI US faible → retour vers 1,3506",
+    "central": "Paire entre 1,3300 et 1,3450",
+    "bear": "PIB T3 négatif et CPI US fort → retour vers 1,3250"
+   },
+   "confirm": "Écart de notes porté à 2 ou plus ; clôture hors de 1,3250–1,3506",
+   "invalidate": "Sans objet tant qu'aucun biais n'est pris",
+   "simple": "Le dollar (7,0) a un léger avantage sur la livre (5,5), mais l'écart de 1,5 point est insuffisant et le prix tourne autour de ses moyennes : pas de direction claire.",
+   "trap": "Annonces binaires (CPI US, PIB britannique) : la paire peut faire des allers-retours ; la hausse de lundi (≈ +0,7 % vers 1,3448) a commencé avant le discours de Bailey et ne vaut pas tendance. Spéculateurs institutionnels (COT) : gérants nets vendeurs de livre (−134 621 au 20/10), fonds nets acheteurs (+24 104). Traders particuliers (retail) : relevé non confirmé.",
+   "lexicon": [],
+   "retail": null,
+   "status": "pending"
+  },
+  {
+   "symbol": "GBPJPY",
+   "dominant": "Aucune",
+   "bias10": "Neutre, paire peu propre",
+   "bias3m": "Neutre",
+   "kind": "flat",
+   "confidence": "Faible",
+   "statusNote": "Pas de biais : écart de notes nul (GBP 5,5 / JPY 5,5). Le discours de Bailey n'a pas modifié la note de la livre.",
+   "driver": "Écart de notes 0 (GBP 5,5 / JPY 5,5) : deux banques centrales en hausse",
+   "secondary": "Sensibilité au risque (actions) et au PIB britannique",
+   "past": "+0,27 % sur la semaine à 211,51 ; amplitude de séance ≈ 3,8 yens le 6/11.",
+   "expect": "CPI US (10/11) via le yen ; PIB britannique jeudi 12/11 à 08h00.",
+   "mid": "Neutre sur 1 à 3 mois.",
+   "scenarios": {
+    "bull": "Risk-on et PIB britannique solide → vers 214",
+    "central": "Range 209–213",
+    "bear": "Risk-off et BoJ confirmée → vers 208"
+   },
+   "confirm": "Écart de notes ≥ 2",
+   "invalidate": "Sans objet tant qu'aucun biais n'est pris",
+   "simple": "Livre et yen ont la même note (5,5) : aucun des deux ne domine, la paire bouge surtout avec l'humeur des marchés.",
+   "trap": "Paire très volatile (≈ 3,8 yens d'amplitude le 6/11) sans moteur fondamental : les mouvements suivent le risque et peuvent s'inverser vite. Spéculateurs institutionnels (COT) : fonds nets acheteurs de livre et nets vendeurs de yen au 20/10. Traders particuliers (retail) : relevé non confirmé.",
+   "lexicon": [
+    [
+     "Paire peu propre",
+     "Paire dont les deux devises ont des notes proches : aucun moteur fondamental ne domine."
+    ]
+   ],
+   "retail": null,
+   "status": "pending"
+  }
+ ],
+ "cross": [
+  {
+   "asset": "DXY",
+   "level": "102,26–102,32 (6/11, Reuters ; CappNotes)",
+   "facts": "+0,77 % le 6/11 après l'emploi, ≈ +0,3 % sur la semaine ; hausse Fed de décembre ≈ 77–80 %",
+   "bias10": "Légèrement haussier",
+   "bias3m": "Légèrement haussier",
+   "confidence": "Moyenne",
+   "confirm": "Core CPI ≥ +0,3 % le 10/11 ; décembre pricé > 80 %",
+   "invalidate": "Core CPI ≤ +0,1 % ; 10 ans US < 4,70 %",
+   "simple": "Le dollar index monte : emploi américain fort et rôle de refuge pendant la chute des bourses ; le CPI du 10/11 dira si la hausse continue."
+  },
+  {
+   "asset": "XAUUSD",
+   "level": "4 068,66 $ (spot Alpha Vantage, 07/11 07h42 UTC)",
+   "facts": "−0,79 % le 6/11 (≈ 4 081 $) ; dollar fort, taux réels élevés (2,74 % le 16/10, dernier relevé) ; contre-poids : risk-off et géopolitique",
+   "bias10": "Neutre",
+   "bias3m": "Neutre",
+   "confidence": "Faible",
+   "confirm": "Haussier si le CPI US déçoit et que les taux réels reculent ; baissier si décembre dépasse 85 %",
+   "invalidate": "Lecture neutre invalidée par une clôture hors de 3 900–4 200 $",
+   "simple": "L'or est pris entre deux forces : la peur sur les marchés le soutient, mais un dollar fort et des taux élevés le freinent ; résultat, il ne va nulle part cette semaine.",
+   "retail": null
+  },
+  {
+   "asset": "XAGUSD",
+   "level": "51,94 $ (spot Alpha Vantage, 07/11 07h42 UTC)",
+   "facts": "−0,48 % le 6/11 ; ratio or/argent ≈ 78,3 ; demande industrielle exposée au ralentissement de la tech",
+   "bias10": "Neutre à baissier",
+   "bias3m": "Neutre",
+   "confidence": "Faible",
+   "confirm": "Nouvelle chute du Nasdaq et ratio or/argent > 80",
+   "invalidate": "Rebond de la tech et ratio < 76",
+   "simple": "L'argent dépend à la fois de l'or et de l'industrie : la chute des valeurs technologiques pèse sur sa demande industrielle.",
+   "retail": null
+  },
+  {
+   "asset": "USOIL",
+   "level": "WTI 90,37 $ · Brent 97,79 $ (6/11, CappNotes)",
+   "facts": "Brent de 116 $ (23/10) à ≈ 94 $ le 4/11 après les élections, sur l'espoir d'un accord avec l'Iran ; Iran : détroit fermé aux navires non coordonnés, pétroliers touchés par des mines revendiqués les 3–6/11 (non confirmé)",
+   "bias10": "Neutre (annonce binaire)",
+   "bias3m": "Neutre à baissier",
+   "confidence": "Faible",
+   "confirm": "Baissier si accord ou réouverture d'Ormuz ; haussier si rupture des discussions ou attaque confirmée",
+   "invalidate": "Brent > 105 $ (lecture baissière à 3 mois invalidée)",
+   "simple": "Le pétrole a perdu environ 14 % en une semaine parce que le marché espère la fin de la guerre avec l'Iran ; tant qu'aucun accord n'est signé, une mauvaise nouvelle peut le faire remonter très vite."
+  },
+  {
+   "asset": "US500",
+   "level": "7 376,86 (6/11)",
+   "facts": "−4,36 % le 5/11, +0,31 % le 6/11, ≈ −2,7 % sur la semaine ; VIX 25,64",
+   "bias10": "Neutre à baissier",
+   "bias3m": "Neutre",
+   "confidence": "Faible",
+   "confirm": "CPI US fort (taux en hausse) et nouvelle baisse des semi-conducteurs",
+   "invalidate": "Clôture au-dessus de 7 580 (niveau du 30/10)",
+   "simple": "Le S&P 500 a perdu 2,7 % sur la semaine avec la chute des valeurs liées à l'IA ; des taux élevés et une Fed qui monte encore n'aident pas."
+  },
+  {
+   "asset": "US100",
+   "level": "26 989,99 (Nasdaq-100, 6/11)",
+   "facts": "Nasdaq −5,52 % le 5/11 (pire séance depuis 19 mois selon Reuters), Nasdaq-100 +1,35 % le 6/11 ; ≈ −4,9 % sur la semaine ; Nikkei et Kospi ≈ −6 % le 6/11",
+   "bias10": "Baissier",
+   "bias3m": "Neutre à baissier",
+   "confidence": "Faible",
+   "confirm": "Nouvelle séance de baisse > 2 % sur les semi-conducteurs ; CPI US fort",
+   "invalidate": "Clôture au-dessus de 28 385 (niveau du 30/10)",
+   "simple": "Le Nasdaq est au cœur de la tempête : les investisseurs doutent des valeurs liées à l'IA et vendent ; un rebond est possible mais la tendance de la semaine est baissière."
+  },
+  {
+   "asset": "US30",
+   "level": "51 285,73 (6/11)",
+   "facts": "−0,46 % le 6/11, ≈ −0,9 % sur la semaine : mieux tenu que le Nasdaq (moins de technologie)",
+   "bias10": "Neutre",
+   "bias3m": "Neutre",
+   "confidence": "Faible",
+   "confirm": "Rotation vers les valeurs défensives et industrielles",
+   "invalidate": "Contagion de la baisse tech (Dow < 50 500)",
+   "simple": "Le Dow Jones résiste mieux car il contient moins de valeurs technologiques ; il suit surtout les taux et l'économie réelle."
+  }
+ ],
+ "crossNotes": [
+  "Le dollar a capté le flux refuge cette semaine (DXY +0,77 % le 6/11) alors que le yen a baissé de 0,6 % : un risk-off ne profite pas toujours au yen quand la Fed est plus ferme que la BoJ.",
+  "Le pétrole a chuté sur une attente (accord avec l'Iran), pas sur un fait : Téhéran a jugé la réponse américaine « pas convaincante ». Une rupture des discussions peut inverser le mouvement rapidement.",
+  "Une donnée US forte peut faire baisser les indices : avec un 10 ans à 4,86 % et une Fed attendue en hausse, elle renforce la pression sur les valorisations de la tech.",
+  "L'or ne profite pas du stress actions : taux réels élevés et dollar fort l'emportent. Ne pas confondre une séance de baisse avec une tendance."
+ ],
+ "calendar": [
+  {
+   "when": "Lun. 9/11, 18h25",
+   "title": "Discours d'Andrew Bailey (BoE)",
+   "exclusion": false,
+   "pairs": "GBPUSD, GBPJPY",
+   "status": "published",
+   "forecast": "Sans objet (discours)",
+   "previous": "Hausse à 4,00 % le 5/11 ; Bailey : une nouvelle hausse est « défendable »",
+   "votes": "Dernier vote 8–1 le 5/11 (Mann pour 4,25 %) ; votes nominatifs publiés par la BoE ; prochaine décision 17/12",
+   "priced": "Pricing de la hausse du 17/12 non confirmé ; après la décision : « à pile ou face » (Reuters via Investing.com, 5/11, relevé précédent)",
+   "scenarios": [
+    [
+     "Bailey confirme une hausse probable en décembre",
+     "Au-dessus du pricing",
+     "GBP soutenue ; GBPUSD peut approcher l'écart de 2 points",
+     "ok"
+    ],
+    [
+     "Ton dépendant des données",
+     "Conforme",
+     "Biais inchangés (GBPUSD neutre)",
+     "wait"
+    ],
+    [
+     "Hausse présentée comme « unique »",
+     "En dessous",
+     "GBP affaiblie, GBPUSD et GBPJPY vers le bas",
+     "ko"
+    ]
+   ],
+   "result": {
+    "actual": "Discours « Central Bank independence in today's world » (Université de Zurich, texte publié par la BoE à 17h25 UTC). Aucun signal sur la décision du 17/12 ni sur la suite des taux : « notre tâche est de fixer les taux pour ramener l'inflation à la cible » ; les chocs d'offre poussent l'inflation à la hausse et l'activité à la baisse ; optimisme sur l'IA, « premiers signes » d'un choc d'offre positif, et risque de bulle si les marchés surévaluent ses rendements.",
+    "priced": "Hausse du 17/12 : probabilité exacte non confirmée ; trois hausses supplémentaires attendues d'ici fin 2027 (Tradingpedia, 9/11) ; « à pile ou face » après la décision du 5/11 (relevé précédent).",
+    "reaction": "GBPUSD 1,3448 à 21h45 (Alpha Vantage), contre 1,3349 en clôture vendredi ; la paire montait déjà vers 1,3370 dès l'Asie, avant le discours (Tradingpedia). Réaction propre au discours non confirmée.",
+    "impact": "En attente : Bailey n'a ni confirmé une hausse en décembre ni présenté celle du 5/11 comme unique. Aucune condition de confirmation ou d'invalidation de la livre n'est franchie ; le PIB T3 de jeudi reste le test.",
+    "effect": "Discours sans indication de politique monétaire : biais GBP inchangés.",
+    "tone": "wait"
+   }
+  },
+  {
+   "when": "Mar. 10/11, 14h30",
+   "title": "CPI US octobre",
+   "exclusion": true,
+   "pairs": "Toutes paires USD, or, indices",
+   "status": "upcoming",
+   "forecast": "+0,3 % m/m total et core (RBC) ; nowcast de Cleveland +0,24 % total, +0,21 % core. Pas de taux annuel officiel (données d'octobre 2025 manquantes) ; consensus de sondage non confirmé",
+   "previous": "Septembre : +0,6 % m/m, 3,7 % a/a ; core +0,3 % m/m",
+   "votes": "Donnée, pas de vote. Dernier FOMC (28/10) : maintien 10–2, deux voix pour une hausse",
+   "priced": "Hausse Fed de décembre : Polymarket 76,5 %, Kalshi ≈ 78 %, CME FedWatch « vers 80 % » (6/11)",
+   "scenarios": [
+    [
+     "Core ≥ +0,4 % m/m",
+     "Au-dessus",
+     "Décembre au-delà de 85 % : confirme USD fort, USDCAD haussier, EURUSD et AUDUSD baissiers (sans poursuivre), indices sous pression",
+     "ok"
+    ],
+    [
+     "Core +0,2 à +0,3 %",
+     "Conforme",
+     "Biais inchangés",
+     "wait"
+    ],
+    [
+     "Core ≤ +0,1 %",
+     "En dessous",
+     "Décembre remis en cause : rachat de l'euro et de l'AUD, invalide USDCAD si clôture sous 1,4044",
+     "ko"
+    ]
+   ],
+   "result": null
+  },
+  {
+   "when": "Jeu. 12/11, 08h00",
+   "title": "PIB Royaume-Uni T3 (première estimation) + septembre",
+   "exclusion": false,
+   "pairs": "GBPUSD, GBPJPY",
+   "status": "upcoming",
+   "forecast": "Non confirmé",
+   "previous": "T2 +0,5 % t/t ; T1 +0,6 % (LiteFinance)",
+   "votes": "BoE : 8–1 le 5/11 (Mann pour 4,25 %)",
+   "priced": "Hausse BoE du 17/12 : probabilité non confirmée",
+   "scenarios": [
+    [
+     "PIB ≥ +0,4 % t/t",
+     "Au-dessus",
+     "Soutient une hausse en décembre, GBP plus ferme",
+     "ok"
+    ],
+    [
+     "PIB +0,1 à +0,3 %",
+     "Conforme",
+     "Biais inchangés",
+     "wait"
+    ],
+    [
+     "PIB négatif",
+     "En dessous",
+     "Crainte de stagflation, note GBP abaissée, GBPUSD vers le bas",
+     "ko"
+    ]
+   ],
+   "result": null
+  },
+  {
+   "when": "Ven. 13/11, heure non confirmée (11h00 habituellement)",
+   "title": "PIB zone euro T3 (2e estimation) + emploi",
+   "exclusion": false,
+   "pairs": "EURUSD, EURJPY",
+   "status": "upcoming",
+   "forecast": "+0,4 % t/t (estimation flash du 30/10)",
+   "previous": "T2 +0,6 % t/t",
+   "votes": "BCE : votes non publiés ; dépôt 2,50 % maintenu le 29/10",
+   "priced": "Hausse BCE de décembre : attendue par le sondage Reuters du 8/10 ; probabilité OIS non confirmée",
+   "scenarios": [
+    [
+     "Révision en baisse (≤ +0,2 %)",
+     "En dessous",
+     "Confirme EUR faible, EURUSD baissier",
+     "ok"
+    ],
+    [
+     "+0,3 à +0,4 %",
+     "Conforme",
+     "Biais inchangés",
+     "wait"
+    ],
+    [
+     "Révision en hausse (≥ +0,5 %)",
+     "Au-dessus",
+     "Renforce la hausse BCE, affaiblit EURUSD baissier",
+     "ko"
+    ]
+   ],
+   "result": null
+  }
+ ],
+ "horizon": "Semaine suivante : PIB japonais T3 lundi 16/11 à 00h50 ; inflation britannique, canadienne et japonaise d'octobre ; ventes au détail US ; minutes du FOMC le 18/11 ; emploi australien le 19/11 (ABS) ; rapport COT décalé au lundi 16/11. Contexte continu : négociations avec l'Iran et détroit d'Ormuz ; valeurs technologiques.",
+ "scenarios": [
+  {
+   "name": "Haussier (risk-on, dollar en baisse)",
+   "triggers": "Core CPI US ≤ +0,1 % ; accord de principe avec l'Iran ; rebond des semi-conducteurs",
+   "rates": "US 10 ans < 4,70 %",
+   "fx": "EUR, AUD et GBP en hausse, USD en baisse, CAD freiné par le pétrole",
+   "metals": "Or et argent en hausse (taux réels en baisse)",
+   "indices": "Rebond, US100 en tête"
+  },
+  {
+   "name": "Central",
+   "triggers": "Core CPI US +0,2 à +0,3 % ; discussions avec l'Iran sans accord ; tech volatile",
+   "rates": "US 10 ans 4,75–4,95 %",
+   "fx": "USD ferme, AUD et CAD faibles, EUR proche de ses plus bas, JPY sous le plafond de 160",
+   "metals": "Stables",
+   "indices": "Volatils, sans reprise nette (VIX > 20)"
+  },
+  {
+   "name": "Baissier (risk-off, dollar en hausse)",
+   "triggers": "Core CPI US ≥ +0,4 % ; nouvelle chute de la tech ; ou rupture avec l'Iran et Brent > 105 $",
+   "rates": "US 2 ans > 4,65 %, 10 ans > 5,00 %",
+   "fx": "USD en hausse généralisée, AUD en baisse, risque d'intervention sur USDJPY à 160, CAD soutenu seulement si le pétrole remonte",
+   "metals": "Or sous pression si les taux montent ; soutenu si le choc vient d'Ormuz",
+   "indices": "Baisse, US100 le plus touché"
+  }
+ ],
+ "conclusion": {
+  "coherent": [
+   "USDCAD haussier : écart de notes 2,5, prix au-dessus de la MM20 (1,4070) et de la MM50 (1,4044), à 70 % du range ; foule institutionnelle déjà vendeuse de CAD, retail non confirmé.",
+   "EURUSD baissier sur le fond (écart 3,0, prix sous ses moyennes) mais à 7 % de son range de 3 mois : ne pas poursuivre."
+  ],
+  "avoid": [
+   "AUDUSD : biais baissier logique (écart 2,0) mais déjà au plus bas de 3 mois après −2,4 % en une semaine.",
+   "USDCHF : écart 2,5 mais prix sous ses deux moyennes, le refuge l'emporte.",
+   "GBPUSD, GBPJPY : écarts de 1,5 et 0, pas de direction ; USDJPY et EURJPY : écarts de 1,5, biais légers seulement (plafond 160, range presque parcouru)."
+  ],
+  "watch": [
+   "CPI US mardi 10/11 à 14h30 : core ≥ +0,3 % → décembre au-delà de 80 %, dollar soutenu ; ≤ +0,1 % → reflux du dollar.",
+   "Iran et Ormuz : un accord ferait encore baisser le pétrole (CAD plus faible) ; une rupture le ferait remonter.",
+   "Valeurs technologiques : une nouvelle chute pèserait sur l'AUD et les indices et renforcerait le dollar et le franc."
+  ]
+ },
+ "lexicon": [
+  [
+   "pb (point de base)",
+   "0,01 %. 100 pb = 1 %."
+  ],
+  [
+   "OIS / swaps",
+   "Instruments qui montrent la probabilité que le marché donne à une hausse ou une baisse de taux."
+  ],
+  [
+   "COT",
+   "Rapport hebdomadaire de la CFTC sur les positions des spéculateurs (publié le vendredi, positions du mardi). Un positionnement extrême annonce un risque de retournement brutal."
+  ],
+  [
+   "Fonds spéculatifs / gérants d'actifs",
+   "Dans le rapport COT « TFF », les fonds (leveraged funds) jouent la tendance à court terme ; les gérants (asset managers) investissent à plus long terme. Ils peuvent être de sens opposé."
+  ],
+  [
+   "Core / sous-jacente",
+   "Inflation sans l'énergie ni l'alimentation, plus stable. C'est elle que regardent les banques centrales."
+  ],
+  [
+   "Risk-on / risk-off",
+   "Marchés confiants (actions, AUD montent) ou inquiets (yen, franc, or montent)."
+  ],
+  [
+   "Sentiment retail",
+   "Part des traders particuliers à l'achat et à la vente (Myfxbook). Il se lit à contre-courant : quand 70 % ou plus sont du même côté, le prix part souvent dans l'autre sens. C'est une convention d'usage, pas une règle validée."
+  ],
+  [
+   "Moyenne mobile (MM20, MM50)",
+   "Moyenne des clôtures des 20 ou 50 dernières séances. Prix au-dessus = tendance plutôt haussière, en dessous = plutôt baissière."
+  ],
+  [
+   "Range 3 mois",
+   "Écart entre le plus haut et le plus bas des trois derniers mois. Un prix collé à une extrémité signale un mouvement déjà largement fait."
+  ],
+  [
+   "Écart de notes",
+   "Différence entre les notes fondamentales des deux devises d'une paire. Il faut au moins 2 points pour un biais directionnel."
+  ],
+  [
+   "Annonce binaire",
+   "Événement dont l'issue peut faire partir le prix fortement dans un sens ou dans l'autre."
+  ],
+  [
+   "Vote dissident",
+   "Membre du comité qui vote contre la décision. Un dissident pour une hausse signale que la prochaine hausse se rapproche."
+  ],
+  [
+   "MPC",
+   "Comité de politique monétaire de la Banque d'Angleterre : neuf membres qui votent le taux."
+  ],
+  [
+   "Vote 8–1",
+   "Huit membres pour la décision, un contre."
+  ],
+  [
+   "Choc d'offre",
+   "Événement qui modifie la capacité de production (énergie, technologie). Négatif : plus d'inflation et moins de croissance ; positif (ex. l'IA selon Bailey) : plus de croissance sans inflation."
+  ]
+ ],
+ "sources": [
+  {
+   "title": "CappNotes — Closing Look, Friday, November 6, 2026",
+   "url": "https://cappnotes.substack.com/p/closing-look-friday-november-6-2026",
+   "date": "06/11/2026"
+  },
+  {
+   "title": "GV Wire (Reuters) — Dollar Jumps After Strong US Payrolls Report",
+   "url": "https://gvwire.com/2026/11/06/dollar-jumps-after-strong-us-payrolls-report/",
+   "date": "06/11/2026"
+  },
+  {
+   "title": "The Rio Times — Fed Hike Odds Rise to 77% After Jobs Report",
+   "url": "https://www.riotimesonline.com/fed-december-hike-odds-rise-after-jobs-report-2026",
+   "date": "06/11/2026"
+  },
+  {
+   "title": "StockTitan — Next CPI Report on November 10 Will Have No Yearly Inflation Rate",
+   "url": "https://stocktitan.net/articles/october-2026-cpi-preview-no-yearly-rate",
+   "date": "novembre 2026 (lu le 07/11/2026)"
+  },
+  {
+   "title": "LiteFinance — Forex Economic Calendar 09.11.2026–15.11.2026",
+   "url": "https://www.litefinance.org/blog/analysts-opinions/weekly-economic-calendar-for-09112026-15112026/",
+   "date": "lu le 07/11/2026"
+  },
+  {
+   "title": "Newsquawk — Calendar of Key events, November 2026",
+   "url": "https://www.newsquawk.com/headlines/newsquawk-calendar-of-key-events---november-2026",
+   "date": "lu le 07/11/2026"
+  },
+  {
+   "title": "CBS News — Iran war live updates (Strait of Hormuz, oil after midterms)",
+   "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/",
+   "date": "03–06/11/2026"
+  },
+  {
+   "title": "Bank of England — Bank Rate increased to 4%, November 2026 Monetary Policy Summary and Minutes",
+   "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026",
+   "date": "05/11/2026"
+  },
+  {
+   "title": "AOL (Reuters) — ECB looking at indicators to see if December hike needed, Lagarde says",
+   "url": "https://www.aol.com/articles/ecb-looking-indicators-see-december-170613000.html",
+   "date": "05/11/2026"
+  },
+  {
+   "title": "Bloomberg — ECB Will Probably Have to Hike in December, Nagel Says (titre seul)",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-03/ecb-will-probably-have-to-raise-rates-in-december-nagel-says",
+   "date": "03/11/2026"
+  },
+  {
+   "title": "TradingNews — USD/JPY 158.53 on 165K payrolls, BoJ December hike odds 68.4%",
+   "url": "https://www.tradingnews.com/news/usdjpy-recovers-to-158-53-as-stong-us-jobs-data-meets-a-hawkish-boj-and-tokyo-intervention-line",
+   "date": "06/11/2026"
+  },
+  {
+   "title": "Kitco (Reuters) — Canadian dollar pulls back from six-week high ahead of key jobs data",
+   "url": "https://www.kitco.com/news/off-the-wire/2026-11-03/canadian-dollar-pulls-back-six-week-high-ahead-key-jobs-data",
+   "date": "03/11/2026"
+  },
+  {
+   "title": "CFTC — Commitments of Traders, Release Schedule",
+   "url": "https://www.cftc.gov/MarketReports/CommitmentsofTraders/ReleaseSchedule/index.htm",
+   "date": "lu le 07/11/2026"
+  },
+  {
+   "title": "CFTC — Traders in Financial Futures, futures only (page affichant les positions du 20/10/2026)",
+   "url": "https://www.cftc.gov/dea/futures/financial_lf.htm",
+   "date": "lu le 07/11/2026"
+  },
+  {
+   "title": "TFTC — Speculators add 246K contracts to 5-year Treasury shorts (COT du 3/11)",
+   "url": "https://tftc.io/5-year-treasury-shorts-cftc-cot-november-2026",
+   "date": "06/11/2026"
+  },
+  {
+   "title": "FXTribune — Speculators add Canadian dollar net shorts by 24,649 contracts in week to 3 November (titre seul, page non lisible)",
+   "url": "https://fxtribune.com/news/cftc-cot-report-speculators-add-canadian-dollar-net-shorts-by-24-649-contracts-in-week-to-3-november/",
+   "date": "06–07/11/2026"
+  },
+  {
+   "title": "Australian Bureau of Statistics — Future releases calendar",
+   "url": "https://www.abs.gov.au/release-calendar/future-releases-calendar",
+   "date": "lu le 07/11/2026"
+  },
+  {
+   "title": "Alpha Vantage — FX_DAILY (EURUSD, GBPUSD, USDJPY, USDCAD, AUDUSD, EURJPY, GBPJPY, USDCHF), clôtures au 06/11/2026",
+   "url": "https://www.alphavantage.co/documentation/#fx-daily",
+   "date": "relevé le 07/11/2026"
+  },
+  {
+   "title": "Alpha Vantage — GOLD_SILVER_SPOT (XAU 4 068,66 $, XAG 51,94 $)",
+   "url": "https://www.alphavantage.co/documentation/",
+   "date": "07/11/2026 07h42 UTC"
+  },
+  {
+   "title": "Myfxbook — Community Outlook (lu, rejeté : prix affichés incohérents avec le marché)",
+   "url": "https://www.myfxbook.com/community/outlook",
+   "date": "07/11/2026 vers 08h50"
+  },
+  {
+   "title": "ConvexTrade — US 10-year real yield (DFII10), 2,74 % au 16/10",
+   "url": "https://convextrade.com/metrics/DFII10",
+   "date": "lu le 07/11/2026"
+  },
+  {
+   "title": "Analyse OuillaneDESK de la semaine du 2 au 6 novembre 2026 (relevés précédents : Brent 113,43 $, WTI 104,12 $, indices au 30/10)",
+   "url": "/api/analysis?week=2026-11-02",
+   "date": "06/11/2026"
+  },
+  {
+   "title": "Bank of England — Central Bank independence in today's world, speech by Andrew Bailey (Zurich)",
+   "url": "https://www.bankofengland.co.uk/speech/2026/november/andrew-bailey-speech-at-swiss-institute-international-studies-lecture-series",
+   "date": "09/11/2026"
+  },
+  {
+   "title": "EIN Presswire — reprise du texte du discours de Bailey (publié 17h25 UTC)",
+   "url": "https://www.einpresswire.com/article/955625614/central-bank-independence-in-today-s-world-speech-by-andrew-bailey",
+   "date": "09/11/2026"
+  },
+  {
+   "title": "EconoTimes — Bailey Sees AI Aiding UK Activity, Flags Valuation Risks",
+   "url": "https://econotimes.com/Bank-of-England-Governor-Andrew-Bailey-Sees-AI-Aiding-UK-Activity-Flags-Valuation-Risks-1773985",
+   "date": "09/11/2026"
+  },
+  {
+   "title": "Tradingpedia — Sterling Edges Up as Hawkish BoE Counters Strong US Data",
+   "url": "https://www.tradingpedia.com/2026/11/09/sterling-edges-up-as-hawkish-boe-counters-strong-us-data/",
+   "date": "09/11/2026"
+  },
+  {
+   "title": "Alpha Vantage — CURRENCY_EXCHANGE_RATE GBPUSD 1,34484",
+   "url": "https://www.alphavantage.co/documentation/",
+   "date": "09/11/2026 20h44 UTC"
+  },
+  {
+   "title": "Myfxbook — Community Outlook (lu, rejeté : prix affichés incohérents avec le marché)",
+   "url": "https://www.myfxbook.com/de/community/outlook",
+   "date": "09/11/2026 vers 21h40"
+  }
+ ]
+}
